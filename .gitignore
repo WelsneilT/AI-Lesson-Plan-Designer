@@ -1,0 +1,17 @@
+# Môi trường ảo
+plan_venv/
+venv/
+.venv/
+env/
+.env
+
+# File tạm của Python
+__pycache__/
+*.pyc
+
+# File của VS Code
+.vscode/
+
+# Kho tri thức (file lớn, không nên đưa lên Git)
+vector_store/
+temp_extracted_text.txt

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>AI Lesson Plan Generator</title>
+    <style>
+        body { font-family: sans-serif; margin: 2em; }
+        textarea { width: 100%; box-sizing: border-box; }
+        button { padding: 10px 15px; cursor: pointer; }
+        .result { border: 1px solid #ccc; padding: 1em; margin-top: 1em; white-space: pre-wrap; }
+    </style>
+</head>
+<body>
+    <h1>Trợ lý Thiết kế Giáo án AI</h1>
+    <p>Nhập yêu cầu của bạn để AI thiết kế một giáo án phù hợp với mục tiêu học tập.</p>
+    <form method="post">
+        {% csrf_token %}
+        <textarea name="user_request" rows="6" cols="60" placeholder="Ví dụ: Tạo giúp tôi giáo án cho học sinh Lớp 9. Mục tiêu là các em có thể phân tích được nguyên nhân và hậu quả của Chiến tranh Thế giới thứ nhất."></textarea>
+        <br><br>
+        <button type="submit">Bắt đầu Thiết kế</button>
+    </form>
+
+    {% if final_result %}
+        <h2>Kết quả:</h2>
+        <div class="result">
+            <pre>{{ final_result }}</pre>
+        </div>
+    {% endif %}
+
+</body>
+</html>
