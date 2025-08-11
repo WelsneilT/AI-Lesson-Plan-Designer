@@ -1,0 +1,3403 @@
+=============== TRANG 2 (Hướng dẫn sử dụng sách) ===============
+
+**HƯỚNG DẪN SỬ DỤNG SÁCH**
+
+**1. Mỗi bài học được thiết kế gồm:**
+*   **Phần Định hướng:** Chỉ rõ các thuật ngữ, khái niệm và các kiến thức, kĩ năng mà các em cần chú ý trong bài học.
+*   **Phần Mở đầu:** Thường là một bài toán hay một tình huống có liên quan đến nội dung mới của bài học.
+*   **Phần Hình thành kiến thức mới:** Gồm các hoạt động Tìm tòi – Khám phá và Đọc hiểu – Nghe hiểu cùng với Chú ý hay Nhận xét.
+*   Kiến thức trọng tâm được đặt trong khung màu vàng.
+*   **Câu hỏi (?)** giúp đánh giá kết quả sau hoạt động Đọc hiểu – Nghe hiểu.
+*   **Phần Luyện tập và củng cố:** Gồm Ví dụ, Luyện tập, Thực hành để hình thành và phát triển các kĩ năng gắn với kiến thức mới vừa học.
+*   **Phần Vận dụng:** Gồm các hoạt động Vận dụng, Tranh luận và Thử thách nhỏ để giải quyết các tình huống, vấn đề trong thực tiễn và mở rộng kiến thức.
+
+**2. Các em sẽ được đồng hành với anh Pi, các bạn Tròn, Vuông trong các bài học để việc học hấp dẫn hơn nhé.**
+
+**3. Các em có thể tham khảo thêm mục Em có biết? để mở rộng hiểu biết của mình. Cuối sách là Bảng tra cứu thuật ngữ và Bảng giải thích thuật ngữ.**
+
+Hãy bảo quản, giữ gìn sách giáo khoa để dành tặng các em học sinh lớp sau!
+
+=============== TRANG 3 (Lời nói đầu) ===============
+
+**LỜI NÓI ĐẦU**
+
+Các em học sinh yêu quý!
+
+Trên tay các em là cuốn sách TOÁN 9 (tập một) bộ sách giáo khoa “Kết nối tri thức với cuộc sống” của Nhà xuất bản Giáo dục Việt Nam.
+
+Bộ sách TOÁN 9 gồm hai tập, được biên soạn theo định hướng phát triển phẩm chất và năng lực cho học sinh.
+
+Với thông điệp “Kết nối tri thức với cuộc sống”, các kiến thức trong sách sẽ đến với các em một cách tự nhiên, bắt nguồn từ thực tế đời sống và giúp các em biết cách giải quyết những vấn đề đặt ra trong cuộc sống.
+
+Thông điệp đó còn nhắc nhở các em thực hiện tốt lời Bác Hồ dạy: “Học đi đôi với hành”. Muốn làm được điều đó, các em vừa phải mở mang, củng cố kiến thức; vừa phải rèn luyện, nâng cao kĩ năng. Kiến thức và kĩ năng là hai nhân tố quan trọng để các em phát triển năng lực của mình.
+
+Với cách thể hiện phong phú và lôi cuốn, hình thức trình bày hấp dẫn và thân thiện, TOÁN 9 sẽ giúp các em học Toán được dễ dàng. TOÁN 9 còn là người bạn đồng hành cùng các em khám phá vẻ đẹp của Toán học, qua đó các em ngày càng yêu Toán hơn.
+
+Chúc các em học tập chăm chỉ và thành công!
+
+Các tác giả
+
+=============== TRANG 4 (Mục lục) ===============
+
+**MỤC LỤC**
+
+**TRANG**
+
+**Chương I. PHƯƠNG TRÌNH VÀ HỆ HAI PHƯƠNG TRÌNH BẬC NHẤT HAI ẨN**
+Bài 1. Khái niệm phương trình và hệ hai phương trình bậc nhất hai ẩn ... 5
+Bài 2. Giải hệ hai phương trình bậc nhất hai ẩn ... 11
+Luyện tập chung ... 19
+Bài 3. Giải bài toán bằng cách lập hệ phương trình ... 21
+Bài tập cuối chương I ... 24
+
+**Chương II. PHƯƠNG TRÌNH VÀ BẤT PHƯƠNG TRÌNH BẬC NHẤT MỘT ẨN**
+Bài 4. Phương trình quy về phương trình bậc nhất một ẩn ... 26
+Bài 5. Bất đẳng thức và tính chất ... 31
+Luyện tập chung ... 36
+Bài 6. Bất phương trình bậc nhất một ẩn ... 38
+Bài tập cuối chương II ... 42
+
+**Chương III. CĂN BẬC HAI VÀ CĂN BẬC BA**
+Bài 7. Căn bậc hai và căn thức bậc hai ... 44
+Bài 8. Khai căn bậc hai với phép nhân và phép chia ... 49
+Luyện tập chung ... 52
+Bài 9. Biến đổi đơn giản và rút gọn biểu thức chứa căn thức bậc hai ... 54
+Bài 10. Căn bậc ba và căn thức bậc ba ... 60
+Luyện tập chung ... 63
+Bài tập cuối chương III ... 65
+
+**TRANG**
+
+**Chương IV. HỆ THỨC LƯỢNG TRONG TAM GIÁC VUÔNG**
+Bài 11. Tỉ số lượng giác của góc nhọn ... 66
+Bài 12. Một số hệ thức giữa cạnh, góc trong tam giác vuông và ứng dụng ... 74
+Luyện tập chung ... 79
+Bài tập cuối chương IV ... 81
+
+**Chương V. ĐƯỜNG TRÒN**
+Bài 13. Mở đầu về đường tròn ... 83
+Bài 14. Cung và dây của một đường tròn ... 87
+Bài 15. Độ dài của cung tròn. Diện tích hình quạt tròn và hình vành khuyên ... 91
+Luyện tập chung ... 96
+Bài 16. Vị trí tương đối của đường thẳng và đường tròn ... 99
+Bài 17. Vị trí tương đối của hai đường tròn ... 104
+Luyện tập chung ... 108
+Bài tập cuối chương V ... 112
+
+**HOẠT ĐỘNG THỰC HÀNH TRẢI NGHIỆM**
+Pha chế dung dịch theo nồng độ yêu cầu ... 114
+Tính chiều cao và xác định khoảng cách ... 116
+
+**BẢNG TRA CỨU THUẬT NGỮ** ... 118
+**BẢNG GIẢI THÍCH THUẬT NGỮ** ... 119
+
+=============== TRANG 5 ===============
+
+**Chương I: PHƯƠNG TRÌNH VÀ HỆ HAI PHƯƠNG TRÌNH BẬC NHẤT HAI ẨN**
+
+**Bài 1: KHÁI NIỆM PHƯƠNG TRÌNH VÀ HỆ HAI PHƯƠNG TRÌNH BẬC NHẤT HAI ẨN**
+
+**Khái niệm, thuật ngữ**
+*   Phương trình và hệ hai phương trình bậc nhất hai ẩn
+*   Nghiệm của phương trình, hệ hai phương trình bậc nhất hai ẩn
+
+**Kiến thức, kĩ năng**
+*   Nhận biết phương trình, hệ hai phương trình bậc nhất hai ẩn.
+*   Nhận biết nghiệm của phương trình và hệ hai phương trình bậc nhất hai ẩn.
+
+Xét bài toán cổ sau:
+Quýt, cam mười bảy quả tươi
+Đem chia cho một trăm người cùng vui.
+Chia ba mỗi quả quýt rồi,
+Còn cam, mỗi quả chia mười vừa xinh.
+Trăm người, trăm miếng ngọt lành.
+Quýt, cam mỗi loại tính rành là bao?
+
+Trong bài toán này có hai đại lượng chưa biết (số cam và số quýt). Vậy ta có thể giải bài toán đó tương tự “giải bài toán bằng cách lập phương trình” được hay không? Để trả lời câu hỏi này, trước hết chúng ta cần tìm hiểu về phương trình và hệ hai phương trình bậc nhất hai ẩn.
+
+=============== TRANG 6 ===============
+
+**1. PHƯƠNG TRÌNH BẬC NHẤT HAI ẨN**
+
+**Khái niệm phương trình bậc nhất hai ẩn**
+
+Gọi x là số cam, y là số quýt (với x, y nguyên dương).
+
+**HĐ1:** Câu “Quýt, cam mười bảy quả tươi” có nghĩa là tổng số cam và số quýt là 17. Hãy viết hệ thức với hai biến x và y biểu thị giả thiết này.
+
+**HĐ2:** Tương tự, hãy viết hệ thức với hai biến x và y biểu thị giả thiết cho bởi các câu thơ thứ ba, thứ tư và thứ năm.
+
+Các hệ thức nhận được trong HĐ1, HĐ2 là những ví dụ về phương trình bậc nhất hai ẩn.
+
+*   Phương trình bậc nhất hai ẩn x và y là hệ thức dạng
+    $ax + by = c$, (1)
+    trong đó a, b và c là các số đã biết ($a \neq 0$ hoặc $b \neq 0$).
+*   Nếu tại $x = x_0$ và $y = y_0$ ta có $ax_0 + by_0 = c$ là một khẳng định đúng thì cặp số $(x_0; y_0)$ được gọi là một **nghiệm** của phương trình (1).
+
+**Ví dụ 1**
+a) Trong các hệ thức $4x + 3y = 5$; $0x + y = -1$; $0x + 0y = 3$, hệ thức nào là phương trình bậc nhất hai ẩn? Hệ thức nào không là phương trình bậc nhất hai ẩn?
+b) Trong các cặp số $(2; -1)$ và $(1; 0)$, cặp số nào là nghiệm của phương trình $4x + 3y = 5$?
+
+**Giải**
+a) Cả ba hệ thức đều có dạng $ax + by = c$. Nhưng chỉ có hai hệ thức $4x + 3y = 5$ và $0x + y = -1$ thoả mãn điều kiện $a \neq 0$ hoặc $b \neq 0$ nên là phương trình bậc nhất hai ẩn.
+Hệ thức $0x + 0y = 3$ có $a = b = 0$, không thoả mãn điều kiện trên nên hệ thức đó không phải là phương trình bậc nhất hai ẩn.
+b) Cặp số $(2; -1)$ là một nghiệm của phương trình $4x + 3y = 5$, vì $4 \cdot 2 + 3 \cdot (-1) = 5$.
+Cặp số $(1; 0)$ không là nghiệm của phương trình $4x + 3y = 5$, vì $4 \cdot 1 + 3 \cdot 0 = 4 \neq 5$.
+
+**Luyện tập 1**
+Hãy viết một phương trình bậc nhất hai ẩn và chỉ ra một nghiệm của nó.
+
+=============== TRANG 7 ===============
+
+**Ví dụ 2** Giả sử $(x; y)$ là nghiệm của phương trình bậc nhất hai ẩn $x + 2y = 5$.
+a) Hoàn thành bảng sau đây:
+| x | -2 | -1 | 0 | 3 | 1 |
+| y | 7/2 | 3 | 5/2 | 1 | 2 |
+Từ đó suy ra 5 nghiệm của phương trình đã cho.
+b) Tính y theo x. Từ đó cho biết phương trình đã cho có bao nhiêu nghiệm?
+
+**Giải**
+a) Ta có:
+| x | -2 | -1 | 0 | 3 | 1 |
+| y | 7/2 | 3 | 5/2 | 1 | 2 |
+Vậy 5 nghiệm của phương trình đã cho là: $(-2; \frac{7}{2})$; $(-1; 3)$; $(0; \frac{5}{2})$; $(3; 1)$; $(1; 2)$.
+b) Ta có $y = \frac{5 - x}{2}$. Với mỗi giá trị x tuỳ ý cho trước, ta luôn tìm được một giá trị y tương ứng. Do đó phương trình đã cho có vô số nghiệm.
+
+**Chú ý.** Mỗi phương trình bậc nhất hai ẩn đều có vô số nghiệm. Ví dụ dưới đây trình bày cách viết các nghiệm và biểu diễn hình học tất cả các nghiệm của một phương trình bậc nhất hai ẩn.
+
+**Ví dụ 3** Viết nghiệm và biểu diễn hình học tất cả các nghiệm của mỗi phương trình bậc nhất hai ẩn sau:
+a) $x + 2y = 3$; b) $0x + y = -2$; c) $x + 0y = 3$.
+
+**Giải**
+a) Xét phương trình $x + 2y = 3$. (1)
+Ta viết (1) dưới dạng $y = -0.5x + 1.5$. Mỗi cặp số $(x; -0.5x + 1.5)$ với $x \in \mathbb{R}$ tuỳ ý, là một nghiệm của (1).
+Khi đó ta nói phương trình (1) có nghiệm (tổng quát) là: $(x; -0.5x + 1.5)$ với $x \in \mathbb{R}$ tuỳ ý.
+Mỗi nghiệm này là toạ độ của một điểm thuộc đường thẳng $y = -0.5x + 1.5$. Ta cũng gọi đường thẳng này là đường thẳng $d: x + 2y = 3$.
+Để vẽ đường thẳng $d$, ta chỉ cần xác định hai điểm tuỳ ý của nó, chẳng hạn $A(0; 1.5)$ và $B(3; 0)$ rồi vẽ đường thẳng đi qua hai điểm đó (H.1.1a).
+b) Xét phương trình $0x + y = -2$. (2)
+Ta viết gọn (2) thành $y = -2$. Phương trình (2) có nghiệm là $(x; -2)$ với $x \in \mathbb{R}$ tuỳ ý.
+
+=============== TRANG 8 ===============
+
+Mỗi nghiệm này là toạ độ của một điểm thuộc đường thẳng song song với trục hoành và cắt trục tung tại điểm $(0; -2)$. Ta gọi đó là đường thẳng $y = -2$ (H.1.1b).
+c) Xét phương trình $x + 0y = 3$. (3)
+Ta viết gọn (3) thành $x = 3$. Phương trình (3) có nghiệm là $(3; y)$ với $y \in \mathbb{R}$ tuỳ ý.
+Mỗi nghiệm này là toạ độ của một điểm thuộc đường thẳng song song với trục tung và cắt trục hoành tại điểm $(3; 0)$. Ta gọi đó là đường thẳng $x = 3$ (H.1.1c).
+
+**Nhận xét.** Trong mặt phẳng toạ độ, tập hợp các điểm có toạ độ $(x; y)$ thoả mãn phương trình bậc nhất hai ẩn $ax + by = c$ là một đường thẳng. Đường thẳng đó gọi là đường thẳng $ax + by = c$.
+
+**Luyện tập 2**
+Viết nghiệm và biểu diễn hình học tất cả các nghiệm của mỗi phương trình bậc nhất hai ẩn sau:
+a) $2x - 3y = 5$; b) $0x + y = 3$; c) $x + 0y = -2$.
+
+**2. HỆ HAI PHƯƠNG TRÌNH BẬC NHẤT HAI ẨN**
+
+**Khái niệm hệ hai phương trình bậc nhất hai ẩn và nghiệm của nó**
+Trong HĐ1 và HĐ2, bài toán mở đầu dẫn đến hai phương trình bậc nhất hai ẩn là $x + y = 17$ và $3x + 10y = 100$. Để giải bài toán, ta cần tìm các giá trị của x và y đồng thời thoả mãn cả hai phương trình này. Khi đó ta có hệ phương trình
+$\begin{cases} x + y = 17 \\ 3x + 10y = 100 \end{cases}$.
+Một cách tổng quát ta có khái niệm sau:
+
+1. Một cặp gồm hai phương trình bậc nhất hai ẩn $ax + by = c$ và $a'x + b'y = c'$ được gọi là một **hệ hai phương trình bậc nhất hai ẩn**. Ta thường viết hệ phương trình đó dưới dạng:
+   $\begin{cases} ax + by = c \\ a'x + b'y = c' \end{cases} (*)$
+2. Mỗi cặp số $(x_0; y_0)$ được gọi là một **nghiệm** của hệ (*) nếu nó đồng thời là nghiệm của cả hai phương trình của hệ (*).
+
+Mỗi nghiệm của hệ (*) chính là một nghiệm chung của hai phương trình của hệ (*).
+
+=============== TRANG 9 ===============
+
+**Ví dụ 4**
+Trong các hệ phương trình sau, hệ nào không phải là hệ hai phương trình bậc nhất hai ẩn, vì sao?
+a) $\begin{cases} 2x = -6 \\ 5x + 4y = 1 \end{cases}$;
+b) $\begin{cases} x + 2y = -3 \\ 0x + 0y = 1 \end{cases}$;
+c) $\begin{cases} 3x - y = 1 \\ x + y = 3 \end{cases}$.
+
+**Giải**
+Hệ phương trình b) không phải là hệ hai phương trình bậc nhất hai ẩn, vì phương trình thứ hai của hệ là $0x + 0y = 1$ không phải là phương trình bậc nhất hai ẩn.
+
+**Ví dụ 5**
+Giải thích tại sao cặp số $(1; 2)$ là một nghiệm của hệ phương trình $\begin{cases} 2x - y = 0 \\ x + y = 3 \end{cases}$.
+
+**Giải**
+Ta thấy khi $x = 1$ và $y = 2$ thì:
+*   $2x - y = 2 \cdot 1 - 2 = 0$ nên $(1; 2)$ là nghiệm của phương trình thứ nhất;
+*   $x + y = 1 + 2 = 3$ nên $(1; 2)$ là nghiệm của phương trình thứ hai.
+Vậy $(1; 2)$ là nghiệm chung của hai phương trình, nghĩa là $(1; 2)$ là một nghiệm của hệ phương trình đã cho.
+
+**Chú ý**
+Trong Ví dụ 5, cặp số $(1; 2)$ là nghiệm của hệ phương trình đã cho có nghĩa là điểm $M(1; 2)$ vừa thuộc đường thẳng $d_1: 2x - y = 0$, vừa thuộc đường thẳng $d_2: x + y = 3$. Vậy M là giao điểm của hai đường thẳng $d_1$ và $d_2$ (H.1.2).
+
+**Luyện tập 3**
+Trong hai cặp số $(0; -2)$ và $(2; -1)$, cặp số nào là nghiệm của hệ phương trình $\begin{cases} x - 2y = 4 \\ 4x + 3y = 5 \end{cases}$?
+
+**Vận dụng**
+Xét bài toán cổ trong Tình huống mở đầu. Gọi x là số cam, y là số quýt cần tính ($x, y \in \mathbb{N}^*$), ta có hệ phương trình bậc nhất hai ẩn sau:
+$\begin{cases} x + y = 17 \\ 10x + 3y = 100 \end{cases}$
+
+=============== TRANG 10 ===============
+
+Trong hai cặp số $(10; 7)$ và $(7; 10)$, cặp số nào là nghiệm của hệ phương trình trên? Từ đó cho biết một phương án về số cam và số quýt thoả mãn yêu cầu của bài toán cổ.
+
+**BÀI TẬP**
+
+**1.1.** Phương trình nào sau đây là phương trình bậc nhất hai ẩn, vì sao?
+a) $5x - 8y = 0$; b) $4x + 0y = -2$; c) $0x + 0y = 1$; d) $0x - 3y = 9$.
+
+**1.2.** a) Tìm giá trị thích hợp thay cho dấu "?" trong bảng sau rồi cho biết 6 nghiệm của phương trình $2x - y = 1$:
+| x | -1 | -0,5 | 0 | 0,5 | 1 | 2 |
+| y = 2x - 1 | ? | ? | ? | ? | ? | ? |
+b) Viết nghiệm tổng quát của phương trình đã cho.
+
+**1.3.** Viết nghiệm và biểu diễn hình học tất cả các nghiệm của mỗi phương trình bậc nhất hai ẩn sau:
+a) $2x - y = 3$; b) $0x + 2y = -4$; c) $3x + 0y = 5$.
+
+**1.4.** a) Hệ phương trình $\begin{cases} 2x = -6 \\ 5x + 4y = 1 \end{cases}$ có là một hệ hai phương trình bậc nhất hai ẩn không, vì sao?
+b) Cặp số $(-3; 4)$ có là một nghiệm của hệ phương trình đó hay không, vì sao?
+
+**1.5.** Cho các cặp số $(-2; 1), (0; 2), (1; 0), (1,5; 3), (4; -3)$ và hai phương trình
+$5x + 4y = 8, (1)$
+$3x + 5y = -3. (2)$
+Trong các cặp số đã cho:
+a) Những cặp số nào là nghiệm của phương trình (1)?
+b) Cặp số nào là nghiệm của hệ hai phương trình gồm (1) và (2)?
+c) Vẽ hai đường thẳng $5x + 4y = 8$ và $3x + 5y = -3$ trên cùng một mặt phẳng toạ độ để minh hoạ kết luận ở câu b.
+
+=============== TRANG 11 ===============
+
+**Bài 2: GIẢI HỆ HAI PHƯƠNG TRÌNH BẬC NHẤT HAI ẨN**
+
+**Khái niệm, thuật ngữ**
+*   Phương pháp thế
+*   Phương pháp cộng đại số
+
+**Kiến thức, kĩ năng**
+Giải hệ hai phương trình bậc nhất hai ẩn bằng phương pháp thế, phương pháp cộng đại số hoặc sử dụng máy tính cầm tay.
+
+Một mảnh vườn được đánh thành nhiều luống, mỗi luống trồng cùng một số cây cải bắp. Hãy tính số cây cải bắp được trồng trên mảnh vườn đó, biết rằng:
+- Nếu tăng thêm 8 luống, nhưng mỗi luống trồng ít đi 3 cây cải bắp thì số cải bắp của cả vườn sẽ ít đi 108 cây;
+- Nếu giảm đi 4 luống, nhưng mỗi luống trồng tăng thêm 2 cây thì số cải bắp cả vườn sẽ tăng thêm 64 cây.
+
+**1. PHƯƠNG PHÁP THẾ**
+
+**Làm quen với phương pháp thế**
+
+**HĐ1:** Cho hệ phương trình $\begin{cases} x + y = 3 \\ 2x - 3y = 1 \end{cases}$. Giải hệ phương trình theo hướng dẫn sau:
+1. Từ phương trình thứ nhất, biểu diễn y theo x rồi thế vào phương trình thứ hai để được một phương trình với một ẩn x. Giải phương trình một ẩn đó để tìm giá trị của x.
+2. Sử dụng giá trị tìm được của x để tìm giá trị của y rồi viết nghiệm của hệ phương trình đã cho.
+
+**Cách giải hệ phương trình bằng phương pháp thế:**
+**Bước 1.** Từ một phương trình của hệ, biểu diễn một ẩn theo ẩn kia rồi thế vào phương trình còn lại của hệ để được phương trình chỉ còn chứa một ẩn.
+**Bước 2.** Giải phương trình một ẩn vừa nhận được, từ đó suy ra nghiệm của hệ đã cho.
+
+**Ví dụ 1** Giải hệ phương trình $\begin{cases} y = 2x - 3 \\ x + 2y = 4 \end{cases}$ bằng phương pháp thế.
+
+**Giải**
+Từ phương trình thứ nhất của hệ ta có $y = 2x - 3$. Thế vào phương trình thứ hai của hệ, ta được $x + 2(2x - 3) = 4$ hay $5x - 6 = 4$, suy ra $x = 2$.
+Từ đó $y = 2 \cdot 2 - 3 = 1$. Vậy hệ phương trình đã cho có nghiệm là $(2; 1)$.
+
+=============== TRANG 12 ===============
+
+**Luyện tập 1**
+Giải các hệ phương trình sau bằng phương pháp thế:
+a) $\begin{cases} x - 3y = 2 \\ -2x + 5y = 1 \end{cases}$;
+b) $\begin{cases} 4x + y = -1 \\ 7x + 2y = -3 \end{cases}$.
+
+**Ví dụ 2**
+Giải hệ phương trình $\begin{cases} x - y = -2 \\ 2x - 2y = 8 \end{cases}$ bằng phương pháp thế.
+
+**Giải**
+Từ phương trình thứ nhất ta có $x = y - 2$. Thế vào phương trình thứ hai, ta được $2(y - 2) - 2y = 8$ hay $0y - 4 = 8$. (1)
+Do không có giá trị nào của y thoả mãn hệ thức (1) nên hệ phương trình đã cho vô nghiệm.
+
+**Luyện tập 2**
+Giải hệ phương trình $\begin{cases} -2x + y = 3 \\ 4x - 2y = -4 \end{cases}$ bằng phương pháp thế.
+
+**Ví dụ 3**
+Giải hệ phương trình $\begin{cases} -x + y = -2 \\ 3x - 3y = 6 \end{cases}$ bằng phương pháp thế.
+
+**Giải**
+Từ phương trình thứ nhất ta có $y = x - 2$. (2)
+Thế vào phương trình thứ hai, ta được $3x - 3(x - 2) = 6$ hay $0x = 0$. (3)
+Ta thấy mọi giá trị của x đều thoả mãn (3).
+Với giá trị tuỳ ý của x, giá trị tương ứng của y được tính bởi (2).
+Vậy hệ phương trình đã cho có nghiệm là $(x; x - 2)$ với $x \in \mathbb{R}$ tuỳ ý.
+
+**Luyện tập 3**
+Giải hệ phương trình $\begin{cases} x + 3y = -1 \\ 3x + 9y = -3 \end{cases}$ bằng phương pháp thế.
+
+**Vận dụng 1**
+Xét bài toán trong tình huống mở đầu. Gọi x là số luống trong vườn, y là số cây cải bắp trồng ở mỗi luống ($x, y \in \mathbb{N}^*$).
+a) Lập hệ phương trình đối với hai ẩn x, y.
+b) Giải hệ phương trình nhận được ở câu a để tìm câu trả lời cho bài toán.
+
+=============== TRANG 13 ===============
+
+**2. PHƯƠNG PHÁP CỘNG ĐẠI SỐ**
+
+**Làm quen với phương pháp cộng đại số**
+
+**HĐ2:** Cho hệ phương trình (II) $\begin{cases} 2x + 2y = 3 \\ x - 2y = 6 \end{cases}$. Ta thấy hệ số của y trong hai phương trình là hai số đối nhau (tổng của chúng bằng 0). Từ đặc điểm đó, hãy giải hệ phương trình đã cho theo hướng dẫn sau:
+1. Cộng từng vế của hai phương trình trong hệ để được phương trình một ẩn x. Giải phương trình này để tìm x.
+2. Sử dụng giá trị x tìm được, thay vào một trong hai phương trình của hệ để tìm giá trị của y rồi viết nghiệm của hệ phương trình đã cho.
+
+**Cách giải hệ phương trình bằng phương pháp cộng đại số:**
+Để giải một hệ hai phương trình bậc nhất hai ẩn có hệ số của cùng một ẩn nào đó trong hai phương trình bằng nhau hoặc đối nhau, ta có thể làm như sau:
+**Bước 1.** Cộng hay trừ từng vế của hai phương trình trong hệ để được phương trình chỉ còn chứa một ẩn.
+**Bước 2.** Giải phương trình một ẩn vừa nhận được, từ đó suy ra nghiệm của hệ phương trình đã cho.
+
+**Ví dụ 4**
+Giải hệ phương trình $\begin{cases} -2x + 5y = 12 \\ 2x + 3y = 4 \end{cases}$ bằng phương pháp cộng đại số.
+
+**Giải**
+Cộng từng vế hai phương trình ta được $8y = 16$, suy ra $y = 2$.
+Thế $y = 2$ vào phương trình thứ hai ta được $2x + 3 \cdot 2 = 4$, hay $2x = -2$, suy ra $x = -1$.
+Vậy hệ phương trình đã cho có nghiệm là $(-1; 2)$.
+
+**Ví dụ 5**
+Giải hệ phương trình $\begin{cases} 5x - 7y = 9 \\ 5x - 3y = 1 \end{cases}$ bằng phương pháp cộng đại số.
+
+**Giải**
+Trừ từng vế của hai phương trình, ta được $(5x - 5x) + (-7y + 3y) = 9 - 1$ hay $-4y = 8$, suy ra $y = -2$.
+Thế $y = -2$ vào phương trình thứ nhất, ta được $5x - 7(-2) = 9$ hay $5x + 14 = 9$, suy ra $x = -1$.
+Vậy hệ phương trình đã cho có nghiệm là $(-1; -2)$.
+
+=============== TRANG 14 ===============
+
+**Luyện tập 4**
+Giải các hệ phương trình sau bằng phương pháp cộng đại số:
+a) $\begin{cases} -4x + 3y = 0 \\ 4x - 5y = -8 \end{cases}$;
+b) $\begin{cases} 4x + 3y = 0 \\ x + 3y = 9 \end{cases}$.
+
+**Chú ý.** Trường hợp trong hệ phương trình đã cho không có hai hệ số của cùng một ẩn bằng nhau hay đối nhau, ta có thể đưa về trường hợp đã xét bằng cách nhân hai vế của mỗi phương trình với một số thích hợp (khác 0).
+
+**Ví dụ 6**
+Giải hệ phương trình $\begin{cases} 3x + 2y = 7 \\ 2x - 3y = -4 \end{cases}$ bằng phương pháp cộng đại số.
+
+**Giải**
+Nhân hai vế của phương trình thứ nhất với 3 và nhân hai vế của phương trình thứ hai với 2, ta được:
+$\begin{cases} 9x + 6y = 21 \\ 4x - 6y = -8 \end{cases}$
+Cộng từng vế hai phương trình của hệ mới, ta được $13x = 13$ hay $x = 1$.
+Thế $x = 1$ vào phương trình thứ nhất của hệ đã cho, ta có $3 \cdot 1 + 2y = 7$, suy ra $y = 2$.
+Vậy hệ phương trình đã cho có nghiệm là $(1; 2)$.
+
+**Luyện tập 5**
+Giải hệ phương trình $\begin{cases} 4x + 3y = 6 \\ -5x + 2y = 4 \end{cases}$ bằng phương pháp cộng đại số.
+
+**Ví dụ 7**
+Giải hệ phương trình $\begin{cases} 3x - 5y = 2 \\ -6x + 10y = -4 \end{cases}$ bằng phương pháp cộng đại số.
+
+**Giải**
+Chia hai vế của phương trình thứ hai cho 2, ta được hệ $\begin{cases} 3x - 5y = 2 \\ -3x + 5y = -2 \end{cases}$.
+Cộng từng vế hai phương trình của hệ mới ta có $0x + 0y = 0$. Hệ thức này luôn thoả mãn với các giá trị tuỳ ý của x và y.
+Với giá trị tuỳ ý của x, giá trị của y được tính nhờ hệ thức $3x - 5y = 2$, suy ra $y = \frac{3}{5}x - \frac{2}{5}$.
+Vậy hệ phương trình đã cho có nghiệm là $(x; \frac{3}{5}x - \frac{2}{5})$ với $x \in \mathbb{R}$.
+
+**Luyện tập 6**
+Bằng phương pháp cộng đại số, giải hệ phương trình $\begin{cases} -0,5x + 0,5y = 1 \\ -2x + 2y = 8 \end{cases}$.
+
+=============== TRANG 15 ===============
+
+**3. SỬ DỤNG MÁY TÍNH CẦM TAY ĐỂ TÌM NGHIỆM CỦA HỆ HAI PHƯƠNG TRÌNH BẬC NHẤT HAI ẨN**
+
+**Cách tìm nghiệm của hệ hai phương trình bậc nhất hai ẩn bằng máy tính cầm tay**
+
+Muốn tìm nghiệm của hệ hai phương trình bậc nhất hai ẩn bằng máy tính cầm tay (MTCT), chúng ta cần sử dụng loại máy có chức năng này (thường có phím MODE).
+Trước hết ta phải viết hệ phương trình cần tìm nghiệm dưới dạng:
+$\begin{cases} a_1x + b_1y = c_1 \\ a_2x + b_2y = c_2 \end{cases}$.
+
+Chẳng hạn để tìm nghiệm của hệ $\begin{cases} 2x + 3y - 4 = 0 \\ 5x + 6y - 7 = 0 \end{cases}$, ta viết nó dưới dạng $\begin{cases} 2x + 3y = 4 \\ 5x + 6y = 7 \end{cases}$.
+Khi đó, ta có $a_1 = 2, b_1 = 3, c_1 = 4; a_2 = 5, b_2 = 6$ và $c_2 = 7$. Lần lượt thực hiện các bước sau (với máy tính thích hợp):
+**Bước 1.** Vào chức năng giải hệ hai phương trình bậc nhất hai ẩn bằng cách nhấn các phím MODE 5 1 (xem màn hình sau bước 1, con trỏ ở vị trí $a_1$).
+**Bước 2.** Nhập các số $a_1 = 2, b_1 = 3, c_1 = 4; a_2 = 5, b_2 = 6$ và $c_2 = 7$ bằng cách nhấn:
+2 = 3 = 4 = 5 = 6 = 7 = (xem màn hình sau bước 2).
+**Bước 3.** Đọc kết quả: Sau khi kết thúc bước 2, nhấn =, màn hình cho $x = -1$; nhấn tiếp phím =, màn hình cho $y = 2$ (xem màn hình sau bước 3). Ta hiểu nghiệm của hệ phương trình là $(-1; 2)$.
+
+**Chú ý**
+1. Muốn xoá số vừa mới nhập thì nhấn phím AC; muốn thay đổi số đã nhập ở một vị trí nào đó thì di chuyển con trỏ đến vị trí đó rồi nhập số mới.
+2. Nhấn phím ▲ hay ▼ để chuyển đổi hiển thị các giá trị của x và y trong kết quả.
+3. Nếu máy báo “Infinite Sol” thì hệ phương trình đã cho có vô số nghiệm. Nếu máy báo “No-Solution” thì hệ phương trình đã cho vô nghiệm.
+
+**Thực hành** Dùng MTCT thích hợp để tìm nghiệm của các hệ phương trình sau:
+a) $\begin{cases} 2x + 3y = -4 \\ -3x - 7y = 13 \end{cases}$
+b) $\begin{cases} 2x + 3y = 1 \\ -x - 1,5y = 1 \end{cases}$
+c) $\begin{cases} 8x - 2y - 6 = 0 \\ 4x - y - 3 = 0 \end{cases}$
+
+=============== TRANG 16 ===============
+
+**Vận dụng 2**
+
+Thực hiện lần lượt các yêu cầu sau để tính số mililít dung dịch acid HCl nồng độ 20% và số mililít dung dịch acid HCl nồng độ 5% cần dùng để pha chế 2 lít dung dịch acid HCl nồng độ 10%.
+a) Gọi x là số mililít dung dịch acid HCl nồng độ 20%, y là số mililít dung dịch acid HCl nồng độ 5% cần lấy. Hãy biểu thị qua x và y:
+- Thể tích của dung dịch acid HCl 10% nhận được sau khi trộn lẫn hai dung dịch acid ban đầu.
+- Tổng số gam acid HCl nguyên chất có trong hai dung dịch acid này.
+b) Sử dụng kết quả ở câu a, hãy lập một hệ hai phương trình bậc nhất với hai ẩn là x, y. Giải hệ phương trình này để tính số mililít cần lấy của mỗi dung dịch acid HCl ở trên.
+
+**BÀI TẬP**
+
+**1.6.** Giải các hệ phương trình sau bằng phương pháp thế:
+a) $\begin{cases} x - y = 3 \\ 3x - 4y = 2 \end{cases}$
+b) $\begin{cases} 7x - 3y = 13 \\ 4x + y = 2 \end{cases}$
+c) $\begin{cases} 0,5x - 1,5y = 1 \\ -x + 3y = 2 \end{cases}$
+
+**1.7.** Giải các hệ phương trình sau bằng phương pháp cộng đại số:
+a) $\begin{cases} 3x + 2y = 6 \\ 2x - 2y = 14 \end{cases}$
+b) $\begin{cases} 0,3x + 0,5y = 3 \\ 1,5x - 2y = 1,5 \end{cases}$
+c) $\begin{cases} -2x + 6y = 8 \\ 3x - 9y = -12 \end{cases}$
+
+**1.8.** Cho hệ phương trình $\begin{cases} 2x - y = -3 \\ -2m^2x + 9y = 3(m+3) \end{cases}$, trong đó m là số đã cho. Giải hệ phương trình trong mỗi trường hợp sau:
+a) $m = -2$; b) $m = -3$; c) $m = 3$.
+
+**1.9.** Dùng MTCT thích hợp để tìm nghiệm của các hệ phương trình sau:
+a) $\begin{cases} 12x - 5y + 24 = 0 \\ -5x - 3y - 10 = 0 \end{cases}$
+b) $\begin{cases} \frac{1}{2}x - \frac{2}{3}y = -3 \\ x - 3y = 2 \end{cases}$
+c) $\begin{cases} 3x - 2y = 1 \\ -x + \frac{2}{3}y = 0 \end{cases}$
+d) $\begin{cases} \frac{4}{9}x - \frac{3}{5}y = 11 \\ \frac{2}{9}x + \frac{1}{5}y = -2 \end{cases}$
+
+=============== TRANG 17 ===============
+
+**EM CÓ BIẾT? (Đọc thêm)**
+
+**Giải hệ hai phương trình bậc nhất hai ẩn bằng phương pháp hình học**
+
+**1. Đường thẳng $ax + by = c$**
+Ta đã biết một phương trình bậc nhất hai ẩn luôn có vô số nghiệm; mỗi nghiệm là một cặp số $(x_0; y_0)$; mỗi cặp số lại có thể xem là toạ độ của một điểm trên mặt phẳng toạ độ Oxy. Vậy trên mặt phẳng toạ độ, các điểm mà toạ độ của chúng là các nghiệm của một phương trình bậc nhất hai ẩn có quan hệ với nhau như thế nào?
+Người ta đã chứng minh được rằng: Trong mặt phẳng toạ độ Oxy, tập hợp tất cả các điểm có toạ độ thoả mãn phương trình bậc nhất hai ẩn $ax + by = c$ tạo nên một đường thẳng. Đường thẳng đó gọi là đường thẳng $ax + by = c$. Nếu kí hiệu đường thẳng đó là $\Delta$ thì ta viết $\Delta: ax + by = c$.
+*   Khi $a \neq 0$ và $b \neq 0$, đường thẳng $\Delta$ trùng với đồ thị hàm số $y = -\frac{a}{b}x + \frac{c}{b}$.
+*   Khi $a = 0$ và $b \neq 0$, phương trình $ax + by = c$ có thể đưa về dạng $y = m$ (với $m = \frac{c}{b}$). $\Delta$ là đường thẳng song song với trục hoành và cắt trục tung tại điểm $(0; m)$;
+*   Khi $a \neq 0$ và $b = 0$, phương trình $ax + by = c$ có thể đưa về dạng $x = n$ (với $n = \frac{c}{a}$). $\Delta$ là đường thẳng song song với trục tung và cắt trục hoành tại điểm $(n; 0)$.
+Dưới đây là một số ví dụ (Hình 1.3a, b, c):
+
+**2. Giải hệ hai phương trình bậc nhất hai ẩn bằng hình học**
+Ta đã biết, mỗi nghiệm của hệ phương trình bậc nhất hai ẩn
+$\begin{cases} ax + by = c \\ a'x + b'y = c' \end{cases} (*)$
+là một nghiệm chung của hai phương trình trong (*). Nghiệm chung ấy tương ứng với điểm chung của hai đường thẳng $\Delta: ax + by = c$ và $\Delta': a'x + b'y = c'$ tức là giao điểm của $\Delta$ và $\Delta'$. Do đó ta có thể giải hệ (*) bằng cách vẽ hai đường thẳng $\Delta$ và $\Delta'$ rồi tìm toạ độ điểm chung của chúng.
+Từ đó, ta thấy chỉ có thể xảy ra 3 trường hợp:
+1) $\Delta$ và $\Delta'$ cắt nhau (có một điểm chung). Hệ (*) có một nghiệm duy nhất.
+2) $\Delta$ và $\Delta'$ song song với nhau (không có điểm chung). Hệ (*) vô nghiệm.
+3) $\Delta$ và $\Delta'$ trùng nhau (mỗi điểm của $\Delta$ đều là điểm chung). Hệ (*) có vô số nghiệm.
+
+=============== TRANG 18 ===============
+
+**Ví dụ 1**
+Giải hệ phương trình $\begin{cases} 2x - y = 3 \\ x + 2y = 4 \end{cases}$.
+Ta làm như sau (H.1.4):
+- Vẽ đường thẳng $2x - y = 3$ qua hai điểm $A(0; -3)$ và $B(1; -1)$.
+- Vẽ đường thẳng $x + 2y = 4$ qua hai điểm $C(0; 2)$ và $D(4; 0)$.
+Hai đường thẳng cắt nhau tại $M(2; 1)$ nên $(2; 1)$ là nghiệm duy nhất của hệ đã cho.
+
+**Ví dụ 2**
+Xét hệ phương trình $\begin{cases} -x + y = 2 \\ -2x + 2y = 8 \end{cases}$.
+Ta thấy đường thẳng $d_1: -x + y = 2$ là đồ thị của hàm số $y = x + 2$.
+Đường thẳng $d_2: -2x + 2y = 8$ là đồ thị của hàm số $y = x + 4$ (H.1.5).
+Hai đường thẳng $d_1, d_2$ phân biệt và có cùng hệ số góc là 1 nên chúng song song với nhau.
+Do đó, hệ phương trình đã cho vô nghiệm.
+
+**Ví dụ 3**
+Xét hệ phương trình $\begin{cases} -x + y = 2 \\ -2x + 2y = 4 \end{cases}$.
+Ta thấy hai đường thẳng $-x + y = 2$ và $-2x + 2y = 4$ cùng là đồ thị của hàm số $y = x + 2$ nên chúng trùng nhau. Vậy hệ phương trình đã cho có vô số nghiệm.
+
+=============== TRANG 19 ===============
+
+**LUYỆN TẬP CHUNG**
+
+**Ví dụ 1**
+Giải hệ phương trình $\begin{cases} 0,5x + 0,6y = 0,4 \\ 0,4x - 0,9y = 1,7 \end{cases}$.
+
+**Giải**
+Nhân hai vế của mỗi phương trình với 10, ta được:
+$\begin{cases} 5x + 6y = 4 \\ 4x - 9y = 17 \end{cases}$ (1)
+Ta giải hệ (1). Nhân hai vế của phương trình thứ nhất với 3 và nhân hai vế của phương trình thứ hai với 2, ta được hệ:
+$\begin{cases} 15x + 18y = 12 \\ 8x - 18y = 34 \end{cases}$ (2)
+Cộng từng vế của hai phương trình của hệ (2) ta được $23x = 46$, suy ra $x = 2$.
+Thế $x = 2$ vào phương trình thứ nhất của (1), ta được $5 \cdot 2 + 6y = 4$ hay $6y = -6$, suy ra $y = -1$.
+Vậy hệ phương trình đã cho có nghiệm là $(2; -1)$.
+
+**Ví dụ 2**
+Tìm các hệ số x, y trong phản ứng hoá học đã được cân bằng sau:
+$3Fe + xO_2 \rightarrow yFe_3O_4$.
+
+**Giải**
+Vì số nguyên tử của Fe và O ở cả hai vế của phương trình phản ứng phải bằng nhau nên ta có hệ phương trình $\begin{cases} 3 = 3y \\ 2x = 4y \end{cases}$ hay $\begin{cases} y = 1 \\ x = 2y \end{cases}$.
+Giải hệ này ta được $x = 2, y = 1$.
+
+**Ví dụ 3**
+Tìm hai số a và b để đường thẳng $y = ax + b$ đi qua hai điểm $A(-2; -1)$ và $B(2; 3)$.
+
+**Giải**
+Đường thẳng $y = ax + b$ đi qua điểm $A(-2; -1)$ nên $a(-2) + b = -1$ hay $-2a + b = -1$.
+Tương tự, đường thẳng $y = ax + b$ đi qua điểm $B(2; 3)$ nên $a \cdot 2 + b = 3$ hay $2a + b = 3$.
+
+=============== TRANG 20 ===============
+
+Từ đó, ta có hệ phương trình với hai ẩn là a và b:
+$\begin{cases} -2a + b = -1 \\ 2a + b = 3 \end{cases}$.
+Cộng từng vế hai phương trình của hệ, ta được $2b = 2$, suy ra $b = 1$.
+Thay $b = 1$ vào phương trình thứ nhất, ta có $-2a + 1 = -1$, suy ra $a = 1$.
+Vậy ta có đường thẳng $y = x + 1$.
+
+**BÀI TẬP**
+
+**1.10.** Cho hai phương trình:
+$-2x + 5y = 7; (1)$
+$4x - 3y = 7. (2)$
+Trong các cặp số $(2; 0), (1; -1), (-1; 1), (-1; 6), (4; 3)$ và $(-2; -5)$, cặp số nào là:
+a) Nghiệm của phương trình (1)?
+b) Nghiệm của phương trình (2)?
+c) Nghiệm của hệ gồm phương trình (1) và phương trình (2)?
+
+**1.11.** Giải các hệ phương trình sau bằng phương pháp thế:
+a) $\begin{cases} 2x - y = 1 \\ x - 2y = -1 \end{cases}$
+b) $\begin{cases} 0,5x - 0,5y = 0,5 \\ 1,2x - 1,2y = 1,2 \end{cases}$
+c) $\begin{cases} x + 3y = -2 \\ 5x - 4y = 28 \end{cases}$
+
+**1.12.** Giải các hệ phương trình sau bằng phương pháp cộng đại số:
+a) $\begin{cases} 5x + 7y = -1 \\ 3x + 2y = -5 \end{cases}$
+b) $\begin{cases} 2x - 3y = 11 \\ -0,8x + 1,2y = 1 \end{cases}$
+c) $\begin{cases} 4x - 3y = 6 \\ 0,4x + 0,2y = 0,8 \end{cases}$
+
+**1.13.** Tìm các hệ số x, y trong phản ứng hoá học đã được cân bằng sau:
+$4Al + xO_2 \rightarrow yAl_2O_3$.
+
+**1.14.** Tìm a và b sao cho hệ phương trình $\begin{cases} ax + by = 1 \\ ax + (b-2)y = 3 \end{cases}$ có nghiệm là $(1; -2)$.```
+
+=============== TRANG 21 ===============
+
+**Bài 3: GIẢI BÀI TOÁN BẰNG CÁCH LẬP HỆ PHƯƠNG TRÌNH**
+
+**Kiến thức, kĩ năng**
+Giải một số bài toán bằng cách lập hệ phương trình bậc nhất hai ẩn.
+
+**Bài toán.** Một vật có khối lượng 124 g và thể tích 15 cm³ là hợp kim của đồng và kẽm. Tính xem trong đó có bao nhiêu gam đồng và bao nhiêu gam kẽm, biết rằng 1 cm³ đồng nặng 8,9 g và 1 cm³ kẽm nặng 7 g.
+
+**Giải bài toán bằng cách lập hệ phương trình**
+Xét bài toán ở Tình huống mở đầu. Gọi x là số gam đồng, y là số gam kẽm cần tính.
+**HĐ1** Biểu thị khối lượng của vật qua x và y.
+**HĐ2** Biểu thị thể tích của vật qua x và y.
+**HĐ3** Giải hệ gồm hai phương trình bậc nhất hai ẩn x, y nhận được ở HĐ1 và HĐ2. Từ đó trả lời câu hỏi ở Tình huống mở đầu.
+
+**Nhận xét.** các bước giải một bài toán bằng cách lập hệ phương trình:
+**Bước 1.** Lập hệ phương trình:
+- Chọn ẩn số (thường chọn hai ẩn số) và đặt điều kiện thích hợp cho các ẩn số;
+- Biểu diễn các đại lượng chưa biết theo ẩn và các đại lượng đã biết;
+- Lập hệ phương trình biểu thị mối quan hệ giữa các đại lượng.
+**Bước 2.** Giải hệ phương trình.
+**Bước 3.** Trả lời: Kiểm tra xem trong các nghiệm tìm được của hệ phương trình, nghiệm nào thoả mãn, nghiệm nào không thoả mãn điều kiện của ẩn, rồi kết luận.
+
+**Ví dụ 1**
+Tìm hai số tự nhiên có tổng bằng 1006, biết rằng nếu lấy số lớn chia cho số nhỏ thì được thương là 2 và số dư là 124.
+
+*   **Giải**
+    Gọi hai số cần tìm là x và y, trong đó $x < y$. Số dư trong phép chia y cho x là 124 nên $x > 124$. Vậy điều kiện của hai ẩn là $x, y \in \mathbb{N}$ và $124 < x < y$.
+    Tổng hai số bằng 1006 nên ta có phương trình $x + y = 1006$.
+    Khi chia y cho x ta được thương là 2, dư 124 nên ta có phương trình $y = 2x + 124$.
+    Do đó, ta có hệ phương trình $\begin{cases} x + y = 1006 & (1) \\ y = 2x + 124 & (2) \end{cases}$
+
+=============== TRANG 22 ===============
+
+*   **Giải hệ phương trình:**
+    Từ (2) thế y = $2x + 124$ vào (1), ta được $x + 2x + 124 = 1006$ hay $3x = 882$, suy ra $x = 294$.
+    Từ đó ta được $y = 2 \cdot 294 + 124 = 712$.
+*   Các giá trị $x = 294$ và $y = 712$ thoả mãn các điều kiện của ẩn.
+    Vậy hai số cần tìm là 294 và 712.
+
+**Luyện tập 1**
+Một chiếc xe khách đi từ Thành phố Hồ Chí Minh đến Cần Thơ, quãng đường dài 170 km. Sau khi xe khách xuất phát 1 giờ 40 phút, một chiếc xe tải bắt đầu đi từ Cần Thơ về Thành phố Hồ Chí Minh và gặp xe khách sau đó 40 phút. Tính vận tốc của mỗi xe, biết rằng mỗi giờ xe khách đi nhanh hơn xe tải 15 km.
+
+**Hướng dẫn.** Gọi $x$ (km/h) là vận tốc của xe khách và $y$ (km/h) là vận tốc xe tải ($x, y > 0$). Chú ý rằng hai xe (đi ngược chiều) gặp nhau khi tổng quãng đường hai xe đã đi bằng 170 km.
+
+**Ví dụ 2**
+Hai đội công nhân cùng làm một đoạn đường trong 24 ngày thì xong. Mỗi ngày, đội I làm được nhiều gấp rưỡi đội II. Hỏi nếu làm một mình thì mỗi đội làm xong đoạn đường đó trong bao lâu? (Giả sử năng suất của mỗi đội là không đổi).
+
+*   **Giải**
+    Gọi x là số ngày để đội I hoàn thành công việc nếu làm riêng một mình; y là số ngày để đội II hoàn thành công việc nếu làm riêng một mình. Điều kiện: $x > 0$ và $y > 0$.
+    Mỗi ngày đội I làm được $\frac{1}{x}$ (công việc) và đội II làm được $\frac{1}{y}$ (công việc).
+    Mỗi ngày đội I làm được nhiều gấp rưỡi đội II nên ta có phương trình $\frac{1}{x} = 1,5 \cdot \frac{1}{y}$ hay $\frac{1}{x} = \frac{3}{2} \frac{1}{y}$ (1).
+    Hai đội làm chung trong 24 ngày thì xong công việc nên mỗi ngày, hai đội làm chung được $\frac{1}{24}$ (công việc). Ta có phương trình $\frac{1}{x} + \frac{1}{y} = \frac{1}{24}$ (2).
+    Từ (1) và (2), ta có hệ phương trình (I) $\begin{cases} \frac{1}{x} = \frac{3}{2} \frac{1}{y} \\ \frac{1}{x} + \frac{1}{y} = \frac{1}{24} \end{cases}$.
+*   Nếu đặt $u = \frac{1}{x}$ và $v = \frac{1}{y}$ thì ta có hệ phương trình bậc nhất hai ẩn mới là u và v:
+    (II) $\begin{cases} u = \frac{3}{2}v & (3) \\ u + v = \frac{1}{24} & (4) \end{cases}$
+
+=============== TRANG 23 ===============
+
+Giải hệ (II): Thế $u = \frac{3}{2}v$ vào phương trình (4), ta được $\frac{3}{2}v + v = \frac{1}{24}$, hay $\frac{5}{2}v = \frac{1}{24}$, suy ra $v = \frac{1}{60}$. Do đó $u = \frac{3}{2} \cdot \frac{1}{60} = \frac{1}{40}$.
+Từ đó, ta có: $\frac{1}{x} = \frac{1}{40}$ suy ra $x = 40$; $\frac{1}{y} = \frac{1}{60}$ suy ra $y = 60$.
+*   Các giá trị tìm được của x và y thoả mãn điều kiện của ẩn.
+    **Trả lời.** Nếu làm một mình thì đội I làm xong đoạn đường đó trong 40 ngày, còn đội II làm xong trong 60 ngày.
+
+**Luyện tập 2**
+Nếu hai vòi nước cùng chảy vào một bể không có nước thì bể sẽ đầy trong 1 giờ 20 phút. Nếu mở riêng vòi thứ nhất trong 10 phút và vòi thứ hai trong 12 phút thì chỉ được $\frac{2}{15}$ bể nước. Hỏi nếu mở riêng từng vòi thì thời gian để mỗi vòi chảy đầy bể nước là bao nhiêu phút?
+
+**BÀI TẬP**
+
+**1.15.** Tìm số tự nhiên N có hai chữ số, biết rằng tổng của hai chữ số đó bằng 12, và nếu viết hai chữ số đó theo thứ tự ngược lại thì được một số lớn hơn N là 36 đơn vị.
+
+**1.16.** Điểm số trung bình của một vận động viên bắn súng sau 100 lần bắn là 8,69 điểm. Kết quả cụ thể được ghi trong bảng sau, trong đó có hai ô bị mờ không đọc được (đánh dấu "?"):
+| Điểm số của mỗi lần bắn | 10 | 9 | 8 | 7 | 6 |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Số lần bắn | 25 | 42 | ? | 15 | ? |
+Em hãy tìm lại các số bị mờ trong hai ô đó.
+
+**1.17.** Năm ngoái, hai đơn vị sản xuất nông nghiệp thu hoạch được 3 600 tấn thóc. Năm nay, hai đơn vị thu hoạch được 4 095 tấn thóc. Hỏi năm nay, mỗi đơn vị thu hoạch được bao nhiêu tấn thóc, biết rằng năm nay, đơn vị thứ nhất làm vượt mức 15%, đơn vị thứ hai làm vượt mức 12% so với năm ngoái?
+
+**1.18.** Hai người thợ cùng làm một công việc trong 16 giờ thì xong. Nếu người thứ nhất làm trong 3 giờ và người thứ hai làm trong 6 giờ thì chỉ hoàn thành được 25% công việc. Hỏi nếu làm riêng thì mỗi người hoàn thành công việc trong bao lâu?
+
+=============== TRANG 24 ===============
+
+**BÀI TẬP CUỐI CHƯƠNG I**
+
+**A. TRẮC NGHIỆM**
+
+**1.19.** Cặp số nào sau đây là nghiệm của hệ phương trình $\begin{cases} 5x + 7y = -1 \\ 3x + 2y = -5 \end{cases}$?
+A. $(-1; 1)$.
+B. $(-3; 2)$.
+C. $(2; -3)$.
+D. $(5; 5)$.
+
+**1.20.** Trên mặt phẳng toạ độ Oxy, cho các điểm $A(1; 2), B(5; 6), C(2; 3), D(-1; -1)$.
+Đường thẳng $4x - 3y = -1$ đi qua hai điểm nào trong các điểm đã cho?
+A. A và B;
+B. B và C;
+C. C và D;
+D. D và A.
+
+**1.21.** Hệ phương trình $\begin{cases} 1,5x - 0,6y = 0,3 \\ -2x + y = -2 \end{cases}$
+A. Có nghiệm là $(0; -0,5)$.
+B. Có nghiệm là $(1; 0)$.
+C. Có nghiệm là $(-3; -8)$.
+D. Vô nghiệm.
+
+**1.22.** Hệ phương trình $\begin{cases} 0,6x + 0,3y = 1,8 \\ 2x + y = 6 \end{cases}$
+A. Có một nghiệm.
+B. Vô nghiệm.
+C. Có vô số nghiệm.
+D. Có hai nghiệm.
+
+**B. TỰ LUẬN**
+
+**1.23.** Giải các hệ phương trình:
+a) $\begin{cases} 2x + 5y = 10 \\ \frac{2}{5}x + y = 1 \end{cases}$
+b) $\begin{cases} 0,2x + 0,1y = 0,3 \\ 3x + y = 5 \end{cases}$
+c) $\begin{cases} \frac{3}{2}x - y = \frac{1}{2} \\ 6x - 4y = 2 \end{cases}$
+
+**1.24.** Giải các hệ phương trình:
+a) $\begin{cases} 0,5x + 2y = -2,5 \\ 0,7x - 3y = 8,1 \end{cases}$
+b) $\begin{cases} 5x - 3y = -2 \\ 14x + 8y = 19 \end{cases}$
+c) $\begin{cases} 2(x - 2) + 3(1 + y) = -2 \\ 3(x - 2) - 2(1 + y) = -3 \end{cases}$
+
+=============== TRANG 25 ===============
+
+**1.25.** Tìm số tự nhiên N có hai chữ số, biết rằng nếu viết thêm chữ số 3 vào giữa hai chữ số của số N thì được một số lớn hơn $2N$ là 585 đơn vị, và nếu viết hai chữ số của số N theo thứ tự ngược lại thì được một số nhỏ hơn số N là 18 đơn vị.
+
+**1.26.** Trên cánh đồng có diện tích 160 ha của một đơn vị sản xuất, người ta dành 60 ha để cấy thí điểm giống lúa mới, còn lại vẫn cấy giống lúa cũ. Khi thu hoạch, đầu tiên người ta gặt 8 ha giống lúa cũ và 7 ha giống lúa mới để đối chứng. Kết quả là 7 ha giống lúa mới cho thu hoạch nhiều hơn 8 ha giống lúa cũ là 2 tấn thóc. Biết rằng tổng số thóc (cả hai giống) thu hoạch cả vụ trên 160 ha là 860 tấn. Hỏi năng suất của mỗi giống lúa trên 1 ha là bao nhiêu tấn thóc?
+
+**1.27.** Hai vật chuyển động đều trên một đường tròn đường kính 20 cm, xuất phát cùng một lúc, từ cùng một điểm. Nếu chuyển động ngược chiều thì cứ sau 4 giây chúng lại gặp nhau. Nếu chuyển động cùng chiều thì cứ 20 giây chúng lại gặp nhau. Tính vận tốc (cm/s) của mỗi vật.
+
+**1.28.** Một người mua hai loại hàng và phải trả tổng cộng là 21,7 triệu đồng, kể cả thuế giá trị gia tăng (VAT) với mức 10% đối với loại hàng thứ nhất và 8% đối với loại hàng thứ hai. Nếu thuế VAT là 9% đối với cả hai loại hàng thì người đó phải trả tổng cộng 21,8 triệu đồng. Hỏi nếu không kể thuế VAT thì người đó phải trả bao nhiêu tiền cho mỗi loại hàng?
+
+=============== TRANG 26 ===============
+
+**Chương II: PHƯƠNG TRÌNH VÀ BẤT PHƯƠNG TRÌNH BẬC NHẤT MỘT ẨN**
+
+**Bài 4: PHƯƠNG TRÌNH QUY VỀ PHƯƠNG TRÌNH BẬC NHẤT MỘT ẨN**
+
+**Khái niệm, thuật ngữ**
+*   Phương trình tích
+*   Phương trình chứa ẩn ở mẫu
+
+**Kiến thức, kĩ năng**
+*   Giải phương trình tích có dạng $(ax + b)(cx + d) = 0$.
+*   Giải phương trình chứa ẩn ở mẫu quy về phương trình bậc nhất.
+
+Trong một khu vườn hình vuông có cạnh bằng 15 m người ta làm một lối đi xung quanh vườn có bề rộng là x (m) (H.2.1). Để diện tích phần đất còn lại là 169 m² thì bề rộng x của lối đi là bao nhiêu?
+
+=============== TRANG 27 ===============
+
+**1. PHƯƠNG TRÌNH TÍCH**
+
+**Phương trình tích**
+**HĐ1** Phân tích đa thức $P(x) = (x + 1)(2x - 1) + (x + 1)x$ thành nhân tử.
+**HĐ2** Giải phương trình $P(x) = 0$.
+
+Để giải phương trình tích $(ax + b)(cx + d) = 0$, ta giải hai phương trình $ax + b = 0$ và $cx + d = 0$. Sau đó lấy tất cả các nghiệm của chúng.
+
+**Ví dụ 1**
+Giải phương trình $(2x + 1)(3x - 1) = 0$.
+
+**Giải**
+Ta có $(2x + 1)(3x - 1) = 0$
+nên $2x + 1 = 0$ hoặc $3x - 1 = 0$.
+*   $2x + 1 = 0$ hay $2x = -1$, suy ra $x = -\frac{1}{2}$.
+*   $3x - 1 = 0$ hay $3x = 1$, suy ra $x = \frac{1}{3}$.
+Vậy phương trình đã cho có hai nghiệm là $x = -\frac{1}{2}$ và $x = \frac{1}{3}$.
+
+**Ví dụ 2**
+Giải phương trình $x^2 - x = -2x + 2$.
+
+**Giải**
+Biến đổi phương trình đã cho về phương trình tích như sau:
+$x^2 - x = -2x + 2$
+$x^2 - x + 2x - 2 = 0$
+$x^2 + x - 2 = 0$
+$x(x - 1) + 2(x - 1) = 0$
+$(x + 2)(x - 1) = 0$.
+Ta giải hai phương trình sau:
+*   $x + 2 = 0$ suy ra $x = -2$.
+*   $x - 1 = 0$ suy ra $x = 1$.
+Vậy phương trình đã cho có hai nghiệm là $x = -2$ và $x = 1$.
+
+=============== TRANG 28 ===============
+
+**Nhận xét.** Trong Ví dụ 2, ta thực hiện việc giải phương trình theo hai bước:
+**Bước 1.** Đưa phương trình về phương trình tích $(ax+b)(cx+d) = 0$;
+**Bước 2.** Giải phương trình tích tìm được.
+
+**Luyện tập 1** Giải các phương trình sau:
+a) $(3x + 1)(2 - 4x) = 0$;
+b) $x^2 - 3x = 2x - 6$.
+
+**Vận dụng** Giải bài toán ở tình huống mở đầu.
+
+**2. PHƯƠNG TRÌNH CHỨA ẨN Ở MẪU**
+
+**Điều kiện xác định của một phương trình**
+Xét phương trình $x + \frac{1}{x+1} = -1 + \frac{1}{x+1}$.
+**HĐ3** Chuyển các biểu thức chứa ẩn từ vế phải sang vế trái, rồi thu gọn vế trái.
+**HĐ4** Giá trị $x = -1$ có là nghiệm của phương trình đã cho hay không? Vì sao?
+
+Khi giải phương trình chứa ẩn ở mẫu, ta phải chú ý đến điều kiện xác định của một phương trình. Chẳng hạn, đối với phương trình trên, để phương trình xác định thì $x + 1 \neq 0$ hay $x \neq -1$.
+
+Đối với phương trình chứa ẩn ở mẫu, ta thường đặt điều kiện cho ẩn để tất cả các mẫu thức trong phương trình đều khác 0 và gọi đó là **điều kiện xác định** (viết tắt là ĐKXĐ) của phương trình.
+
+**Ví dụ 3** Tìm điều kiện xác định của mỗi phương trình sau:
+a) $\frac{5x + 2}{x - 1} = 0$;
+b) $\frac{1}{x+1} = 1 + \frac{1}{x-2}$.
+
+**Giải**
+a) Vì $x - 1 \neq 0$ khi $x \neq 1$ nên ĐKXĐ của phương trình $\frac{5x + 2}{x - 1} = 0$ là $x \neq 1$.
+b) Vì $x + 1 \neq 0$ khi $x \neq -1$ và $x - 2 \neq 0$ khi $x \neq 2$ nên ĐKXĐ của phương trình $\frac{1}{x+1} = 1 + \frac{1}{x-2}$ là $x \neq -1$ và $x \neq 2$.
+
+**Luyện tập 2** Tìm điều kiện xác định của mỗi phương trình sau:
+a) $\frac{3x+1}{2x-1} = 1$;
+b) $\frac{1}{x-1} + \frac{1}{x+1} = 2$.
+
+=============== TRANG 29 ===============
+
+**Cách giải phương trình chứa ẩn ở mẫu**
+**HĐ5** Xét phương trình $\frac{x+3}{x} = \frac{x+9}{x-3}$ (2)
+Hãy thực hiện các yêu cầu sau để giải phương trình (2):
+a) Tìm điều kiện xác định của phương trình (2);
+b) Quy đồng mẫu hai vế của phương trình (2), rồi khử mẫu;
+c) Giải phương trình vừa tìm được;
+d) Kết luận nghiệm của phương trình (2).
+
+Để giải phương trình chứa ẩn ở mẫu ta thường thực hiện các bước như sau:
+**Bước 1.** Tìm điều kiện xác định của phương trình.
+**Bước 2.** Quy đồng mẫu hai vế của phương trình rồi khử mẫu.
+**Bước 3.** Giải phương trình vừa tìm được.
+**Bước 4 (Kết luận).** Trong các giá trị tìm được của ẩn ở Bước 3, giá trị nào thoả mãn điều kiện xác định chính là nghiệm của phương trình đã cho.
+
+**Ví dụ 4** Giải phương trình $\frac{2}{x+1} - \frac{1}{x-2} = \frac{3}{(x+1)(x-2)}$ (3).
+**Giải.** Điều kiện xác định $x \neq -1$ và $x \neq 2$.
+Quy đồng mẫu và khử mẫu, ta được $\frac{2(x-2)}{(x+1)(x-2)} - \frac{x+1}{(x+1)(x-2)} = \frac{3}{(x+1)(x-2)}$,
+suy ra $2(x-2) - (x+1) = 3$. (3a)
+Giải phương trình (3a):
+$2(x-2) - (x+1) = 3$
+$2x - 4 - x - 1 = 3$
+$x - 5 = 3$
+$x = 8$.
+Giá trị $x = 8$ không thoả mãn ĐKXĐ. Vậy phương trình (3) vô nghiệm.
+
+**Luyện tập 3** Giải phương trình $\frac{1}{x-1} - \frac{4x}{x^3 - 1} = \frac{x}{x^2 + x + 1}$.
+
+=============== TRANG 30 ===============
+
+**BÀI TẬP**
+
+**2.1.** Giải các phương trình sau:
+a) $x(x - 2) = 0$;
+b) $(2x + 1)(3x - 2) = 0$.
+
+**2.2.** Giải các phương trình sau:
+a) $(x^2 - 4) + x(x - 2) = 0$;
+b) $(2x + 1)^2 - 9x^2 = 0$.
+
+**2.3.** Giải các phương trình sau:
+a) $\frac{2}{2x+1} + \frac{1}{x+1} = \frac{3}{(2x+1)(x+1)}$;
+b) $\frac{1}{x+1} - \frac{x}{x^2 - x + 1} = \frac{3x}{x^3 + 1}$.
+
+**2.4.** Bác An có một mảnh đất hình chữ nhật với chiều dài 14 m và chiều rộng 12 m. Bác dự định xây nhà trên mảnh đất đó và dành một phần diện tích đất để làm sân vườn như Hình 2.3. Biết diện tích đất làm nhà là 100 m². Hỏi x bằng bao nhiêu mét?
+
+**2.5.** Hai người cùng làm chung một công việc thì xong trong 8 giờ. Hai người cùng làm được 4 giờ thì người thứ nhất bị điều đi làm công việc khác. Người thứ hai tiếp tục làm việc trong 12 giờ nữa thì xong công việc. Gọi x là thời gian người thứ nhất làm một mình xong công việc (đơn vị tính là giờ, $x > 0$).
+a) Hãy biểu thị theo x:
+- Khối lượng công việc mà người thứ nhất làm được trong 1 giờ;
+- Khối lượng công việc mà người thứ hai làm được trong 1 giờ.
+b) Hãy lập phương trình theo x và giải phương trình đó. Sau đó cho biết, nếu làm một mình thì mỗi người phải làm trong bao lâu mới xong công việc đó.
+
+=============== TRANG 31 ===============
+
+**Bài 5: BẤT ĐẲNG THỨC VÀ TÍNH CHẤT**
+
+**Khái niệm, thuật ngữ**
+*   Bất đẳng thức
+*   Hai bất đẳng thức cùng chiều (ngược chiều)
+*   Tính chất bắc cầu
+*   Tính chất của bất đẳng thức
+
+**Kiến thức, kĩ năng**
+*   Nhắc lại thứ tự trên tập số thực (các kí hiệu $>, \geq, <, \leq$).
+*   Nhận biết bất đẳng thức.
+*   Tính chất bắc cầu của bất đẳng thức.
+*   Tính chất của bất đẳng thức liên quan đến phép cộng.
+*   Tính chất của bất đẳng thức liên quan đến phép nhân.
+
+Khi đi đường, chúng ta có thể thấy các biển báo giao thông báo hiệu giới hạn tốc độ mà xe cơ giới được phép đi. Em có biết ý nghĩa của biển báo giao thông ở Hình 2.4 (biển báo giới hạn tốc độ tối đa cho phép theo xe, trên từng làn đường) không?
+
+**1. BẤT ĐẲNG THỨC**
+
+**Nhắc lại thứ tự trên tập số thực**
+Trên tập số thực, với hai số a và b có ba trường hợp sau:
+a) Số a bằng số b, kí hiệu $a = b$;
+b) Số a lớn hơn số b, kí hiệu $a > b$;
+c) Số a nhỏ hơn số b, kí hiệu $a < b$.
+
+Thay [?] trong các biểu thức sau bằng dấu thích hợp (=, >, <).
+a) -34,2 [?] -27;
+b) $\frac{6}{-8}$ [?] $\frac{3}{4}$;
+c) 2024 [?] 1954.
+
+Khi biểu diễn số thực trên trục số, điểm biểu diễn số bé hơn nằm trước điểm biểu diễn số lớn hơn. Chẳng hạn, $-2,5 < -1 < 1 < 1,5$.
+
+=============== TRANG 32 ===============
+
+Số a lớn hơn hoặc bằng số b, tức là $a > b$ hoặc $a = b$, kí hiệu là $a \geq b$.
+Số a nhỏ hơn hoặc bằng số b, tức là $a < b$ hoặc $a = b$, kí hiệu là $a \leq b$.
+
+**Luyện tập 1**
+Biển báo giao thông R.306 (H.2.5) báo tốc độ tối thiểu cho các xe cơ giới. Biển có hiệu lực bắt buộc các loại xe cơ giới vận hành với tốc độ không nhỏ hơn trị số ghi trên biển trong điều kiện giao thông thuận lợi và an toàn. Nếu một ô tô đi trên đường đó với tốc độ a (km/h) thì a phải thoả mãn điều kiện nào trong các điều kiện sau?
+A. $a < 60$.
+B. $a > 60$.
+C. $a \geq 60$.
+D. $a \leq 60$.
+
+**Khái niệm bất đẳng thức**
+Ta gọi hệ thức dạng $a > b$ (hay $a < b, a \geq b, a \leq b$) là bất đẳng thức và gọi a là vế trái, b là vế phải của bất đẳng thức.
+
+**Chú ý**
+Hai bất đẳng thức $1 < 2$ và $-3 < -2$ (hay $6 > 3$ và $8 > 5$) được gọi là hai bất đẳng thức cùng chiều. Hai bất đẳng thức $1 < 2$ và $-2 > -3$ (hay $6 > 3$ và $5 < 8$) được gọi là hai bất đẳng thức ngược chiều.
+
+**Ví dụ 1** Xác định vế trái và vế phải của các bất đẳng thức sau:
+a) $-2 > -7$;
+b) $a^2 + 1 \geq 0$.
+
+**Giải**
+a) Vế trái là -2, vế phải là -7.
+b) Vế trái là $a^2 + 1$, vế phải là 0.
+
+**Ví dụ 2** Viết bất đẳng thức để mô tả mỗi tình huống sau:
+a) Tuần tới, nhiệt độ t (°C) tại Tokyo là trên $-5°C$.
+b) Nhiệt độ t (°C) bảo quản của một loại sữa là dưới $4°C$.
+c) Để được điều khiển xe máy điện thì số tuổi x của một người phải ít nhất là 16 tuổi.
+
+**Giải**
+a) $t > -5$;
+b) $t < 4$;
+c) $x \geq 16$.
+
+=============== TRANG 33 ===============
+
+Bất đẳng thức có tính chất quan trọng sau:
+Nếu $a > b$ và $b > c$ thì $a > c$ (tính chất bắc cầu của bất đẳng thức).
+
+**Chú ý.** Tương tự, các thứ tự lớn hơn ($>$), lớn hơn hoặc bằng ($\geq$), nhỏ hơn hoặc bằng ($\leq$) cũng có tính chất bắc cầu.
+
+**Ví dụ 3** Chứng minh $2024^{2023} > 2023^{2022}$.
+**Giải**
+Ta có $2024^{2023} > 1$ và $1 > \frac{2021}{2022}$, nên $2024^{2023} > \frac{2021}{2022}$.
+
+**Luyện tập 2** Chứng minh rằng:
+a) $2024 > 1,9$;
+b) $\frac{2022}{2023} > -1,1$.
+
+**Vận dụng 1** Viết các bất đẳng thức để mô tả tốc độ cho phép trong tình huống mở đầu:
+a) Ô tô ở làn giữa;
+b) Xe máy ở làn bên phải.
+
+**2. LIÊN HỆ GIỮA THỨ TỰ VÀ PHÉP CỘNG**
+Xét bất đẳng thức $-1 < 2$. (1)
+a) Cộng 2 vào hai vế của bất đẳng thức (1) rồi so sánh kết quả thì ta được bất đẳng thức nào?
+b) Cộng -2 vào hai vế của bất đẳng thức (1) rồi so sánh kết quả thì ta được bất đẳng thức nào?
+c) Cộng một số c thì ta sẽ được bất đẳng thức nào?
+
+Khi cộng cùng một số vào hai vế của một bất đẳng thức ta được một bất đẳng thức mới cùng chiều với bất đẳng thức đã cho.
+
+Với ba số a, b, c, ta có:
+Nếu $a < b$ thì $a + c < b + c$;
+Nếu $a \leq b$ thì $a + c \leq b + c$;
+Nếu $a > b$ thì $a + c > b + c$;
+Nếu $a \geq b$ thì $a + c \geq b + c$.
+
+**Ví dụ 4** Không thực hiện phép tính, hãy so sánh $2023 + (-19)$ và $2024 + (-19)$.
+**Giải.** Vì $2023 < 2024$ nên $2023 + (-19) < 2024 + (-19)$ (cộng vào hai vế với cùng một số -19).
+
+=============== TRANG 34 ===============
+
+**Luyện tập 3** Không thực hiện phép tính, hãy so sánh:
+a) $19 + 2023$ và $-31 + 2023$;
+b) $\sqrt{2} + 2$ và 4.
+
+**3. LIÊN HỆ GIỮA THỨ TỰ VÀ PHÉP NHÂN**
+Cho bất đẳng thức $-2 < 5$.
+a) Nhân hai vế của bất đẳng thức với 7 rồi so sánh kết quả thì ta được bất đẳng thức nào?
+b) Nhân hai vế của bất đẳng thức với -7 rồi so sánh kết quả thì ta được bất đẳng thức nào?
+
+- Khi nhân hai vế của một bất đẳng thức với cùng một số dương ta được bất đẳng thức mới cùng chiều với bất đẳng thức đã cho.
+- Khi nhân hai vế của một bất đẳng thức với cùng một số âm ta được bất đẳng thức mới ngược chiều với bất đẳng thức đã cho.
+
+Với ba số a, b, c và $c > 0$, ta có:
+Nếu $a < b$ thì $ac < bc$;
+Nếu $a \leq b$ thì $ac \leq bc$;
+Nếu $a > b$ thì $ac > bc$;
+Nếu $a \geq b$ thì $ac \geq bc$.
+
+Với ba số a, b, c và $c < 0$, ta có:
+Nếu $a < b$ thì $ac > bc$;
+Nếu $a \leq b$ thì $ac \geq bc$;
+Nếu $a > b$ thì $ac < bc$;
+Nếu $a \geq b$ thì $ac \leq bc$.
+
+**Ví dụ 5** Thay [?] trong các biểu thức sau bởi dấu thích hợp (<, >) để được khẳng định đúng.
+a) $3 \cdot (-7)$ [?] $3 \cdot (-5)$;
+b) $(-3) \cdot (-7)$ [?] $(-3) \cdot (-5)$.
+
+**Giải**
+a) Vì $-7 < -5$ và $3 > 0$ nên $3 \cdot (-7) < 3 \cdot (-5)$ (nhân hai vế của bất đẳng thức với số dương).
+b) Vì $-7 < -5$ và $-3 < 0$ nên $(-3) \cdot (-7) > (-3) \cdot (-5)$ (nhân hai vế của bất đẳng thức với số âm).
+
+=============== TRANG 35 ===============
+
+**Luyện tập 4** Thay [?] trong các biểu thức sau bởi dấu thích hợp (<, >) để được khẳng định đúng.
+a) $13 \cdot (-10,5)$ [?] $13 \cdot 11,2$;
+b) $(-13) \cdot (-10,5)$ [?] $(-13) \cdot 11,2$.
+
+**Vận dụng 2** Một nhà tài trợ dự kiến tổ chức một buổi đi dã ngoại tập thể nhằm giúp các bạn học sinh vùng cao trải nghiệm thực tế tại một trang trại trong 1 ngày (từ 14h00 ngày hôm trước đến 12h00 ngày hôm sau). Cho biết số tiền tài trợ dự kiến là 30 triệu đồng và giá thuê các dịch vụ và phòng nghỉ là 17 triệu đồng 1 ngày, giá mỗi suất ăn trưa, ăn tối là 60 000 đồng và mỗi suất ăn sáng là 30 000 đồng. Hỏi có thể tổ chức cho nhiều nhất bao nhiêu bạn tham gia được?
+
+**BÀI TẬP**
+
+**2.6.** Dùng kí hiệu để viết bất đẳng thức tương ứng với mỗi trường hợp sau:
+a) x nhỏ hơn hoặc bằng -2;
+b) m là số âm;
+c) y là số dương;
+d) p lớn hơn hoặc bằng 2024.
+
+**2.7.** Viết một bất đẳng thức phù hợp trong mỗi trường hợp sau:
+a) Bạn phải ít nhất 18 tuổi mới được phép lái ô tô;
+b) Xe buýt chở được tối đa 45 người;
+c) Mức lương tối thiểu cho một giờ làm việc của người lao động là 20 000 đồng.
+
+**2.8.** Không thực hiện phép tính, hãy chứng minh:
+a) $2 - (-7) + 2023 < 2 - (-1) + 2023$;
+b) $(-3) - (-8) + 1975 > (-3) - (-7) + 1975$.
+
+**2.9.** Cho $a < b$, hãy so sánh:
+a) $5a + 7$ và $5b + 7$;
+b) $-3a - 9$ và $-3b - 9$.
+
+**2.10.** So sánh hai số a và b, nếu:
+a) $a + 1954 < b + 1954$;
+b) $-2a > -2b$.
+
+**2.11.** Chứng minh rằng:
+a) $\frac{2023}{2024} > \frac{2022}{2023}$;
+b) $\frac{34}{11} > \frac{26}{9}$.
+
+=============== TRANG 36 ===============
+
+**LUYỆN TẬP CHUNG**
+
+**Ví dụ 1** Giải phương trình $\frac{1}{x-1} + \frac{2}{x^2+x+1} = \frac{x^2+x}{x^3-1}$ (1)
+**Giải**
+ĐKXĐ: $x \neq 1$. Quy đồng mẫu hai vế của phương trình:
+$\frac{(x^2+x+1) + 2(x-1)}{(x-1)(x^2+x+1)} = \frac{x^2+x}{x^3-1}$
+$\frac{x^2+3x-1}{x^3-1} = \frac{x^2+x}{x^3-1}$
+Suy ra $x^2 + 3x - 1 = x^2 + x$ hay $2x - 1 = 0$.
+Giải phương trình: $2x - 1 = 0$, $2x = 1$, $x = \frac{1}{2}$ (thoả mãn ĐKXĐ).
+Vậy phương trình (1) có nghiệm là $x = \frac{1}{2}$.
+
+**Ví dụ 2** Giải phương trình $\frac{x}{x+3} - \frac{x}{x-3} = \frac{-2x-6}{x^2-9}$ (2)
+**Giải**
+ĐKXĐ: $x \neq 3$ và $x \neq -3$.
+Quy đồng mẫu hai vế của phương trình:
+$\frac{x(x-3) - x(x+3)}{(x+3)(x-3)} = \frac{-2x-6}{x^2-9}$
+$\frac{x^2-3x - x^2-3x}{x^2-9} = \frac{-2x-6}{x^2-9}$
+Suy ra $x^2 - 6x = -2x - 6$ hay $x^2 - 4x + 6 = 0$.
+Giải phương trình $x^2 - 4x + 6 = 0$:
+$x(x-3) = 0$
+$x = 0$ hoặc $x = 3$.
+$x = 0$ (thoả mãn ĐKXĐ) hoặc $x = 3$ (không thoả mãn ĐKXĐ).
+Vậy phương trình (2) có nghiệm là $x = 0$.
+
+=============== TRANG 37 ===============
+
+**Ví dụ 3** Cho $a < b$. Chứng minh rằng:
+a) $2a + 1 < 2b + 2$;
+b) $-2a - 5 > -2b - 7$.
+
+**Giải**
+a) Từ $a < b$, ta có $2a < 2b$. Suy ra $2a + 1 < 2b + 1$. (1)
+Vì $1 < 2$ nên $2b + 1 < 2b + 2$. (2)
+Theo tính chất bắc cầu, từ (1) và (2) suy ra $2a + 1 < 2b + 2$.
+
+b) Từ $a < b$, ta có $-2a > -2b$. Suy ra $-2a - 5 > -2b - 5$. (3)
+Vì $-5 > -7$ nên $-2b - 5 > -2b - 7$. (4)
+Theo tính chất bắc cầu, từ (3) và (4) suy ra $-2a - 5 > -2b - 7$.
+
+**BÀI TẬP**
+
+**2.12.** Giải các phương trình sau:
+a) $2(x+1) = (5x-1)(x+1)$;
+b) $(-4x+3)x = (2x+5)x$.
+
+**2.13.** Để loại bỏ $x\%$ một loại tảo độc khỏi một hồ nước, người ta ước tính chi phí cần bỏ ra là $C(x) = \frac{50x}{100-x}$ (triệu đồng), với $0 \leq x < 100$.
+Nếu bỏ ra 450 triệu đồng, người ta có thể loại bỏ được bao nhiêu phần trăm loại tảo độc đó?
+
+**2.14.** Giải các phương trình sau:
+a) $\frac{1}{x+2} - \frac{2}{x^2-2x+4} = \frac{x-4}{x^3+8}$;
+b) $\frac{2x}{x-4} + \frac{3}{x+4} = \frac{x-12}{x^2-16}$.
+
+**2.15.** Cho $a > b$, chứng minh rằng:
+a) $4a + 4 > 4b + 3$;
+b) $1 - 3a < 3 - 3b$.
+
+=============== TRANG 38 ===============
+
+**Bài 6: BẤT PHƯƠNG TRÌNH BẬC NHẤT MỘT ẨN**
+
+**Khái niệm, thuật ngữ**
+*   Bất phương trình bậc nhất một ẩn
+*   Nghiệm của bất phương trình
+
+**Kiến thức, kĩ năng**
+*   Khái niệm bất phương trình bậc nhất một ẩn.
+*   Khái niệm nghiệm của bất phương trình bậc nhất một ẩn.
+*   Giải bất phương trình bậc nhất một ẩn.
+
+Bạn Thanh có 100 nghìn đồng. Bạn muốn mua một cái bút giá 18 nghìn đồng và một số quyển vở, mỗi quyển vở giá 7 nghìn đồng. Hỏi bạn Thanh mua được nhiều nhất bao nhiêu quyển vở?
+
+**1. KHÁI NIỆM BẤT PHƯƠNG TRÌNH BẬC NHẤT MỘT ẨN**
+
+**Khái niệm bất phương trình bậc nhất một ẩn**
+Trong bài toán mở đầu, nếu kí hiệu số vở mà Thanh mua là x ($x \in \mathbb{N}^*$) thì x phải thoả mãn hệ thức $7x + 18 \leq 100$. Khi đó ta nói hệ thức $7x + 18 \leq 100$ là **bất phương trình với ẩn là x**.
+Trong bất phương trình này, ta gọi $7x + 18$ là **vế trái**, 100 là **vế phải**.
+Ta có thể biến đổi bất phương trình này về dạng $7x - 82 \leq 0$.
+Hệ thức này là một bất phương trình bậc nhất với ẩn là x.
+
+Bất phương trình dạng $ax + b > 0$ (hoặc $ax + b < 0, ax + b \geq 0, ax + b \leq 0$) trong đó a, b là hai số đã cho, $a \neq 0$ được gọi là **bất phương trình bậc nhất một ẩn x**.
+
+**Ví dụ 1** Bất phương trình nào sau đây là bất phương trình bậc nhất một ẩn x?
+a) $3x + 16 < 0$;
+b) $-5x + 5 > 0$;
+c) $x^2 - 4 > 0$;
+d) $-3x < 0$.
+
+**Giải**
+a), b), d) là bất phương trình bậc nhất một ẩn x.
+c) không là bất phương trình bậc nhất một ẩn x vì $x^2 - 4$ là một đa thức bậc hai.
+
+=============== TRANG 39 ===============
+
+**Luyện tập 1** Bất phương trình nào sau đây là bất phương trình bậc nhất một ẩn x?
+a) $-3x + 7 \leq 0$;
+b) $4x - \frac{3}{2} > 0$;
+c) $x^3 > 0$.
+
+**Nghiệm của bất phương trình**
+*   Xét bất phương trình $3x + 8 < 20$.
+    Khi thay giá trị $x = \frac{4}{3}$ vào bất phương trình, ta được $3 \cdot \frac{4}{3} + 8 < 20$ là một khẳng định đúng.
+    Ta nói số $\frac{4}{3}$ (hay giá trị $x = \frac{4}{3}$) là một **nghiệm** của bất phương trình.
+    Khi thay giá trị $x = 5$ vào bất phương trình, ta được $3 \cdot 5 + 8 < 20$ là một khẳng định sai.
+    Ta nói số 5 (hay giá trị $x = 5$) không phải là nghiệm của bất phương trình.
+*   Số $x_0$ là một nghiệm của bất phương trình $A(x) < B(x)$ nếu $A(x_0) < B(x_0)$ là khẳng định đúng.
+*   **Giải bất phương trình** là tìm tất cả các nghiệm của bất phương trình đó.
+
+**Luyện tập 2**
+Trong các số -2; 0; 5, những số nào là nghiệm của bất phương trình $2x - 10 < 0$?
+
+**2. CÁCH GIẢI BẤT PHƯƠNG TRÌNH BẬC NHẤT MỘT ẨN**
+
+**Cách giải bất phương trình bậc nhất một ẩn**
+**HĐ** Xét bất phương trình $5x + 3 < 0$. (1)
+Hãy thực hiện các yêu cầu sau để giải bất phương trình (1):
+a) Sử dụng tính chất của bất đẳng thức, cộng vào hai vế của bất phương trình (1) với -3, ta được một bất phương trình, kí hiệu là (2).
+b) Sử dụng tính chất của bất đẳng thức, nhân vào hai vế của bất phương trình (2) với $\frac{1}{5}$ (tức là chia hai vế của bất phương trình (2) cho hệ số của x là 5) để tìm nghiệm của bất phương trình.
+
+Bất phương trình bậc nhất một ẩn $ax + b < 0$ ($a \neq 0$) được giải như sau:
+$ax < -b$
+*   Nếu $a > 0$ thì $x < -\frac{b}{a}$.
+*   Nếu $a < 0$ thì $x > -\frac{b}{a}$.
+
+**Chú ý.** Các bất phương trình $ax+b>0, ax+b \leq 0, ax+b \geq 0$ được giải tương tự.
+
+=============== TRANG 40 ===============
+
+**Ví dụ 2** Giải bất phương trình $-2x - 4 > 0$.
+**Giải.** Ta có $-2x - 4 > 0$.
+$-2x > 0 + 4$ (Cộng hai vế của bất phương trình với 4).
+$-2x > 4$.
+$x < 4 \cdot (-\frac{1}{2})$ (Nhân hai vế với số âm $-\frac{1}{2}$ và đổi chiều bất đẳng thức).
+$x < -2$.
+Vậy nghiệm của bất phương trình là $x < -2$.
+
+**Luyện tập 3** Giải các bất phương trình sau:
+a) $6x + 5 < 0$;
+b) $-2x - 7 > 0$.
+
+**Ví dụ 3** Giải bài toán ở tình huống mở đầu.
+Gọi x (quyển) là số vở mà Thanh có thể mua. Theo bài ra, ta có bất phương trình:
+$7x + 18 \leq 100$
+$7x \leq 100 - 18$
+$7x \leq 82$
+$x \leq \frac{82}{7}$.
+Vì số vở là số tự nhiên nên Thanh có thể mua nhiều nhất 11 quyển vở.
+
+**Chú ý.** Ta cũng có thể giải được các bất phương trình một ẩn đưa được về dạng $ax+b<0, ax+b>0, ax+b \leq 0, ax+b \geq 0$.
+
+**Ví dụ 4** Giải các bất phương trình:
+a) $2x + 5 < 3x - 4$;
+b) $-3x + 5 \geq -4x + 3$.
+
+**Giải**
+a) Ta có $2x + 5 < 3x - 4$
+$2x - 3x < -4 - 5$
+$-x < -9$
+$x > 9$.
+Vậy nghiệm của bất phương trình là $x > 9$.
+
+b) Ta có $-3x + 5 \geq -4x + 3$
+$-3x + 4x \geq 3 - 5$
+$x \geq -2$.
+Vậy nghiệm của bất phương trình là $x \geq -2$.
+
+=============== TRANG 41 ===============
+
+**Ví dụ 5** Một ngân hàng đang áp dụng lãi suất gửi tiết kiệm kì hạn 12 tháng là 7,4%/năm.
+Bà Mai dự kiến gửi một khoản tiền vào ngân hàng này và cần số tiền lãi hằng năm ít nhất là 60 triệu để chi tiêu. Hỏi số tiền bà Mai cần gửi tiết kiệm ít nhất là bao nhiêu (làm tròn đến triệu đồng)?
+
+**Giải.** Gọi x (triệu đồng) là số tiền bà Mai cần gửi tiết kiệm. Ta có số tiền lãi gửi tiết kiệm x (triệu đồng) trong một năm là $0,074 \cdot x$ (triệu đồng).
+Để có số tiền lãi ít nhất là 60 triệu đồng/năm thì ta phải có:
+$0,074x \geq 60$
+$x \geq 60 : 0,074$
+$x \geq 810,81$.
+Vậy bà Mai cần gửi ngân hàng ít nhất 811 triệu đồng.
+
+**Luyện tập 4** Giải các bất phương trình sau:
+a) $5x + 7 > 8x - 5$;
+b) $-4x + 3 < 3x - 1$.
+
+**Vận dụng** Trong một cuộc thi tuyển dụng việc làm, ban tổ chức quy định mỗi người ứng tuyển phải trả lời 25 câu hỏi ở vòng sơ tuyển. Mỗi câu hỏi này có sẵn bốn đáp án, trong đó chỉ có một đáp án đúng. Người ứng tuyển chọn đáp án đúng sẽ được cộng thêm 2 điểm, chọn đáp án sai bị trừ đi 1 điểm. Ở vòng sơ tuyển, ban tổ chức tăng cho mỗi người dự thi 5 điểm và theo quy định người ứng tuyển phải trả lời hết 25 câu hỏi, người nào có số điểm từ 25 trở lên mới được dự thi vòng tiếp theo. Hỏi người ứng tuyển phải trả lời chính xác ít nhất bao nhiêu câu hỏi ở vòng sơ tuyển thì mới được vào vòng tiếp theo?
+
+**BÀI TẬP**
+
+**2.16.** Giải các bất phương trình sau:
+a) $x - 5 \geq 0$;
+b) $x + 5 \leq 0$;
+c) $-2x - 6 > 0$;
+d) $4x - 12 < 0$.
+
+**2.17.** Giải các bất phương trình sau:
+a) $3x + 2 > 2x + 3$;
+b) $5x + 4 < -3x - 2$.
+
+**2.18.** Một ngân hàng đang áp dụng lãi suất gửi tiết kiệm kì hạn 1 tháng là 0,4%. Hỏi nếu muốn có số tiền lãi hằng tháng ít nhất là 3 triệu đồng thì số tiền gửi tiết kiệm ít nhất là bao nhiêu (làm tròn đến triệu đồng)?
+
+**2.19.** Một hãng taxi có giá mở cửa là 15 nghìn đồng và giá 12 nghìn đồng cho mỗi kilômét tiếp theo. Hỏi với 200 nghìn đồng thì hành khách có thể di chuyển được tối đa bao nhiêu kilômét (làm tròn đến hàng đơn vị)?
+
+**2.20.** Người ta dùng một loại xe tải để chở bia cho một nhà máy. Mỗi thùng bia 24 lon nặng trung bình 6,7 kg. Theo khuyến nghị, trọng tải của xe (tức là tổng khối lượng tối đa cho phép mà xe có thể chở) là 5,25 tấn. Hỏi xe có thể chở được tối đa bao nhiêu thùng bia, biết bác tài xế nặng 65 kg?
+
+=============== TRANG 42 ===============
+
+**BÀI TẬP CUỐI CHƯƠNG II**
+
+**A. TRẮC NGHIỆM**
+
+**2.21.** Nghiệm của bất phương trình $-2x+1 < 0$ là
+A. $x < \frac{1}{2}$.
+B. $x > \frac{1}{2}$.
+C. $x \leq \frac{1}{2}$.
+D. $x \geq \frac{1}{2}$.
+
+**2.22.** Điều kiện xác định của phương trình $\frac{x}{2x+1} + \frac{3}{x-5} = \frac{x}{(2x+1)(x-5)}$ là
+A. $x \neq -\frac{1}{2}$.
+B. $x \neq -\frac{1}{2}$ và $x \neq -5$.
+C. $x \neq 5$.
+D. $x \neq -\frac{1}{2}$ và $x \neq 5$.
+
+**2.23.** Phương trình $x - 1 = m + 4$ có nghiệm lớn hơn 1 với
+A. $m \geq -4$.
+B. $m \leq 4$.
+C. $m > -4$.
+D. $m < -4$.
+
+**2.24.** Nghiệm của bất phương trình $1 - 2x \geq 2 - x$ là
+A. $x \geq -\frac{1}{2}$.
+B. $x \leq \frac{1}{2}$.
+C. $x \leq -1$.
+D. $x \geq -1$.
+
+**2.25.** Cho $a > b$. Khi đó ta có:
+A. $2a > 3b$.
+B. $2a > 2b + 1$.
+C. $5a + 1 > 5b + 1$.
+D. $-3a < -3b - 3$.
+
+**B. TỰ LUẬN**
+
+**2.26.** Giải các phương trình sau:
+a) $(3x - 1)^2 - (x + 2)^2 = 0$;
+b) $x(x+1) = 2(x^2 - 1)$.
+
+**2.27.** Giải các phương trình sau:
+a) $\frac{2}{x-5} - \frac{1}{x+5} = \frac{x}{x^2 - 25}$;
+b) $\frac{1}{x+1} - \frac{x}{x^2 - x + 1} = \frac{3}{x^3 + 1}$.
+
+**2.28.** Cho $a < b$, hãy so sánh:
+a) $a+b+5$ với $2b+5$;
+b) $-2a - 3$ với $-(a+b) - 3$.
+
+**2.29.** Giải các bất phương trình:
+a) $2x + 3(x+1) > 5x - (2x-4)$;
+b) $(x+1)(2x-1) < 2x^2 - 4x + 1$.
+
+**2.30.** Một hãng viễn thông nước ngoài có hai gói cước như sau:
+| Gói cước A | Gói cước B |
+| :--- | :--- |
+| Cước thuê bao hàng tháng 32 USD | Cước thuê bao hàng tháng là 44 USD |
+| 45 phút miễn phí | Không có phút miễn phí |
+| 0,4 USD cho mỗi phút thêm | 0,25 USD/phút |
+
+=============== TRANG 43 ===============
+
+a) Hãy viết một phương trình xác định thời gian gọi (phút) mà phí phải trả trong cùng một tháng của hai gói cước là như nhau và giải phương trình đó.
+b) Nếu khách hàng chỉ gọi tối đa là 180 phút trong 1 tháng thì nên dùng gói cước nào? Nếu khách hàng gọi 500 phút trong 1 tháng thì nên dùng gói cước nào?
+
+**2.31.** Thanh tham dự một kì kiểm tra năng lực tiếng Anh. Anh gồm 4 bài kiểm tra nghe, nói, đọc và viết. Mỗi bài kiểm tra có điểm là số nguyên từ 0 đến 10. Điểm trung bình của ba bài kiểm tra nghe, nói, đọc của Thanh là 6,7. Hỏi bài kiểm tra viết của Thanh cần được bao nhiêu điểm để điểm trung bình cả 4 bài kiểm tra được 7,0 trở lên? Biết điểm trung bình được tính gần đúng đến chữ số thập phân thứ nhất.
+
+**2.32.** Để lập đội tuyển năng khiếu về bóng rổ của trường, thầy thể dục đưa ra quy định tuyển chọn như sau: mỗi bạn dự tuyển sẽ được ném 15 quả bóng vào rổ, quả bóng vào rổ được cộng 2 điểm; quả bóng ném ra ngoài bị trừ 1 điểm. Nếu bạn nào có số điểm từ 15 điểm trở lên thì sẽ được chọn vào đội tuyển. Hỏi một học sinh muốn được chọn vào đội tuyển thì phải ném ít nhất bao nhiêu quả vào rổ?
+
+**EM CÓ BIẾT? (Đọc thêm)**
+
+**BẤT ĐẲNG THỨC GIỮA TRUNG BÌNH CỘNG VÀ TRUNG BÌNH NHÂN**
+Cho hai số $a, b \geq 0$. Trung bình cộng của hai số là $\frac{a+b}{2}$. Trung bình nhân của hai số là $\sqrt{ab}$.
+Khi đó, ta luôn có
+$\frac{a+b}{2} \geq \sqrt{ab}$ (1)
+Bất đẳng thức (1) được gọi là bất đẳng thức giữa trung bình cộng và trung bình nhân cho hai số không âm a và b (thường viết tắt là AM-GM). Ta cũng thường gọi bất đẳng thức trên là bất đẳng thức Cauchy.
+Cauchy (1789 - 1857) là một nhà toán học Pháp. Ông là giáo sư của Đại học Bách khoa Paris và Viện sĩ Viện hàn lâm khoa học Pháp. Ông có nhiều công trình nghiên cứu toán học có giá trị liên quan đến nhiều lĩnh vực khác nhau trong Giải tích, Đại số, Số học, Hệ động lực,...
+(Theo: Denis-Sinaceur, Hourya (1973), Cauchy et Bolzano, Revue d'Histoire des Sciences, 26 (2): 97–112)
+
+=============== TRANG 44 ===============
+
+**Chương III: CĂN BẬC HAI VÀ CĂN BẬC BA**
+
+**Bài 7: CĂN BẬC HAI VÀ CĂN THỨC BẬC HAI**
+
+**Khái niệm, thuật ngữ**
+*   Căn bậc hai
+*   Căn thức bậc hai
+*   Điều kiện xác định của căn thức bậc hai
+
+**Kiến thức, kĩ năng**
+*   Nhận biết căn bậc hai của một số thực không âm. Tính được giá trị đúng (hoặc gần đúng) của căn bậc hai của một số thực dương bằng máy tính cầm tay.
+*   Nhận biết căn bậc hai của một biểu thức đại số, điều kiện xác định của căn thức bậc hai; tính được giá trị tại những giá trị đã cho của biến.
+*   Sử dụng hằng đẳng thức căn bậc hai của một bình phương để đơn giản căn thức bậc hai.
+
+Trong Vật lí, quãng đường S (tính bằng mét) của một vật rơi tự do được cho bởi công thức $S = 4,9t^2$, trong đó t là thời gian rơi (tính bằng giây). Hỏi sau bao nhiêu giây thì vật sẽ chạm đất nếu được thả rơi tự do từ độ cao 122,5 mét?
+
+=============== TRANG 45 ===============
+
+**1. CĂN BẬC HAI**
+
+**Tìm hiểu khái niệm căn bậc hai**
+**HĐ1** Tìm các số thực x sao cho $x^2 = 49$.
+
+**Căn bậc hai** của số thực không âm a là số thực x sao cho $x^2 = a$.
+
+**Nhận xét**
+- Số âm không có căn bậc hai;
+- Số 0 có một căn bậc hai duy nhất là 0;
+- Số dương a có đúng hai căn bậc hai đối nhau là $\sqrt{a}$ (căn bậc hai số học của a) và $-\sqrt{a}$.
+
+**Ví dụ 1** Tìm căn bậc hai của 81.
+**Giải**
+Ta có $\sqrt{81} = 9$ nên 81 có hai căn bậc hai là 9 và -9.
+
+**Luyện tập 1** Tìm căn bậc hai của 121.
+
+**Tính căn bậc hai của một số bằng máy tính cầm tay**
+Để tính căn bậc hai của một số $a > 0$, chỉ cần tính $\sqrt{a}$. Có thể dễ dàng làm điều này bằng cách sử dụng MTCT.
+
+**Ví dụ 2**
+Sử dụng MTCT, tính căn bậc hai của 11,1 (làm tròn đến chữ số thập phân thứ hai).
+**Giải**
+Bấm các phím $\sqrt{} 1 1 . 1 =$, màn hình hiện kết quả là 3,331666625. Làm tròn kết quả đến chữ số thập phân thứ hai ta được $\sqrt{11,1} \approx 3,33$.
+Vậy căn bậc hai của 11,1 (làm tròn đến chữ số thập phân thứ hai) là 3,33 và -3,33.
+
+**Luyện tập 2** Sử dụng MTCT tìm căn bậc hai của $\frac{7}{11}$ (làm tròn đến chữ số thập phân thứ hai).
+
+**Tính chất của căn bậc hai**
+**HĐ2** Tính và so sánh $\sqrt{a^2}$ và $|a|$ trong mỗi trường hợp sau:
+a) $a = 3$;
+b) $a = -3$.
+
+=============== TRANG 46 ===============
+
+**Tính chất:**
+$\sqrt{a^2} = |a|$ với mọi số thực a.
+
+**Ví dụ 3** Không sử dụng MTCT, tính:
+a) $\sqrt{1 - \sqrt{2}} + \sqrt{(1 + \sqrt{2})^2}$;
+b) $\sqrt{(-3)^2} + 3$.
+
+**Giải**
+a) Ta có $\sqrt{(1 + \sqrt{2})^2} = |1 + \sqrt{2}| = 1 + \sqrt{2}$ nên $\sqrt{1 - \sqrt{2}} + \sqrt{(1 + \sqrt{2})^2} = 1 - \sqrt{2} + (1 + \sqrt{2}) = 2$.
+b) Ta có $\sqrt{(-3)^2} = |-3| = 3$ nên $\sqrt{(-3)^2} + 3 = 3 + 3 = 6$.
+
+**Luyện tập 3**
+a) Không sử dụng MTCT, tính: $\sqrt{6^2}$; $\sqrt{(-5)^2}$; $\sqrt{5} - \sqrt{(\sqrt{5} - 1)^2}$.
+b) So sánh 3 với $\sqrt{10}$ bằng hai cách:
+- Sử dụng MTCT;
+- Sử dụng tính chất của căn bậc hai số học đã học ở lớp 7: Nếu $0 \leq a < b$ thì $\sqrt{a} < \sqrt{b}$.
+
+**2. CĂN THỨC BẬC HAI**
+
+**Căn thức bậc hai**
+**HĐ3** Viết biểu thức tính độ dài cạnh huyền BC của tam giác vuông ABC, biết $AB = 3$ cm và $AC = x$ cm.
+Biểu thức nhận được trong HĐ3 có dạng $\sqrt{A}$, trong đó A là một biểu thức đại số. Tổng quát, ta có định nghĩa:
+
+**Căn thức bậc hai** là biểu thức có dạng $\sqrt{A}$, trong đó A là một biểu thức đại số. A được gọi là biểu thức lấy căn hay biểu thức dưới dấu căn.
+
+**HĐ4** Cho biểu thức $C = \sqrt{2x - 1}$.
+a) Tính giá trị của biểu thức tại $x = 5$.
+b) Tại $x = 0$ có tính được giá trị của biểu thức không? Vì sao?
+$\sqrt{A}$ xác định khi A lấy giá trị không âm và ta thường viết là $A \geq 0$. Ta nói $A \geq 0$ là **điều kiện xác định** (hay điều kiện có nghĩa) của $\sqrt{A}$.
+
+=============== TRANG 47 ===============
+
+**Ví dụ 4** Xét căn thức $\sqrt{2x + 1}$.
+a) Tìm điều kiện xác định của căn thức.
+b) Tính giá trị của căn thức đã cho tại $x = 0$ và $x = 4$.
+
+**Giải**
+a) Điều kiện xác định của căn thức là $2x + 1 \geq 0$ hay $x \geq -\frac{1}{2}$.
+b) Tại $x = 0$ (thoả mãn điều kiện xác định) căn thức có giá trị là $\sqrt{2 \cdot 0 + 1} = 1$.
+Tại $x = 4$ (thoả mãn điều kiện xác định) căn thức có giá trị là $\sqrt{2 \cdot 4 + 1} = 3$.
+
+**Luyện tập 4** Cho căn thức $\sqrt{5 - 2x}$.
+a) Tìm điều kiện xác định của căn thức.
+b) Tính giá trị của căn thức tại $x = 2$.
+
+**Hằng đẳng thức $\sqrt{A^2} = |A|$**
+Tương tự như căn bậc hai của một số thực không âm, với A là một biểu thức, ta cũng có:
+*   Với $A \geq 0$ ta có $(\sqrt{A})^2 = A$;
+*   $\sqrt{A^2} = |A|$.
+
+**Ví dụ 5** Rút gọn các biểu thức sau:
+a) $\sqrt{(1-x)^2}$ với $x < 0$;
+b) $\sqrt{1 - 2x + x^2}$ với $x > 2$.
+
+**Giải**
+a) Từ giả thiết $x < 0$ suy ra $1 - x > 0$. Do đó $\sqrt{(1-x)^2} = |1 - x| = 1 - x$. (Hằng đẳng thức $\sqrt{A^2} = |A|$ với mọi A).
+b) Áp dụng hằng đẳng thức bình phương của một hiệu và hằng đẳng thức $\sqrt{A^2} = |A|$, ta có $\sqrt{1 - 2x + x^2} = \sqrt{(1-x)^2} = |1 - x|$.
+Do giả thiết $x > 2$ suy ra $1 - x < 0$ nên $|1 - x| = -(1 - x) = x - 1$. Vì vậy $\sqrt{1 - 2x + x^2} = \sqrt{(1-x)^2} = x - 1$ với $x > 2$.
+
+=============== TRANG 48 ===============
+
+**Luyện tập 5**
+a) Rút gọn biểu thức $x\sqrt{x^6}$ ($x < 0$).
+b) Rút gọn và tính giá trị của biểu thức $x + \sqrt{4x^2 - 4x + 1}$ tại $x = -2,5$.
+
+**Vận dụng** Trở lại tình huống mở đầu.
+a) Viết công thức tính thời gian t (giây) cần thiết để vật rơi được quãng đường S (mét).
+b) Sử dụng công thức tìm được trong câu a, hãy trả lời câu hỏi trong tình huống mở đầu.
+
+**BÀI TẬP**
+
+**3.1.** Tìm căn bậc hai của mỗi số sau (làm tròn đến chữ số thập phân thứ hai):
+a) 24,5;
+b) $\frac{9}{10}$.
+
+**3.2.** Để chuẩn bị trồng cây trên vỉa hè, người ta để lại những ô đất hình tròn có diện tích khoảng 2 m². Em hãy ước lượng (với độ chính xác 0,005) đường kính của các ô đất đó khoảng bao nhiêu mét?
+
+**3.3.** Tìm điều kiện xác định của $\sqrt{x+10}$ và tính giá trị của căn thức tại $x = -1$.
+
+**3.4.** Tính:
+$\sqrt{5,1^2}$; $\sqrt{(-4,9)^2}$; $-\sqrt{(-0,001)^2}$.
+
+**3.5.** Rút gọn các biểu thức sau:
+a) $\sqrt{(2 - \sqrt{5})^2}$;
+b) $3\sqrt{x^2} - x + 1$ ($x < 0$);
+c) $\sqrt{x^2 - 4x + 4}$ ($x < 2$).
+
+**3.6.** Không dùng MTCT, chứng tỏ biểu thức A có giá trị là số nguyên:
+$A = \sqrt{(1 + 2\sqrt{2})^2} - \sqrt{(1 - 2\sqrt{2})^2}$.
+
+=============== TRANG 49 ===============
+
+**Bài 8: KHAI CĂN BẬC HAI VỚI PHÉP NHÂN VÀ PHÉP CHIA**
+
+**Khái niệm, thuật ngữ**
+Phép khai căn bậc hai
+
+**Kiến thức, kĩ năng**
+*   Nhận biết cách khai căn bậc hai của một tích, một thương.
+*   Nhận biết cách nhân và chia các căn bậc hai.
+*   Vận dụng tính toán đơn giản về căn thức bậc hai của biểu thức đại số (căn thức bậc hai của một tích, một thương).
+
+Phép tìm căn bậc hai số học của một số hay biểu thức cũng được gọi là phép khai căn bậc hai. Phép khai căn bậc hai và phép nhân, phép chia có một mối liên hệ đặc biệt mà chúng ta sẽ tìm hiểu trong bài học này.
+
+**1. KHAI CĂN BẬC HAI VÀ PHÉP NHÂN**
+
+**Liên hệ giữa phép khai căn bậc hai và phép nhân**
+**HĐ1** Tính và so sánh: $\sqrt{100 \cdot 4}$ và $\sqrt{100} \cdot \sqrt{4}$.
+
+Với A, B là các biểu thức không âm, ta có $\sqrt{A \cdot B} = \sqrt{A} \cdot \sqrt{B}$.
+**Chú ý.** Kết quả trên có thể mở rộng cho nhiều biểu thức không âm, chẳng hạn:
+$\sqrt{A \cdot B \cdot C} = \sqrt{A} \cdot \sqrt{B} \cdot \sqrt{C}$ (với $A \geq 0, B \geq 0, C \geq 0$).
+
+**Ví dụ 1** Tính:
+a) $\sqrt{27} \cdot \sqrt{3}$;
+b) $\sqrt{5}(\sqrt{125} + \sqrt{5})$.
+
+**Giải**
+a) Ta có: $\sqrt{27} \cdot \sqrt{3} = \sqrt{27 \cdot 3} = \sqrt{81} = 9$.
+b) Ta có: $\sqrt{5}(\sqrt{125} + \sqrt{5}) = \sqrt{5} \cdot \sqrt{125} - \sqrt{5} \cdot \sqrt{5} = \sqrt{5 \cdot 125} + \sqrt{25} = \sqrt{625} - 5 = 25 - 5 = 20$.
+
+**Ví dụ 2** Rút gọn $\sqrt{5x} \cdot \sqrt{20x}$ với $x \geq 0$.
+**Giải**
+Ta có $\sqrt{5x} \cdot \sqrt{20x} = \sqrt{5x \cdot 20x} = \sqrt{100x^2} = \sqrt{(10x)^2} = |10x| = 10x$ với $x \geq 0$.
+
+**Luyện tập 1**
+a) Tính $\sqrt{3} \cdot \sqrt{75}$.
+b) Rút gọn $\sqrt{5a^3} \cdot \sqrt{5ab^2}$ (với $a < 0, b < 0$).
+
+=============== TRANG 50 ===============
+
+**Ví dụ 3** Tính $\sqrt{2^2 \cdot 3^2 \cdot 5^2}$.
+**Giải**
+$\sqrt{2^2 \cdot 3^2 \cdot 5^2} = \sqrt{2^2} \cdot \sqrt{3^2} \cdot \sqrt{5^2} = 2 \cdot 3 \cdot 5 = 30$.
+
+**Ví dụ 4** Rút gọn biểu thức $\sqrt{25a^4b^2}$ (với $a \geq 0, b < 0$).
+**Giải**
+Theo giả thiết $a \geq 0, b < 0$, do đó
+$\sqrt{25a^4b^2} = \sqrt{5^2 \cdot (a^2)^2 \cdot (-b)^2} = \sqrt{5^2} \cdot \sqrt{(a^2)^2} \cdot \sqrt{(-b)^2} = 5 \cdot a^2 \cdot (-b) = -5a^2b$.
+
+**Luyện tập 2**
+a) Tính nhanh $\sqrt{25 \cdot 49}$.
+b) Phân tích thành nhân tử: $\sqrt{ab} - 4\sqrt{a}$ (với $a \geq 0, b \geq 0$).
+
+**2. KHAI CĂN BẬC HAI VÀ PHÉP CHIA**
+
+**Liên hệ giữa phép khai căn bậc hai và phép chia**
+**HĐ2** Tính và so sánh: $\sqrt{100:4}$ và $\sqrt{100} : \sqrt{4}$.
+
+Nếu A, B là các biểu thức với $A \geq 0, B > 0$ thì $\sqrt{\frac{A}{B}} = \frac{\sqrt{A}}{\sqrt{B}}$.
+
+**Ví dụ 5**
+a) Tính $\sqrt{8} : \sqrt{2}$.
+b) Rút gọn $\sqrt{52a^3} : \sqrt{13a}$ ($a > 0$).
+
+**Giải**
+a) $\sqrt{8} : \sqrt{2} = \sqrt{8:2} = \sqrt{4} = 2$.
+b) $\sqrt{52a^3} : \sqrt{13a} = \sqrt{52a^3 : (13a)} = \sqrt{4a^2} = \sqrt{(2a)^2} = 2a$ (do $a>0$).
+
+**Luyện tập 3**
+a) Tính $\sqrt{18} : \sqrt{50}$.
+b) Rút gọn $\sqrt{16ab^2} : \sqrt{4a}$ (với $a > 0, b < 0$).
+
+**Ví dụ 6**
+a) Viết số dưới dấu căn thành một phân số thập phân rồi tính $\sqrt{1,69}$.
+b) Rút gọn $a \cdot \sqrt{\frac{2}{a^2}}$ ($a>0$).
+
+
+
+=============== TRANG 51 ===============
+
+**Giải**
+a) Ta có $1,69 = \frac{169}{100} = \frac{13^2}{10^2}$ nên $\sqrt{1,69} = \sqrt{\frac{13^2}{10^2}} = \frac{\sqrt{13^2}}{\sqrt{10^2}} = \frac{13}{10} = 1,3$.
+b) Do $a > 0$ nên $a = \sqrt{a^2}$.
+$a\sqrt{\frac{2}{a^2}} = \sqrt{a^2} \cdot \frac{\sqrt{2}}{\sqrt{a^2}} = \sqrt{2}$.
+
+**Luyện tập 4**
+a) Tính $\sqrt{6,25}$.
+b) Rút gọn $a \cdot \sqrt{\frac{5}{(a-1)^2}}$ ($a > 1$).
+
+**Vận dụng**
+Công suất $P$ (W), hiệu điện thế $U$ (V), điện trở $R$ ($\Omega$) trong một đoạn mạch một chiều liên hệ với nhau theo công thức $U = \sqrt{PR}$. Nếu công suất tăng gấp 8 lần, điện trở giảm 2 lần thì tỉ số giữa hiệu điện thế lúc đó và hiệu điện thế ban đầu bằng bao nhiêu?
+
+**Tranh luận**
+Vì $\sqrt{(-3)^2} = -3$ và $\sqrt{(-12)^2} = -12$ nên $\sqrt{(-3) \cdot (-12)^2} = (-3) \cdot (-12) = 36$.
+Theo em, cách làm của Vuông có đúng không? Vì sao?
+
+**BÀI TẬP**
+
+**3.7.** Tính:
+a) $\sqrt{12} \cdot (\sqrt{12} + \sqrt{3})$;
+b) $\sqrt{8} \cdot (\sqrt{50} - \sqrt{2})$;
+c) $(\sqrt{3} + \sqrt{2})^2 - 2\sqrt{6}$.
+
+**3.8.** Rút gọn biểu thức $\sqrt{2(a^2 - b^2)} \cdot \sqrt{\frac{3}{a+b}}$ (với $a \geq b > 0$).
+
+**3.9.** Tính:
+a) $\sqrt{99} : \sqrt{11}$;
+b) $\sqrt{7,84}$;
+c) $\sqrt{815} : \sqrt{15}$.
+
+**3.10.** Rút gọn $\frac{-3\sqrt{16a} + 5\sqrt{a}}{2\sqrt{a}}$ (với $a > 0, b > 0$).
+
+**3.11.** Kích thước màn hình ti vi hình chữ nhật được xác định bởi độ dài đường chéo. Một màn hình ti vi có tỉ lệ hai cạnh màn hình là 4 : 3.
+a) Gọi x (inch) là chiều rộng của màn hình ti vi. Viết công thức tính độ dài đường chéo d (inch) của màn hình ti vi theo x.
+b) Tính chiều rộng và chiều dài (theo centimét) của màn hình ti vi loại 40 inch.
+
+=============== TRANG 52 ===============
+
+**LUYỆN TẬP CHUNG**
+
+**Ví dụ 1** Không dùng MTCT, tính giá trị của biểu thức:
+$A = \sqrt{(1-\sqrt{3})^2} - \sqrt{3}$.
+**Giải**
+Ta có $A = |1 - \sqrt{3}| - \sqrt{3} = (\sqrt{3} - 1) - \sqrt{3} = -1$. (Hằng đẳng thức $\sqrt{A^2} = |A|$).
+
+**Ví dụ 2** Tính:
+a) $(2+\sqrt{5})(2-\sqrt{5})$;
+b) $(\sqrt{5} + \sqrt{2})(\sqrt{5} - \sqrt{2})$.
+**Giải**
+Sử dụng hằng đẳng thức hiệu của hai bình phương, ta được:
+a) $(2+\sqrt{5})(2-\sqrt{5}) = 2^2 - (\sqrt{5})^2 = 4 - 5 = -1$.
+b) $(\sqrt{5} + \sqrt{2})(\sqrt{5} - \sqrt{2}) = (\sqrt{5})^2 - (\sqrt{2})^2 = 5 - 2 = 3$.
+
+**Chú ý.** Tổng quát, ta có
+$(\sqrt{A} + \sqrt{B})(\sqrt{A} - \sqrt{B}) = A - B$ với A, B là hai biểu thức, $B \geq 0$.
+$(\sqrt{A} + \sqrt{B})$ và $(\sqrt{A} - \sqrt{B})$; $\sqrt{A} + B$ và $\sqrt{A} - B$ là những cặp biểu thức liên hợp.
+
+**Ví dụ 3** Cho biểu thức $P = \frac{x\sqrt{x}+1}{x - \sqrt{x}+1} - \frac{x\sqrt{x}-1}{x+\sqrt{x}+1}$ với $x \geq 0$.
+a) Viết $x\sqrt{x}+1$ thành tổng hai lập phương rồi phân tích thành nhân tử để rút gọn biểu thức đã cho.
+b) Tính giá trị của P tại $x = 100$.
+
+**Giải**
+a) Ta có $x\sqrt{x} + 1 = (\sqrt{x})^3 + 1^3 = (\sqrt{x}+1)[(\sqrt{x})^2 - \sqrt{x} \cdot 1 + 1^2] = (\sqrt{x}+1)(x-\sqrt{x}+1)$.
+Từ đó $P = (\sqrt{x}+1) - (\sqrt{x}-1) = \sqrt{x}+1 - \sqrt{x}+1 = 2$.
+b) Tại $x = 100$ (thoả mãn điều kiện) thì $P = \sqrt{100} = 10$.
+
+=============== TRANG 53 ===============
+
+**BÀI TẬP**
+
+**3.12.** Rút gọn các biểu thức sau:
+a) $\sqrt{(\sqrt{3} - \sqrt{2})^2} + \sqrt{(1 - \sqrt{2})^2}$;
+b) $\sqrt{(\sqrt{7} - 3)^2} + \sqrt{(\sqrt{7} + 3)^2}$.
+
+**3.13.** Thực hiện phép tính:
+a) $\sqrt{3}(\sqrt{192} - \sqrt{75})$;
+b) $\frac{-3\sqrt{18} + 5\sqrt{50} - \sqrt{128}}{7\sqrt{2}}$.
+
+**3.14.** Chứng minh rằng:
+a) $(1 - \sqrt{2})^2 = 3 - 2\sqrt{2}$;
+b) $(\sqrt{3} + \sqrt{2})^2 = 5 + 2\sqrt{6}$.
+
+**3.15.** Cho căn thức $\sqrt{x^2 - 4x + 4}$.
+a) Hãy chứng tỏ rằng căn thức xác định với mọi giá trị của x.
+b) Rút gọn căn thức đã cho với $x \geq 2$.
+c) Chứng tỏ rằng với mọi $x \geq 2$, biểu thức $\sqrt{x} - \sqrt{x^2 - 4x + 4}$ có giá trị không đổi.
+
+**3.16.** Trong Vật lí, tốc độ (m/s) của một vật đang bay được cho bởi công thức $v = \sqrt{\frac{2E}{m}}$, trong đó E là động năng của vật (tính bằng Joule, kí hiệu là J) và m (kg) là khối lượng của vật (Theo sách Vật lí đại cương, NXB Giáo dục Việt Nam, 2016).
+Tính tốc độ bay của một vật khi biết vật đó có khối lượng 2,5 kg và động năng 281,25 J.
+
+=============== TRANG 54 ===============
+
+**Bài 9: BIẾN ĐỔI ĐƠN GIẢN VÀ RÚT GỌN BIỂU THỨC CHỨA CĂN THỨC BẬC HAI**
+
+**Khái niệm, thuật ngữ**
+*   Phép đưa thừa số ra ngoài hoặc vào trong dấu căn
+*   Trục căn thức ở mẫu
+
+**Kiến thức, kĩ năng**
+*   Thực hiện phép đưa thừa số ra ngoài dấu căn bậc hai, đưa thừa số vào trong dấu căn bậc hai.
+*   Thực hiện phép trục căn thức ở mẫu.
+*   Rút gọn biểu thức chứa căn thức bậc hai.
+
+Không sử dụng MTCT, có thể so sánh hai số $a = 3\sqrt{2}$ và $b = 2\sqrt{3}$ hay không?
+
+**1. ĐƯA THỪA SỐ RA NGOÀI DẤU CĂN**
+
+**Cách đưa thừa số ra ngoài dấu căn**
+**HĐ1** Tính và so sánh $\sqrt{(-3)^2 \cdot 25}$ với $|-3| \cdot \sqrt{25}$.
+
+Nếu a là một số và b là một số không âm thì $\sqrt{a^2b} = |a|\sqrt{b}$.
+**Chú ý.** Phép biến đổi trên gọi là phép đưa thừa số ra ngoài dấu căn.
+
+**Ví dụ 1** Viết nhân tử số của biểu thức dưới dấu căn thành các luỹ thừa rồi đưa thừa số ra ngoài dấu căn:
+a) $\sqrt{45}$;
+b) $\sqrt{243a}$ ($a \geq 0$).
+**Giải**
+a) Ta có $45 = 3^2 \cdot 5$ nên $\sqrt{45} = \sqrt{3^2 \cdot 5} = 3\sqrt{5}$;
+b) Ta có $243 = 3^5 = 9^2 \cdot 3a$ nên $\sqrt{243a} = \sqrt{9^2 \cdot 3a} = 9\sqrt{3a}$.
+
+=============== TRANG 55 ===============
+
+**Luyện tập 1** Đưa thừa số ra ngoài dấu căn:
+a) $\sqrt{12}$;
+b) $3\sqrt{27}$;
+c) $5\sqrt{48}$.
+
+**Chú ý.** Khi tính toán với những căn thức bậc hai mà biểu thức dưới dấu căn có mẫu, ta thường khử mẫu của biểu thức lấy căn (tức là biến đổi căn thức bậc hai đó thành một biểu thức mà trong căn thức không còn mẫu) như trong ví dụ sau:
+
+**Ví dụ 2** Khử mẫu của biểu thức lấy căn $\sqrt{\frac{4}{7}}$.
+**Giải**
+Nhân cả tử và mẫu của biểu thức lấy căn với 7 và đưa thừa số ra ngoài dấu căn, ta được
+$\sqrt{\frac{4}{7}} = \sqrt{\frac{4 \cdot 7}{7^2}} = \sqrt{(\frac{2}{7})^2 \cdot 7} = \frac{2\sqrt{7}}{7}$.
+
+**Luyện tập 2**
+Khử mẫu của biểu thức lấy căn $\sqrt{\frac{3}{5}}$.
+
+**Tranh luận**
+$\sqrt{(-2)^2 \cdot 5} = -2\sqrt{5}$.
+Em có đồng ý với cách làm của Vuông không? Vì sao?
+
+**2. ĐƯA THỪA SỐ VÀO TRONG DẤU CĂN**
+
+**Cách đưa một thừa số vào trong dấu căn**
+**HĐ2** Tính và so sánh:
+a) $5 \cdot \sqrt{4}$ với $\sqrt{5^2 \cdot 4}$;
+b) $-5 \cdot \sqrt{4}$ với $-\sqrt{(-5)^2 \cdot 4}$.
+
+*   Nếu $a \geq 0$ và b là hai số không âm thì $a\sqrt{b} = \sqrt{a^2b}$.
+*   Nếu a là số âm và b là số không âm thì $a\sqrt{b} = -\sqrt{a^2b}$.
+
+**Chú ý.** Các phép biến đổi trên gọi là phép đưa thừa số vào trong dấu căn.
+
+=============== TRANG 56 ===============
+
+**Ví dụ 3** Đưa thừa số vào trong dấu căn:
+a) $5\sqrt{2}$;
+b) $-2\sqrt{a}$ ($a \geq 0$).
+**Giải**
+a) $5\sqrt{2} = \sqrt{5^2 \cdot 2} = \sqrt{50}$;
+b) $-2\sqrt{a} = -\sqrt{2^2 \cdot a} = -\sqrt{4a}$.
+
+**Ví dụ 4** Trả lời câu hỏi trong tình huống mở đầu.
+**Giải**
+Ta có $3\sqrt{2} = \sqrt{3^2 \cdot 2} = \sqrt{18}$; $2\sqrt{3} = \sqrt{2^2 \cdot 3} = \sqrt{12}$.
+Vì $\sqrt{12} < \sqrt{18}$ nên $2\sqrt{3} < 3\sqrt{2}$.
+
+**Luyện tập 3** Đưa thừa số vào trong dấu căn:
+a) $3\sqrt{5}$;
+b) $-2\sqrt{7}$.
+
+**3. TRỤC CĂN THỨC Ở MẪU**
+
+**Cách trục căn thức ở mẫu**
+**HĐ3** Nhân cả tử và mẫu của biểu thức $\frac{3a}{2\sqrt{2}}$ với $\sqrt{2}$ và viết biểu thức nhận được dạng không có căn thức ở mẫu.
+**HĐ4** Cho hai biểu thức $\frac{-2}{\sqrt{3}+1}$ và $\frac{1}{\sqrt{3}-\sqrt{2}}$. Hãy thực hiện các yêu cầu sau để viết các biểu thức đó dưới dạng không có căn thức ở mẫu:
+a) Xác định biểu thức liên hợp của mẫu.
+b) Nhân cả tử và mẫu với biểu thức liên hợp của mẫu.
+c) Sử dụng hằng đẳng thức hiệu hai bình phương để rút gọn mẫu của biểu thức nhận được.
+
+=============== TRANG 57 ===============
+
+*   Với các biểu thức A, B và $B > 0$, ta có $\frac{A}{\sqrt{B}} = \frac{A\sqrt{B}}{B}$.
+*   Với các biểu thức A, B và $B \geq 0, A \neq B$, ta có
+    $\frac{C}{\sqrt{A} - \sqrt{B}} = \frac{C(\sqrt{A} + \sqrt{B})}{A - B}$;
+    $\frac{C}{\sqrt{A} + \sqrt{B}} = \frac{C(\sqrt{A} - \sqrt{B})}{A - B}$.
+*   Với các biểu thức A, B, C mà $A \geq 0, B \geq 0, A \neq B^2$, ta có:
+    $\frac{C}{\sqrt{A} - B} = \frac{C(\sqrt{A} + B)}{A - B^2}$;
+    $\frac{C}{\sqrt{A} + B} = \frac{C(\sqrt{A} - B)}{A - B^2}$.
+
+**Ví dụ 5** Trục căn thức ở mẫu của các biểu thức:
+a) $\frac{2}{3\sqrt{5}}$;
+b) $\frac{3}{3 - 2\sqrt{2}}$.
+**Giải**
+a) Nhân cả tử và mẫu của biểu thức đã cho với $\sqrt{5}$, ta được:
+$\frac{2}{3\sqrt{5}} = \frac{2\sqrt{5}}{3(\sqrt{5})^2} = \frac{2\sqrt{5}}{3 \cdot 5} = \frac{2\sqrt{5}}{15}$.
+b) Biểu thức liên hợp của mẫu là $3 + 2\sqrt{2}$. Nhân cả tử và mẫu của biểu thức đã cho với $3 + 2\sqrt{2}$,
+$\frac{3}{3 - 2\sqrt{2}} = \frac{3(3+2\sqrt{2})}{(3-2\sqrt{2})(3+2\sqrt{2})} = \frac{3(3+2\sqrt{2})}{3^2 - (2\sqrt{2})^2} = \frac{3(3+2\sqrt{2})}{9-8} = 3(3+2\sqrt{2})$.
+
+**Luyện tập 4** Trục căn thức ở mẫu của các biểu thức sau:
+a) $\frac{-6\sqrt{x^2+1}}{2\sqrt{3}}$;
+b) $\frac{a^2-2a}{\sqrt{a}+\sqrt{2}}$ ($a > 0, a \neq 2$).
+
+**4. RÚT GỌN BIỂU THỨC CHỨA CĂN THỨC BẬC HAI**
+
+Khi rút gọn biểu thức chứa căn thức bậc hai, ta cần phối hợp các phép tính (cộng, trừ, nhân, chia) và các phép biến đổi đơn giản (đưa thừa số ra ngoài hoặc vào trong dấu căn; khử mẫu của biểu thức lấy căn; trục căn thức ở mẫu).
+
+=============== TRANG 58 ===============
+
+**Ví dụ 6**
+Rút gọn biểu thức $A = 2\sqrt{3} - \sqrt{75} + \sqrt{(1-\sqrt{3})^2}$.
+**Giải**
+Đưa thừa số ra ngoài dấu căn, ta có: $\sqrt{75} = \sqrt{3 \cdot 5^2} = 5\sqrt{3}$;
+$\sqrt{(1-\sqrt{3})^2} = |1-\sqrt{3}| = \sqrt{3}-1$.
+Do đó $A = 2\sqrt{3} - 5\sqrt{3} + \sqrt{3} - 1 = -1 - 2\sqrt{3}$.
+
+**Ví dụ 7**
+a) Trục căn thức ở mẫu của các biểu thức: $\frac{x^2-1}{\sqrt{x}-1}$, $\frac{x^2-x}{\sqrt{x}+1}$ với $x > 1$.
+b) Sử dụng kết quả ở câu a, rút gọn biểu thức $P = \frac{x^2-1}{\sqrt{x}-1} - \frac{x^2-x}{\sqrt{x}+1}$ với $x > 1$.
+**Giải**
+a) Ta có
+$\frac{x^2-1}{\sqrt{x}-1} = \frac{(x-1)(x+1)(\sqrt{x}+1)}{(\sqrt{x}-1)(\sqrt{x}+1)} = \frac{(x-1)(x+1)(\sqrt{x}+1)}{x-1} = (x+1)(\sqrt{x}+1) = x\sqrt{x}+x+\sqrt{x}+1$;
+$\frac{x^2-x}{\sqrt{x}+1} = \frac{x(x-1)(\sqrt{x}-1)}{(\sqrt{x}+1)(\sqrt{x}-1)} = \frac{x(x-1)(\sqrt{x}-1)}{x-1} = x(\sqrt{x}-1) = x\sqrt{x}-x$.
+b) Sử dụng kết quả câu a ta có $P = (x\sqrt{x}+x+\sqrt{x}+1) - (x\sqrt{x}-x) = 2x + \sqrt{x} + 1$.
+
+**Luyện tập 5** Rút gọn biểu thức $(\frac{\sqrt{22}-\sqrt{11}}{1-\sqrt{2}} - \frac{\sqrt{21}-\sqrt{7}}{1-\sqrt{3}}) : (\sqrt{7}-\sqrt{11})$.
+
+**Vận dụng** Trong thuyết tương đối, khối lượng $m$ (kg) của một vật khi chuyển động với tốc độ $v$ (m/s) được cho bởi công thức $m = \frac{m_0}{\sqrt{1 - \frac{v^2}{c^2}}}$
+trong đó $m_0$ (kg) là khối lượng của vật khi đứng yên, $c$ (m/s) là tốc độ của ánh sáng trong chân không (Theo sách Vật lí đại cương, NXB Giáo dục Việt Nam, 2016).
+
+=============== TRANG 59 ===============
+
+a) Viết lại công thức tính khối lượng m dưới dạng không có căn thức ở mẫu.
+b) Tính khối lượng m theo $m_0$ (làm tròn đến chữ số thập phân thứ ba) khi vật chuyển động với tốc độ $v = \frac{1}{10}c$.
+
+**BÀI TẬP**
+
+**3.17.** Đưa thừa số ra ngoài dấu căn:
+a) $\sqrt{75}$;
+b) $\sqrt{27a}$ ($a \geq 0$);
+c) $\sqrt{50\sqrt{2}+100}$;
+d) $\sqrt{9\sqrt{5}-18}$.
+
+**3.18.** Đưa thừa số vào trong dấu căn:
+a) $3\sqrt{2}$;
+b) $-2\sqrt{7}$;
+c) $4\sqrt{\frac{15}{2}}$;
+d) $-5\sqrt{\frac{16}{5}}$.
+
+**3.19.** Khử mẫu trong dấu căn:
+a) $2a\sqrt{\frac{3}{5}}$;
+b) $-3x\sqrt{\frac{5}{x}}$ ($x > 0$);
+c) $-\sqrt{\frac{3a}{D}}$ ($a > 0, b > 0$).
+
+**3.20.** Trục căn thức ở mẫu:
+a) $\frac{4+3\sqrt{5}}{\sqrt{5}}$;
+b) $\frac{1}{\sqrt{5}-2}$;
+c) $\frac{3+\sqrt{3}}{1-\sqrt{3}}$;
+d) $\frac{\sqrt{2}}{\sqrt{3}+\sqrt{2}}$.
+
+**3.21.** Rút gọn các biểu thức sau:
+a) $2\sqrt{\frac{2}{3}} - 4\sqrt{\frac{3}{2}}$;
+b) $\frac{5\sqrt{48} - 3\sqrt{27} + 2\sqrt{12}}{\sqrt{3}}$;
+c) $\frac{1}{3+2\sqrt{2}} + \frac{4\sqrt{2}-4}{2-\sqrt{2}}$.
+
+**3.22.** Rút gọn biểu thức $A = \sqrt{x}(\frac{1}{\sqrt{x}+3} - \frac{1}{3-\sqrt{x}})$ ($x \geq 0, x \neq 9$).
+
+=============== TRANG 60 ===============
+
+**Bài 10: CĂN BẬC BA VÀ CĂN THỨC BẬC BA**
+
+**Khái niệm, thuật ngữ**
+*   Căn bậc ba
+*   Căn thức bậc ba
+
+**Kiến thức, kĩ năng**
+*   Nhận biết căn bậc ba của một số thực.
+*   Tính giá trị, gần đúng của căn bậc ba của một số bằng máy tính cầm tay.
+*   Nhận biết căn thức bậc ba của một biểu thức đại số.
+
+Căn bậc hai của một số thực (dương) có một vai trò quan trọng trong đời sống và toán học. Căn bậc hai của số thực a không âm là các số thực x thoả mãn $x^2 = a$. Trong bài học này, các em sẽ được làm quen với khái niệm căn bậc ba, một khái niệm tương tự khái niệm căn bậc hai.
+
+**1. CĂN BẬC BA**
+
+**Căn bậc ba của một số thực**
+**HĐ1** Kí hiệu V là thể tích của hình lập phương với cạnh x. Hãy thay dấu "?" trong bảng sau bằng các giá trị thích hợp.
+| X | 2 | ? | ? |
+| :--- | :--- | :--- | :--- |
+| V = x³ | 8 | 27 | 64 |
+
+**Tổng quát, ta định nghĩa:**
+**Căn bậc ba** của một số thực a là số thực x thoả mãn $x^3 = a$.
+**Chú ý.** Mỗi số a đều có duy nhất một căn bậc ba. Căn bậc ba của số a được kí hiệu là $\sqrt[3]{a}$.
+Trong kí hiệu $\sqrt[3]{a}$, số 3 được gọi là chỉ số của căn. Phép tìm căn bậc ba của một số gọi là phép khai căn bậc ba.
+
+**Ví dụ 1**
+a) Chứng tỏ rằng $\sqrt[3]{64} = 4$.
+b) Tính $\sqrt[3]{0}$ và $\sqrt[3]{-27}$.
+**Giải.** a) Vì $4^3 = 64$ nên $\sqrt[3]{64} = 4$.
+b) Vì $0^3 = 0, (-3)^3 = -27$ nên $\sqrt[3]{0} = 0, \sqrt[3]{-27} = -3$.
+**Nhận xét.** Từ định nghĩa căn bậc ba, ta có $(\sqrt[3]{a})^3 = \sqrt[3]{a^3} = a$ với mọi số thực a. Do đó có thể giải Ví dụ 1 như sau: $\sqrt[3]{64} = \sqrt[3]{4^3} = 4$.
+
+=============== TRANG 61 ===============
+
+**Luyện tập 1** Tính: a) $\sqrt[3]{125}$; b) $\sqrt[3]{0,008}$; c) $\sqrt[3]{-\frac{8}{27}}$.
+
+**Tính căn bậc ba của một số bằng máy tính cầm tay**
+Ta có thể sử dụng loại MTCT thích hợp để tính căn bậc ba của một số. Chẳng hạn, để tính $\sqrt[3]{12}$ và $\sqrt[3]{343}$ ta làm như sau:
+| Phép tính | Bấm các phím | Kết quả |
+| :--- | :--- | :--- |
+| $\sqrt[3]{343}$ | SHIFT $\sqrt{}$ 3 4 3 = | 7 |
+| $\sqrt[3]{12}$ | SHIFT $\sqrt{}$ 1 2 = | 2,289428485 |
+
+**Chú ý.** Màn hình MTCT chỉ hiển thị được một số hữu hạn chữ số nên các kết quả là số thập phân vô hạn (tuần hoàn hay không tuần hoàn) đều được làm tròn, chẳng hạn: $\sqrt[3]{12} \approx 2,289428485$.
+
+**Ví dụ 2**
+Sử dụng MTCT, tính $\sqrt[3]{3,25}$ rồi làm tròn kết quả đến chữ số thập phân thứ hai.
+**Giải.** Bấm các phím SHIFT $\sqrt{}$ 3 . 2 5 =, màn hình hiện kết quả 1,481246034.
+Làm tròn kết quả đến chữ số thập phân thứ hai ta được $\sqrt[3]{3,25} \approx 1,48$.
+
+**Luyện tập 2**
+Sử dụng MTCT, tính $\sqrt[3]{45}$ và làm tròn kết quả với độ chính xác 0,005.
+
+**Thử thách nhỏ**
+Có thể xếp 125 khối lập phương đơn vị (có cạnh bằng 1 cm) thành một khối lập phương lớn được không nhỉ?
+
+**2. CĂN THỨC BẬC BA**
+**Nhận biết căn thức bậc ba**
+Tương tự như căn thức bậc hai, ta có định nghĩa sau:
+**Căn thức bậc ba** là biểu thức có dạng $\sqrt[3]{A}$, trong đó A là một biểu thức đại số.
+
+=============== TRANG 62 ===============
+
+**Chú ý**
+*   Tương tự căn bậc ba của một số, ta cũng có $(\sqrt[3]{A})^3 = \sqrt[3]{A^3} = A$ (A là một biểu thức).
+*   Để tính giá trị của $\sqrt[3]{A}$ tại những giá trị cho trước của biến, ta thay các giá trị cho trước của biến vào biểu thức và tính rồi rút gọn giá trị của biểu thức số nhận được.
+
+**Ví dụ 3** Tính giá trị của căn thức $\sqrt[3]{2x+5}$ tại:
+a) $x = 60$;
+b) $x = -6,5$.
+**Giải**
+a) Với $x = 60$ ta có $\sqrt[3]{2 \cdot 60 + 5} = \sqrt[3]{125} = \sqrt[3]{5^3} = 5$.
+b) Với $x = -6,5$ ta có $\sqrt[3]{2 \cdot (-6,5) + 5} = \sqrt[3]{-8} = \sqrt[3]{(-2)^3} = -2$.
+
+**Ví dụ 4** Rút gọn biểu thức $-x + 5 + \sqrt[3]{x^3+3x^2+3x+1}$.
+**Giải**
+Ta có $x^3+3x^2+3x+1 = (x+1)^3$ (hằng đẳng thức lập phương của một tổng).
+Do đó $-x + 5 + \sqrt[3]{x^3+3x^2+3x+1} = -x + 5 + \sqrt[3]{(x+1)^3} = -x + 5 + (x+1) = 6$.
+
+**Luyện tập 3**
+a) Tính giá trị của căn thức $\sqrt[3]{5x-1}$ tại $x = 0$ và tại $x = -1,4$.
+b) Rút gọn biểu thức $\sqrt[3]{x^3-3x^2+3x-1}$.
+
+**BÀI TẬP**
+
+**3.23.** Tính:
+a) $\sqrt[3]{216}$;
+b) $\sqrt[3]{-512}$;
+c) $\sqrt[3]{-0,001}$;
+d) $\sqrt[3]{1,331}$.
+
+**3.24.** Sử dụng MTCT, tính các căn bậc ba sau đây (làm tròn kết quả đến chữ số thập phân thứ hai):
+a) $\sqrt[3]{2,1}$;
+b) $\sqrt[3]{-18}$;
+c) $\sqrt[3]{-28}$;
+d) $\sqrt[3]{0,35}$.
+
+**3.25.** Một người thợ làm một thùng tôn hình lập phương có thể tích 730 dm³. Em hãy ước lượng chiều dài cạnh thùng khoảng bao nhiêu?
+
+**3.26.** Rút gọn các biểu thức sau:
+a) $\sqrt[3]{(1-\sqrt{2})^3}$;
+b) $\sqrt[3]{(2\sqrt{2}+1)^3}$;
+c) $(\sqrt[3]{\sqrt{2}+1})^3$.
+
+**3.27.** Rút gọn rồi tính giá trị của biểu thức $\sqrt[3]{27x^3-27x^2+9x-1}$ tại $x=7$.
+
+=============== TRANG 63 ===============
+
+**LUYỆN TẬP CHUNG**
+
+**Ví dụ 1**
+Rút gọn biểu thức $A = \sqrt{(\sqrt{5}+1)^2} - \sqrt{3(\sqrt{5}+1)^2} + \sqrt{4}$.
+**Giải**
+Ta có $A = |\sqrt{5}+1| - |\sqrt{5}+1|\sqrt{3} + 2 = (\sqrt{5}+1) - (\sqrt{5}+1)\sqrt{3} + 2 = \sqrt{5}+1-\sqrt{15}-\sqrt{3}+2 = 3+\sqrt{5}-\sqrt{15}-\sqrt{3}$.
+$A = \sqrt{(\sqrt{3}+1)^2 - \sqrt{3}\cdot\sqrt{(\sqrt{3}+1)^2}} + \sqrt{2^2} = (\sqrt{3}+1)-\sqrt{3}(\sqrt{3}+1)+2 = \sqrt{3}+1-3-\sqrt{3}+2 = 0$.
+
+**Ví dụ 2**
+Cho biểu thức $P = \frac{\sqrt{x}}{\sqrt{x}+1} + \frac{\sqrt{x}}{\sqrt{x}-1}$ với $x > 1$.
+a) Rút gọn P.
+b) Sử dụng kết quả câu a, tính giá trị của P khi $x = 101$.
+**Giải**
+a) $P = \frac{\sqrt{x}(\sqrt{x}-1) + \sqrt{x}(\sqrt{x}+1)}{(\sqrt{x}+1)(\sqrt{x}-1)} = \frac{x-\sqrt{x}+x+\sqrt{x}}{x-1} = \frac{2x}{x-1}$.
+b) Khi $x = 101$ thì $P = \frac{2 \cdot 101}{101-1} = \frac{202}{100} = 2,02$.
+
+**Ví dụ 3**
+Người ta cần làm một thùng hình lập phương bằng bìa cứng không có nắp trên và có thể tích 216 dm³ để đựng đồ.
+a) Tính diện tích bìa cứng cần dùng để làm thùng đựng đồ (coi diện tích các mép nối là không đáng kể).
+
+**Giải**
+Gọi x (dm, $x > 0$) là độ dài cạnh của thùng hình lập phương cần làm.
+Ta có: $x^3 = 216$, suy ra $x = \sqrt[3]{216} = 6$ (dm).
+Vì thùng đựng không có nắp nên thùng gồm 4 mặt bên và 1 mặt đáy, mỗi mặt là một hình vuông cạnh 6 dm. Do đó diện tích bìa cứng cần dùng là $S = 5 \cdot 6^2 = 180$ (dm²).
+
+=============== TRANG 64 ===============
+
+**BÀI TẬP**
+
+**3.28.** Rút gọn các biểu thức sau:
+a) $\frac{5+3\sqrt{5}}{\sqrt{5}} - \frac{1}{\sqrt{5}-2}$;
+b) $\sqrt{(\sqrt{7}-2)^2} - \sqrt{63} + \frac{\sqrt{56}}{\sqrt{2}}$;
+c) $\frac{\sqrt{(\sqrt{3}+\sqrt{2})^2} + \sqrt{(\sqrt{3}-\sqrt{2})^2}}{2\sqrt{12}}$;
+d) $\frac{\sqrt{(\sqrt{2}+1)^3} - 1}{\sqrt{50}}$.
+
+**3.29.** Tính giá trị của các biểu thức sau:
+a) $3\sqrt{45} + \frac{5\sqrt{15}}{\sqrt{3}} - 2\sqrt{245}$;
+b) $\frac{\sqrt{12}-\sqrt{4}}{\sqrt{3}-1} - \frac{\sqrt{21}+\sqrt{7}}{\sqrt{3}+1}$;
+c) $3 - \sqrt{3} + \sqrt{3(2\sqrt{3}-1) + \sqrt{12}}$;
+d) $\frac{\sqrt{3}-1}{\sqrt{2}} - \frac{\sqrt{2}-\sqrt{6}}{\sqrt{8}-1\sqrt{6}}$.
+
+**3.30.** Giả sử lực F của gió khi thổi theo phương vuông góc với bề mặt cánh buồm của một con thuyền tỉ lệ thuận với bình phương tốc độ của gió, hệ số tỉ lệ là 30. Trong đó, lực F được tính bằng N (Newton) và tốc độ được tính bằng m/s.
+a) Khi tốc độ của gió là 10 m/s thì lực F là bao nhiêu Newton?
+b) Nếu cánh buồm chỉ có thể chịu được một áp lực tối đa là 12 000 N thì con thuyền đó có thể đi được trong gió với tốc độ tối đa là bao nhiêu?
+
+**3.31.** Rút gọn các biểu thức sau:
+a) $\sqrt{(-x-1)^3}$;
+b) $\sqrt{8x^3 - 12x^2 + 6x - 1}$.
+
+=============== TRANG 65 ===============
+
+**BÀI TẬP CUỐI CHƯƠNG III**
+
+**A. TRẮC NGHIỆM**
+**3.32.** Căn bậc hai của 4 là
+A. 2.
+B. -2.
+C. 2 và -2.
+D. $\sqrt{2}$ và $-\sqrt{2}$.
+
+**3.33.** Căn bậc hai số học của 49 là
+A. 7.
+B. -7.
+C. 7 và -7.
+D. $\sqrt{7}$ và $-\sqrt{7}$.
+
+**3.34.** Rút gọn biểu thức $\sqrt{(4-\sqrt{17})^2}$ ta được
+A. $4 + \sqrt{17}$.
+B. $4 - \sqrt{17}$.
+C. $\sqrt{17} - 4$.
+D. $-4 - \sqrt{17}$.
+
+**3.35.** Độ dài đường kính (mét) của hình tròn có diện tích 4 m² sau khi làm tròn kết quả đến chữ số thập phân thứ hai bằng
+A. 2,26.
+B. 2,50.
+C. 1,13.
+D. 1,12.
+
+**3.36.** Một vật rơi tự do từ độ cao 396,9 m. Biết quãng đường chuyển động S (mét) của vật phụ thuộc vào thời gian t (giây) bởi công thức $S = 4,9t^2$. Vật chạm đất sau
+A. 8 giây.
+B. 5 giây.
+C. 11 giây.
+D. 9 giây.
+
+**B. TỰ LUẬN**
+**3.37.** Không sử dụng MTCT, tính giá trị của biểu thức
+$A = \sqrt{(\sqrt{3}-2)^2} + \sqrt{(4(2+\sqrt{3}))^2} - \frac{1}{2-\sqrt{3}}$.
+
+**3.38.** Cho biểu thức $A = \frac{\sqrt{x}+2}{\sqrt{x}-2}$ ($x>0, x\neq 4$).
+a) Rút gọn biểu thức A.
+b) Tính giá trị của A tại $x=14$.
+
+**3.39.** Biết rằng nhiệt lượng toả ra trên dây dẫn được tính bởi công thức $Q = I^2Rt$, trong đó Q là nhiệt lượng tính bằng đơn vị Joule (J), R là điện trở tính bằng đơn vị Ohm ($\Omega$), I là cường độ dòng điện tính bằng đơn vị Ampe (A), t là thời gian tính bằng giây (s). Dòng điện chạy qua một dây dẫn có $R = 10 \Omega$ trong thời gian 5 giây.
+a) Thay dấu “?” trong bảng sau bằng các giá trị thích hợp.
+| I (A) | 1 | 1,5 | 2 |
+| :--- | :--- | :--- | :--- |
+| Q (J) | ? | ? | ? |
+b) Cường độ dòng điện là bao nhiêu Ampe để nhiệt lượng toả ra trên dây dẫn đạt 800 J?
+
+=============== TRANG 66 ===============
+
+**Chương IV: HỆ THỨC LƯỢNG TRONG TAM GIÁC VUÔNG**
+
+**Bài 11: TỈ SỐ LƯỢNG GIÁC CỦA GÓC NHỌN**
+
+**Khái niệm, thuật ngữ**
+*   Tỉ số lượng giác của góc nhọn
+*   Sin, côsin, tang, côtang
+
+**Kiến thức, kĩ năng**
+*   Nhận biết sin, côsin, tang, côtang của góc nhọn.
+*   Giải thích bảng tỉ số lượng giác của các góc $30^\circ, 45^\circ, 60^\circ$.
+*   Giải thích quan hệ giữa tỉ số lượng giác của hai góc phụ nhau.
+*   Biết dùng máy tính cầm tay để tính sin, côsin, tang, côtang của một góc nhọn.
+
+Ta có thể xác định “góc dốc” $\alpha$ của một đoạn đường dốc khi biết tỉ số độ dài của dốc là l và độ cao của đỉnh dốc h so với đường nằm ngang là d, không? (H.4.1). Trong các toà chung cư, người ta thường thiết kế đoạn dốc cho người đi xe lăn với góc dốc bé hơn $6^\circ$.
+
+=============== TRANG 67 ===============
+
+**1. KHÁI NIỆM TỈ SỐ LƯỢNG GIÁC CỦA MỘT GÓC NHỌN**
+
+Cho tam giác ABC vuông tại A. Xét góc nhọn B. Cạnh AC gọi là cạnh đối của góc B, cạnh AB gọi là cạnh kề của góc B (H.4.2).
+
+Xét góc C của tam giác ABC vuông tại A (H.4.3). Hãy chỉ ra cạnh đối và cạnh kề của góc C.
+
+**Khái niệm sin, côsin, tang, côtang của góc nhọn $\alpha$**
+**HĐ1** Cho tam giác ABC vuông tại A và tam giác A’B’C’ vuông tại A’ có $\hat{B} = \hat{B'} = \alpha$. Chứng minh rằng:
+a) $\triangle ABC \sim \triangle A'B'C'$;
+b) $\frac{AC}{BC} = \frac{A'C'}{B'C'}$, $\frac{AB}{BC} = \frac{A'B'}{B'C'}$, $\frac{AC}{AB} = \frac{A'C'}{A'B'}$.
+
+**Nhận xét.** Trong Hình 4.4, các tam giác vuông có cùng một góc nhọn $\alpha$ là đồng dạng với nhau. Vì vậy các tỉ số giữa cạnh đối và cạnh huyền, cạnh kề và cạnh huyền, cạnh đối và cạnh kề của góc $\alpha$ là như nhau, cho dù độ dài các cạnh đối (các cạnh kề) của góc $\alpha$ và các cạnh huyền có thể khác nhau với từng tam giác.
+
+=============== TRANG 68 ===============
+
+Cho góc nhọn $\alpha$. Xét tam giác ABC vuông tại A có góc nhọn B bằng $\alpha$. (H.4.5). Ta có:
+- Tỉ số giữa cạnh đối và cạnh huyền gọi là **sin** của $\alpha$, kí hiệu $\sin \alpha$.
+- Tỉ số giữa cạnh kề và cạnh huyền gọi là **côsin** của $\alpha$, kí hiệu $\cos \alpha$.
+- Tỉ số giữa cạnh đối và cạnh kề gọi là **tang** của $\alpha$, kí hiệu $\tan \alpha$.
+- Tỉ số giữa cạnh kề và cạnh đối gọi là **côtang** của $\alpha$, kí hiệu $\cot \alpha$.
+
+**Chú ý.** Ta có:
+*   $\sin \alpha = \frac{\text{cạnh đối}}{\text{cạnh huyền}}$; $\cos \alpha = \frac{\text{cạnh kề}}{\text{cạnh huyền}}$
+*   $\tan \alpha = \frac{\text{cạnh đối}}{\text{cạnh kề}}$; $\cot \alpha = \frac{\text{cạnh kề}}{\text{cạnh đối}}$
+*   $\cot \alpha = \frac{1}{\tan \alpha}$
+*   $\sin \alpha, \cos \alpha, \tan \alpha, \cot \alpha$ gọi là các **tỉ số lượng giác** của góc nhọn $\alpha$.
+
+sin, côsin của góc nhọn luôn dương và bé hơn 1 vì trong tam giác vuông, cạnh huyền dài nhất.
+
+**Ví dụ 1**
+Cho tam giác ABC vuông tại A, có $AB = 3$ cm, $AC = 4$ cm (H.4.6).
+Hãy tính các tỉ số lượng giác $\sin \alpha, \cos \alpha, \tan \alpha$ với $\alpha = \hat{B}$.
+
+**Giải**
+Xét $\triangle ABC$ vuông tại A, $\hat{B} = \alpha$.
+Theo Định lí Pythagoras, ta có:
+$BC^2 = AC^2 + AB^2 = 4^2 + 3^2 = 25$ nên $BC = 5$ (cm).
+Theo định nghĩa của tỉ số lượng giác sin, côsin, tang, ta có
+$\sin \alpha = \frac{AC}{BC} = \frac{4}{5}$; $\cos \alpha = \frac{AB}{BC} = \frac{3}{5}$; $\tan \alpha = \frac{AC}{AB} = \frac{4}{3}$.
+
+**Luyện tập 1**
+Cho tam giác ABC vuông tại A có $AB = 5$ cm, $AC = 12$ cm.
+Hãy tính các tỉ số lượng giác của góc B.
+
+=============== TRANG 69 ===============
+
+**HĐ2** Cho tam giác ABC vuông cân tại A và $AB = AC = a$ (H.4.7a).
+a) Hãy tính BC và các tỉ số $\frac{AB}{BC}, \frac{AC}{BC}$.
+Từ đó suy ra $\sin 45^\circ, \cos 45^\circ$.
+b) Hãy tính các tỉ số $\frac{AC}{AB}$ và $\frac{AB}{AC}$. Từ đó suy ra $\tan 45^\circ, \cot 45^\circ$.
+
+**HĐ3** Xét tam giác đều ABC có cạnh bằng 2a.
+a) Tính đường cao AH của tam giác ABC (H.4.7b).
+b) Tính $\sin 30^\circ, \cos 30^\circ, \sin 60^\circ, \cos 60^\circ$.
+c) Tính $\tan 30^\circ, \cot 30^\circ, \tan 60^\circ, \cot 60^\circ$.
+
+Từ HĐ2 và HĐ3, ta có bảng sau:
+| $\alpha$ | $30^\circ$ | $45^\circ$ | $60^\circ$ |
+| :--- | :--- | :--- | :--- |
+| $\sin \alpha$ | $\frac{1}{2}$ | $\frac{\sqrt{2}}{2}$ | $\frac{\sqrt{3}}{2}$ |
+| $\cos \alpha$ | $\frac{\sqrt{3}}{2}$ | $\frac{\sqrt{2}}{2}$ | $\frac{1}{2}$ |
+| $\tan \alpha$ | $\frac{\sqrt{3}}{3}$ | 1 | $\sqrt{3}$ |
+| $\cot \alpha$ | $\sqrt{3}$ | 1 | $\frac{\sqrt{3}}{3}$ |
+
+**Ví dụ 2** Cho tam giác ABC vuông tại A có $\hat{C} = 30^\circ$ và $BC = a$. Tính các cạnh $AB, AC$ theo a.
+**Giải**
+Ta có $\sin \hat{C} = \frac{AB}{BC}$, suy ra $AB = BC \cdot \sin \hat{C} = a \cdot \sin 30^\circ$.
+Theo bảng trên, $\sin 30^\circ = \frac{1}{2}$ nên $AB = \frac{a}{2}$.
+Tương tự, ta có $\cos \hat{C} = \frac{AC}{BC}$, suy ra $AC = BC \cdot \cos \hat{C} = a \cdot \cos 30^\circ = \frac{a\sqrt{3}}{2}$.
+
+=============== TRANG 70 ===============
+
+**Luyện tập 2**
+Cho tam giác ABC vuông tại A có $\hat{C} = 45^\circ$ và $AB = c$. Tính $BC$ và $AC$ theo c.
+
+**2. TỈ SỐ LƯỢNG GIÁC CỦA HAI GÓC PHỤ NHAU**
+
+**HĐ4** Cho tam giác ABC vuông tại A.
+Nếu $\hat{A} = \alpha, \hat{B} = \beta$ (H.4.9). Hãy viết các tỉ số lượng giác của $\alpha, \beta$ theo độ dài các cạnh của tam giác ABC. Trong các tỉ số đó, cho biết các cặp tỉ số bằng nhau.
+
+**Định lí**
+Nếu hai góc phụ nhau thì sin góc này bằng côsin góc kia, tang góc này bằng côtang góc kia.
+
+**Chú ý.** Cho $\alpha$ và $\beta$ là hai góc phụ nhau, khi đó:
+$\sin \alpha = \cos \beta, \cos \alpha = \sin \beta, \tan \alpha = \cot \beta, \cot \alpha = \tan \beta$.
+
+**Ví dụ 3**
+Hãy viết các tỉ số lượng giác sau thành tỉ số lượng giác của góc nhỏ hơn $45^\circ$:
+$\sin 60^\circ, \cos 75^\circ, \sin 52^\circ 30', \tan 80^\circ, \cot 82^\circ$.
+
+**Giải**
+Ta có:
+$\sin 60^\circ = \cos (90^\circ - 60^\circ) = \cos 30^\circ$;
+$\cos 75^\circ = \sin (90^\circ - 75^\circ) = \sin 15^\circ$;
+$\sin 52^\circ 30' = \cos (90^\circ - 52^\circ 30') = \cos 37^\circ 30'$;
+$\tan 80^\circ = \cot (90^\circ - 80^\circ) = \cot 10^\circ$;
+$\cot 82^\circ = \tan (90^\circ - 82^\circ) = \tan 8^\circ$.
+
+**Luyện tập 3**
+Hãy giải thích tại sao $\sin 35^\circ = \cos 55^\circ, \tan 35^\circ = \cot 55^\circ$.
+
+=============== TRANG 71 ===============
+
+**3. SỬ DỤNG MÁY TÍNH CẦM TAY TÍNH TỈ SỐ LƯỢNG GIÁC CỦA MỘT GÓC NHỌN**
+
+**Ví dụ 4**
+Dùng MTCT, tính $\sin 27^\circ, \cos 32^\circ 15', \tan 52^\circ 12'$ và $\cot 35^\circ 23'$ (làm tròn đến chữ số thập phân thứ ba).
+**Giải**
+| Để tính | Bấm phím | Kết quả |
+| :--- | :--- | :--- |
+| $\sin 27^\circ$ | SIN 2 7 = | 0,4539904997 |
+| $\cos 32^\circ 15'$ | COS 3 2 O''' 1 5 O''' = | 0,8457278217 |
+| $\tan 52^\circ 12'$ | TAN 5 2 O''' 1 2 O''' = | 1,289192232 |
+| $\cot 35^\circ 23'$ | TAN 3 5 O''' 2 3 O''' x⁻¹ = | 1,408003909 |
+Làm tròn đến chữ số thập phân thứ ba ta được $\sin 27^\circ \approx 0,454; \cos 32^\circ 15' \approx 0,846; \tan 52^\circ 12' \approx 1,289; \cot 35^\circ 23' \approx 1,408$.
+
+**Luyện tập 4**
+Sử dụng MTCT tính các tỉ số lượng giác sau và làm tròn kết quả đến chữ số thập phân thứ ba:
+a) $\sin 40^\circ 54'$;
+b) $\cos 52^\circ 15'$;
+c) $\tan 69^\circ 36'$;
+d) $\cot 25^\circ 18'$.
+
+**Ví dụ 5**
+Dùng MTCT, tìm các góc (làm tròn đến phút) biết $\sin \alpha_1 = 0,3214, \cos \alpha_2 = 0,4321, \tan \alpha_3 = 1,2742$ và $\cot \alpha_4 = 1,5384$.
+**Giải**
+| Biết | Bấm phím | Kết quả | Bấm tiếp O''' |
+| :--- | :--- | :--- | :--- |
+| $\sin \alpha_1 = 0,3214$ | SHIFT SIN 0 . 3 2 1 4 = | 18,74761209 | $18^\circ 44' 51,4''$ |
+| $\cos \alpha_2 = 0,4321$ | SHIFT COS 0 . 4 3 2 1 = | 64,39909458 | $64^\circ 23' 56,74''$ |
+| $\tan \alpha_3 = 1,2742$ | SHIFT TAN 1 . 2 7 4 2 = | 51,87495892 | $51^\circ 52' 29,85''$ |
+| $\cot \alpha_4 = 1,5384$ | SHIFT TAN 1 . 5 3 8 4 x⁻¹ = | 33,02491482 | $33^\circ 1' 29,69''$ |
+Làm tròn đến phút ta được $\alpha_1 \approx 18^\circ 45'; \alpha_2 \approx 64^\circ 24'; \alpha_3 \approx 51^\circ 52'; \alpha_4 \approx 33^\circ 1'$.
+
+=============== TRANG 72 ===============
+
+**Luyện tập 5** Dùng MTCT, tìm các góc $\alpha$ (làm tròn đến phút), biết:
+a) $\sin \alpha = 0,3782$;
+b) $\cos \alpha = 0,6251$;
+c) $\tan \alpha = 2,154$;
+d) $\cot \alpha = 3,253$.
+
+**Vận dụng**
+Trở lại bài toán ở tình huống mở đầu. Trong một toà chung cư, biết đoạn dốc vào sảnh toà nhà dài 4 m, độ cao của đỉnh dốc bằng 0,4 m.
+a) Hãy tính góc dốc.
+b) Hội dốc đó có đúng tiêu chuẩn của dốc cho người đi xe lăn không?
+
+**Tranh luận**
+Để tính khoảng cách giữa hai địa điểm A, B không đo trực tiếp được, chẳng hạn A và B là hai địa điểm ở hai bên sông, người ta lấy điểm C về phía bờ sông có chứa B sao cho tam giác ABC vuông tại B.
+Ở bên bờ sông chứa B, người ta đo được $ACB = \alpha$ và $BC = a$ (H.4.10). Với các dữ liệu đó, đã tính được khoảng cách AB chưa? Nếu được, hãy tính AB, biết $\alpha = 55^\circ, a = 70$ m.
+Không thể tính được AB vì trong tam giác vuông ABC, theo định lí Pythagoras, phải biết được hai cạnh mới tính được cạnh thứ ba.
+Với các dữ liệu đã biết, ta có thể tính được khoảng cách AB rồi.
+
+=============== TRANG 73 ===============
+
+**BÀI TẬP**
+
+**4.1.** Cho tam giác ABC vuông tại A. Tính các tỉ số lượng giác sin, côsin, tang, côtang của các góc nhọn B và C khi biết:
+a) $AB = 8$ cm, $BC = 17$ cm;
+b) $AC = 0,9$ cm, $AB = 1,2$ cm.
+
+**4.2.** Cho tam giác vuông có một góc nhọn $60^\circ$ và cạnh kề với góc $60^\circ$ bằng 3 cm. Hãy tính cạnh đối của góc này.
+
+**4.3.** Cho tam giác này có một góc nhọn $30^\circ$ và cạnh đối với góc này bằng 5 cm. Tính độ dài cạnh huyền của tam giác.
+
+**4.4.** Cho hình chữ nhật có chiều dài và chiều rộng lần lượt là 3 và $\sqrt{3}$. Tính góc giữa đường chéo và cạnh ngắn hơn của hình chữ nhật (sử dụng bảng giá trị lượng giác trang 69).
+
+**4.5.** a) Viết các tỉ số lượng giác sau thành tỉ số lượng giác của các góc nhỏ hơn $45^\circ$: $\sin 55^\circ, \cos 62^\circ, \tan 57^\circ, \cot 64^\circ$.
+b) Tính $\frac{\tan 25^\circ}{\cot 65^\circ}, \tan 34^\circ - \cot 56^\circ$.
+
+**4.6.** Dùng MTCT, tính (làm tròn đến chữ số thập phân thứ ba):
+a) $\sin 40^\circ 12'$;
+b) $\cos 52^\circ 54'$;
+c) $\tan 63^\circ 36'$;
+d) $\cot 25^\circ 18'$.
+
+**4.7.** Dùng MTCT, tìm số đo của góc nhọn x (làm tròn đến phút), biết rằng:
+a) $\sin x = 0,2368$;
+b) $\cos x = 0,6224$;
+c) $\tan x = 1,236$;
+d) $\cot x = 2,154$.
+
+**EM CÓ BIẾT? (Đọc thêm)**
+**LỊCH SỬ RA ĐỜI CÁC TỈ SỐ sin, côsin, tang, côtang**
+Ở thế kỉ II, nhà thiên văn người Hy Lạp Ptolemy (85 – 165) đã nghiên cứu mối liên hệ giữa độ dài cung tròn và dây căng cung tròn đó. Sau đó, những nhà thiên văn người Hindu đã nghiên cứu mối liên hệ giữa bản cung và nửa dây, gọi dây căng cung là jiva. Nhà thiên văn người Ả Rập Al-Battani (858 – 929) phát triển jiva thành djiba của nghiên cứu La Tinh. Đến năm 1150, nhà phiên dịch người Ý Gerard de Cremona (1114 – 1187) dịch djiba sang tiếng Latinh thành sinus viết tắt là sin (trên hình: (O) là đường tròn bán kính bằng 1, P là điểm chính giữa của cung nhỏ MN, H là trung điểm của dây MN, khi đó sin MOP = HM).
+Năm 1583, nhà Vật lí và toán học người Đức Thomas Finck đã đưa vào từ “tang” (trong từ ngữ khoa học Ả Rập, chữ tang có nghĩa là bóng của một vật) và các kí hiệu sin, cos, tan (chữ com là viết tắt của chữ complementary, ý nói góc phụ). Mãi 40 năm sau, người ta mới dùng kí hiệu côsin, côtang thay cho sin.com, tan.com.
+(theo Stella Baruk, Dictionnaire de mathématiques élémentaires, Seuil, Pháp, 1992)
+
+=============== TRANG 74 ===============
+
+**Bài 12: MỘT SỐ HỆ THỨC GIỮA CẠNH, GÓC TRONG TAM GIÁC VUÔNG VÀ ỨNG DỤNG**
+
+**Kiến thức, kĩ năng**
+*   Giải thích một số hệ thức về cạnh và góc trong tam giác vuông.
+*   Giải quyết một số vấn đề thực tiễn gắn với tỉ số lượng giác của góc nhọn.
+
+Để đo chiều cao của một toà lâu đài (H.4.11), người ta đặt giác kế thẳng đứng tại điểm M. Quay ống ngắm của giác kế sao cho nhìn thấy đỉnh P' của toà lâu đài dưới góc nhọn $\alpha$. Sau đó, đặt giác kế thẳng đứng tại điểm N, $NM = 20$ m, thì nhìn thấy đỉnh P' dưới góc nhọn $\beta$ ($\beta < \alpha$). Biết chiều cao giác kế là 1,6 m, hãy tính chiều cao của toà lâu đài.
+
+**1. HỆ THỨC GIỮA CẠNH HUYỀN VÀ CẠNH GÓC VUÔNG**
+
+**HĐ1** Cho tam giác ABC vuông tại A, cạnh huyền a và các cạnh góc vuông b, c (H.4.12).
+a) Viết các tỉ số lượng giác sin, côsin của góc B và góc C theo độ dài các cạnh của tam giác ABC.
+b) Tính mỗi cạnh góc vuông b và c theo cạnh huyền a và các tỉ số lượng giác trên của góc B và góc C.
+
+**Định lí 1**
+Trong tam giác vuông, mỗi cạnh góc vuông bằng cạnh huyền nhân với sin góc đối hoặc nhân với côsin góc kề.
+**Chú ý.** Trong tam giác ABC vuông tại A (H.4.12), ta có:
+$b = a \cdot \sin B = a \cdot \cos C; \quad c = a \cdot \sin C = a \cdot \cos B$.
+
+=============== TRANG 75 ===============
+
+**Ví dụ 1**
+Một chiếc máy bay bay lên với vận tốc 500 km/h. Đường bay lên tạo với phương nằm ngang một góc $30^\circ$ (H.4.13). Hỏi sau 1,2 phút, máy bay lên cao được bao nhiêu kilômét theo phương thẳng đứng?
+
+**Giải**
+Giả sử trong Hình 4.13, AB là đoạn đường máy bay bay lên trong 1,2 phút thì BH chính là độ cao máy bay đạt được sau 1,2 phút đó.
+Ta có 1,2 phút = $\frac{1,2}{60}$ giờ nên $AB = 500 \cdot \frac{1,2}{60} = 10$ (km).
+Tam giác ABH vuông tại H, có $\hat{A} = 30^\circ$. Theo Định lí 1, ta có
+$BH = AB \cdot \sin A = 10 \cdot \sin 30^\circ = 10 \cdot \frac{1}{2} = 5$ (km).
+Vậy sau 1,2 phút, máy bay lên cao được 5 km.
+
+**Luyện tập 1**
+1. Một chiếc thang dài 3 m. Cần đặt chân thang cách chân tường một khoảng bằng bao nhiêu mét (làm tròn đến số thập phân thứ hai) để nó tạo với mặt đất một góc “an toàn” $65^\circ$ (tức là đảm bảo thang chắc chắn khi sử dụng) (H.4.14)?
+2. Một khúc sông rộng khoảng 250 m. Một con đò chèo qua sông bị dòng nước đẩy xiên nên phải chèo khoảng 320 m mới sang được bờ bên kia. Hỏi dòng nước đã đẩy con đò đi lệch một góc $\alpha$ bằng bao nhiêu độ (làm tròn đến phút)? (H.4.15).
+
+**2. HỆ THỨC GIỮA HAI CẠNH GÓC VUÔNG**
+
+**HĐ2** Xét tam giác ABC trong Hình 4.16.
+a) Viết các tỉ số lượng giác tang, côtang của góc B và góc C theo b, c.
+b) Tính mỗi cạnh góc vuông b và c theo cạnh góc vuông kia và các tỉ số lượng giác trên của góc B và góc C.
+
+=============== TRANG 76 ===============
+
+**Định lí 2**
+Trong tam giác vuông, mỗi cạnh góc vuông bằng cạnh góc vuông kia nhân với tang góc đối hoặc nhân với côtang góc kề.
+**Chú ý.** Trong tam giác ABC vuông tại A (H.4.16), ta có:
+$b = c \cdot \tan B = c \cdot \cot C; \quad c = b \cdot \tan C = b \cdot \cot B$.
+
+**Ví dụ 2**
+Các tia nắng mặt trời tạo với mặt đất một góc xấp xỉ bằng $34^\circ$ và bóng của một toà tháp trên mặt đất dài 8,6 m (H.4.17). Tính chiều cao của toà tháp đó (làm tròn đến mét).
+
+**Giải**
+Ta nhận thấy đường cao của tháp đối diện với góc $34^\circ$ (góc tạo bởi tia nắng mặt trời và bóng của tháp trên mặt đất).
+Theo Định lí 2, ta có $h = 8,6 \cdot \tan 34^\circ \approx 6$ (m).
+Vậy chiều cao của tháp là khoảng 6 m.
+
+**Luyện tập 2**
+Bóng trên mặt đất của một cây dài 25 m. Tính chiều cao của cây (làm tròn đến dm), biết rằng tia nắng mặt trời tạo với mặt đất góc $40^\circ$ (H.4.18).
+
+**3. GIẢI TAM GIÁC VUÔNG**
+
+**Ví dụ 3** Cho tam giác ABC vuông tại A với các cạnh góc vuông $AB = 5, AC = 8$ (H.4.19). Hãy tính cạnh BC (làm tròn đến chữ số thập phân thứ nhất) và các góc B, C (làm tròn đến độ).
+**Giải.**
+Cách 1. Theo định lí Pythagoras, ta có:
+$BC = \sqrt{AB^2 + AC^2} = \sqrt{5^2 + 8^2} \approx 9,4$.
+Ta có $\tan C = \frac{AB}{AC} = \frac{5}{8} \approx 0,625$. Từ đó tìm được $\hat{C} \approx 32^\circ$, suy ra $\hat{B} = 90^\circ - \hat{C} \approx 90^\circ - 32^\circ = 58^\circ$.
+
+=============== TRANG 77 ===============
+
+Cách 2. Sau khi tìm được $\hat{C} \approx 32^\circ$, ta tính cạnh BC.
+Ta có $\sin \hat{C} = \frac{AB}{BC}$, suy ra $BC = \frac{AB}{\sin \hat{C}} = \frac{5}{\sin 32^\circ} \approx 9,4$.
+
+**Luyện tập 3**
+Cho tam giác vuông ABC có cạnh góc vuông $AB = 4$, cạnh huyền $BC = 8$. Tính cạnh AC (làm tròn đến số thập phân thứ ba) và các góc B, C (làm tròn đến độ).
+
+**Ví dụ 4** Cho tam giác ABC vuông tại A có $AB = 3, \hat{B} = 42^\circ$ (H.4.20). Tính góc C và các cạnh AC, BC (làm tròn đến chữ số thập phân thứ ba).
+**Giải**
+Xét $\triangle ABC$ vuông tại A.
+Ta có: $\hat{C} = 90^\circ - \hat{B} = 90^\circ - 42^\circ = 48^\circ$;
+$AC = AB \cdot \tan \hat{B} = 3 \cdot \tan 42^\circ \approx 2,701$.
+Theo định nghĩa của tỉ số lượng giác của góc nhọn, ta có:
+$\cos \hat{B} = \frac{AB}{BC}$, suy ra $BC = \frac{AB}{\cos \hat{B}} = \frac{3}{\cos 42^\circ} \approx 4,037$.
+
+**Giải tam giác vuông là gì?**
+Ví dụ 3, Luyện tập 3 và Ví dụ 4 là những bài toán **Giải tam giác vuông**.
+Trong một tam giác vuông, nếu cho biết trước hai cạnh (hoặc một góc nhọn và một cạnh) thì ta sẽ tìm được tất cả các cạnh và các góc còn lại của tam giác vuông đó. Bài toán này gọi là bài toán **Giải tam giác vuông**.
+1. Hãy nêu cách giải tam giác vuông tại A khi biết hai cạnh $AB = c, AC = b$ hoặc $AB = c, BC = a$ và không sử dụng định lí Pythagoras.
+2. Hãy nêu cách giải tam giác vuông tại A khi biết cạnh góc vuông AB (hoặc cạnh huyền BC) và góc B.
+
+**Luyện tập 4**
+Giải tam giác vuông tại A, biết $BC = 9, \hat{C} = 53^\circ$.
+
+**Vận dụng** Giải bài toán ở tình huống mở đầu với $\alpha = 27^\circ$ và $\beta = 19^\circ$.
+
+=============== TRANG 78 ===============
+
+**BÀI TẬP**
+
+**4.8.** Giải tam giác ABC vuông tại A có $BC = a, AC = b, AB = c$, trong các trường hợp:
+a) $a = 21, b = 18$;
+b) $b = 10, \hat{C} = 30^\circ$;
+c) $c = 5, b = 3$.
+
+**4.9.** Tính góc nghiêng $\alpha$ của thùng xe chở rác trong Hình 4.22.
+
+**4.10.** Tìm góc nghiêng $\alpha$ và chiều rộng AB của mái nhà kho trong Hình 4.23.
+
+**4.11.** Tính các góc của hình thoi có hai đường chéo dài $2\sqrt{3}$ và 2.
+
+**4.12.** Cho hình thang ABCD ($AD // BC$) có $AD = 16$ cm, $BC = 4$ cm và $\hat{A} = \hat{B} = \hat{ACD} = 90^\circ$.
+a) Kẻ đường cao CE của tam giác ADC. Chứng minh $\triangle ADC = \triangle ACE$. Tính sin của các góc $\hat{ADC}, \hat{ACE}$ và suy ra $AC^2 = AE \cdot AD$. Từ đó tính AC.
+b) Tính góc D của hình thang.
+
+**4.13.** Một người đứng tại điểm A cách gương phẳng đặt nằm trên mặt đất tại điểm B là 1,2 m, nhìn thấy hình ảnh phần chiếu qua gương của ngọn cây (cây có gốc ở tại điểm C cách B là 4,8 m, B nằm giữa A và C). Biết khoảng cách từ mắt đến mặt đất người đó là 1,65 m. Tính chiều cao của cây (H.4.24).
+
+=============== TRANG 79 ===============
+
+**LUYỆN TẬP CHUNG**
+
+**Ví dụ 1**
+Cho tam giác ABC vuông tại A, $AB = 5$ cm, $AC = 12$ cm.
+a) Tính các tỉ số lượng giác của góc B.
+b) Từ kết quả câu a) suy ra các tỉ số lượng giác của góc C.
+
+**Giải** (H.4.25)
+a) Xét tam giác ABC vuông tại A. Theo định lí Pythagoras, ta có
+$BC^2 = AB^2 + AC^2 = 5^2 + 12^2 = 169$, suy ra $BC = 13$ cm.
+Ta có: $\sin B = \frac{AC}{BC} = \frac{12}{13}$, $\cos B = \frac{AB}{BC} = \frac{5}{13}$, $\tan B = \frac{AC}{AB} = \frac{12}{5}$, $\cot B = \frac{AB}{AC} = \frac{5}{12}$.
+b) Do $\hat{B} + \hat{C} = 90^\circ$ nên $\sin C = \cos B = \frac{5}{13}$, $\cos C = \sin B = \frac{12}{13}$, $\tan C = \cot B = \frac{5}{12}$, $\cot C = \tan B = \frac{12}{5}$.
+
+**Ví dụ 2**
+Một bức tường đang xây dở có dạng hình thang vuông ABCD, vuông góc ở A và D, $AB = 1$ m, $CD = 4$ m, $AD = 6$ m.
+a) Hỏi góc $\alpha$ tạo bởi đường thẳng BC và mặt đất AD có số đo xấp xỉ bằng bao nhiêu (làm tròn đến phút)? (H.4.26)
+b) Tính độ dài cạnh BC (làm tròn đến chữ số thập phân thứ nhất).
+
+**Giải**
+a) Gọi I là giao điểm của hai đường thẳng AD và BC. Qua B kẻ đường thẳng song song với AD (mặt đất) cắt CD ở E thì khi đó $\hat{EBC} = \hat{DIC} = \alpha$ (hai góc đồng vị).
+Tứ giác ABED có $\hat{D} = \hat{A} = \hat{DEB} = 90^\circ$ nên ABED là hình chữ nhật.
+Do đó $BE = AD = 6$ m, $EC = CD - ED = 4 - 1 = 3$ (m).
+Xét $\triangle BCE$ vuông tại E, ta có $\tan \alpha = \tan \hat{EBC} = \frac{EC}{BE} = \frac{3}{6} = \frac{1}{2}$.
+Từ đó tính được $\alpha \approx 26^\circ 34'$.
+b) Cách 1. Áp dụng định lí Pythagoras vào tam giác BCE vuông tại E, ta có:
+$BC^2 = BE^2 + EC^2 = 6^2 + 3^2 = 45$. Suy ra $BC = \sqrt{45} \approx 6,7$ (m).
+Cách 2. Tam giác BEC vuông tại E nên $EC = BC \cdot \sin \alpha$,
+suy ra $BC = \frac{EC}{\sin \alpha} = \frac{3}{\sin 26^\circ 34'} \approx 6,7$ (m).
+
+=============== TRANG 80 ===============
+
+**BÀI TẬP**
+
+**4.14.** Một cuốn sách khổ 17 x 24 cm, tức là chiều rộng 17 cm, chiều dài 24 cm. Gọi $\alpha$ là góc giữa đường chéo và cạnh 17 cm. Tính $\sin \alpha, \cos \alpha$ (làm tròn đến phần thứ hai) và tính số đo $\alpha$ (làm tròn đến độ).
+
+**4.15.** Cho tam giác ABC có chân đường cao AH nằm giữa B và C. Biết $HB = 3$ cm, $HC = 6$ cm, $\hat{HAC} = 60^\circ$. Hãy tính độ dài các cạnh (làm tròn đến cm), số đo các góc của tam giác ABC (làm tròn đến độ).
+
+**4.16.** Tìm chiều rộng d của dòng sông trong Hình 4.27 (làm tròn đến m).
+
+**4.17.** Tính các số liệu còn thiếu (dấu “?”) ở Hình 4.28 với góc làm tròn đến độ, với độ dài làm tròn đến chữ số thập phân thứ nhất.
+
+**4.18.** Một bạn muốn tính khoảng cách giữa hai địa điểm A, B ở hai bên bờ hồ nước. Biết rằng các khoảng cách từ một điểm C đến A và đến B là $CA = 90$ m, $CB = 150$ m và $\hat{ACB} = 120^\circ$ (H.4.29). Hãy tính AB giúp bạn.
+
+**4.19.** Một cắt ngang của một đập ngăn nước có dạng hình thang ABCD (H.4.30). Chiều rộng của mặt trên AB của đập là 3 m. Độ dốc của sườn AD, tức là $\tan D = 1,25$. Độ dốc của sườn BC, tức là $\tan C = 1,5$. Chiều cao của đập là 3,5 m. Hãy tính chiều rộng CD của chân đập, chiều dài của các sườn AD và BC (làm tròn đến dm).
+
+**4.20.** Trong một buổi tập trận, một tàu ngầm đang ở trên mặt biển bắt đầu di chuyển theo đường thẳng tạo với mặt nước biển một góc $21^\circ$ để lặn xuống (H.4.31).
+a) Khi tàu chuyển động theo hướng đó và đi được 200 m thì tàu ở độ sâu bao nhiêu so với mặt nước biển? (làm tròn đến m).
+b) Giả sử tốc độ của tàu là 9 km/h thì sau bao lâu (tính từ lúc bắt đầu lặn) tàu ở độ sâu 200 m (tức là cách mặt nước biển 200 m)?
+
+=============== TRANG 81 ===============
+
+**BÀI TẬP CUỐI CHƯƠNG IV**
+
+**A. TRẮC NGHIỆM**
+
+**4.21.** Trong Hình 4.32, $\cos \alpha$ bằng
+A. $\frac{3}{5}$.
+B. $\frac{3}{4}$.
+C. $\frac{4}{5}$.
+D. $\frac{4}{3}$.
+
+**4.22.** Trong tam giác MNP vuông tại M (H.4.33), $\sin \widehat{MNP}$ bằng
+A. $\frac{PN}{NM}$.
+B. $\frac{MP}{PN}$.
+C. $\frac{MN}{PN}$.
+D. $\frac{MN}{MP}$.
+
+**4.23.** Trong tam giác ABC vuông tại A (H.4.34), $\tan B$ bằng
+A. $\frac{AB}{AC}$.
+B. $\frac{AC}{AB}$.
+C. $\frac{AB}{BC}$.
+D. $\frac{BC}{AC}$.
+
+**4.24.** Với mọi góc nhọn $\alpha$, ta có
+A. $\sin(90^\circ - \alpha) = \cos \alpha$.
+B. $\tan(90^\circ - \alpha) = \cos \alpha$.
+C. $\cot(90^\circ - \alpha) = 1 - \tan \alpha$.
+D. $\cot(90^\circ - \alpha) = \sin \alpha$.
+
+**4.25.** Giá trị $\tan 30^\circ$ bằng
+A. $\sqrt{3}$.
+B. $\frac{\sqrt{3}}{2}$.
+C. $\frac{1}{\sqrt{3}}$.
+D. 1.
+
+**B. TỰ LUẬN**
+
+**4.26.** Xét các tam giác vuông có một góc nhọn bằng hai lần góc nhọn còn lại. Hỏi các tam giác đó có đồng dạng với nhau không? Tính sin và côsin của góc nhọn lớn hơn.
+
+**4.27.** Hình 4.35 là mô hình của một túp lều. Tìm góc $\alpha$ giữa cạnh mái lều và mặt đất (làm tròn kết quả đến phút).
+
+=============== TRANG 82 ===============
+
+**4.28.** Một cây cao bị gãy, ngọn cây đổ xuống mặt đất. Ba điểm: gốc cây, điểm gãy, ngọn cây tạo thành một tam giác vuông. Đoạn cây gãy tạo với mặt đất góc $20^\circ$ và chắn ngang lối đi một đoạn 5 m (H.4.36). Hỏi trước khi bị gãy, cây cao khoảng bao nhiêu mét (làm tròn kết quả đến hàng phần mười)?
+
+**4.29.** Cho tam giác ABC vuông tại A, có $\hat{B} = \alpha$ (H.4.37).
+a) Hãy viết các tỉ số lượng giác $\sin \alpha, \cos \alpha$.
+b) Sử dụng định lí Pythagoras, chứng minh rằng $\sin^2 \alpha + \cos^2 \alpha = 1$.
+
+**4.30.** **ĐỐ VUI.** Chu vi Trái Đất bằng bao nhiêu?
+Vào khoảng năm 200 trước Công nguyên, Eratosthenes (Ơ-ra-tô-xten), một nhà toán học và thiên văn học người Hy Lạp, đã đo được “chu vi” của Trái Đất (chu vi của đường Xích Đạo) nhờ hai quan sát sau:
+1. Hồi đó, hằng năm cứ vào trưa ngày Hạ chí (21/6), người ta thấy tia sáng mặt trời chiếu thẳng xuống đáy một cái giếng sâu nổi tiếng ở thành phố Syene (Xy-en, tức là tia sáng chiếu thẳng đứng).
+2. Cùng vào trưa một ngày Hạ chí, ở thành phố Alexandria (A-lếch-xăng-đri-a) cách Syene 800 km, Eratosthenes thấy một tháp cao 25 m có bóng trên mặt đất dài 3,1 m.
+Từ hai quan sát trên, ông có thể tính xấp xỉ “chu vi” của Trái Đất như thế nào? (trên Hình 4.38, điểm O là tâm Trái Đất, điểm S tương trưng cho thành phố Syene, điểm A tương trưng cho thành phố Alexandria, điểm P là đỉnh của tháp, bóng của tháp trên mặt đất được coi là đoạn thẳng AB).
+
+=============== TRANG 83 ===============
+
+**Chương V: ĐƯỜNG TRÒN**
+
+**Bài 13: MỞ ĐẦU VỀ ĐƯỜNG TRÒN**
+
+**Khái niệm, thuật ngữ**
+*   Đường tròn, tâm, bán kính
+*   Tâm đối xứng
+*   Trục đối xứng
+
+**Kiến thức, kĩ năng**
+*   Nhận biết một điểm thuộc hay không thuộc một đường tròn.
+*   Nhận biết hai điểm đối xứng nhau qua một điểm, qua một trục.
+*   Nhận biết tâm đối xứng và trục đối xứng của đường tròn.
+
+Bạn Oanh có một mảnh giấy hình tròn nhưng không còn dấu vết của tâm. Theo em, Oanh làm thế nào để tìm lại được tâm của hình tròn đó.
+
+**1. ĐƯỜNG TRÒN**
+
+**Đường tròn, điểm thuộc đường tròn**
+Ở lớp dưới các em đã biết cách dùng compa để vẽ đường tròn. Vậy đường tròn là gì? Ta định nghĩa:
+**Đường tròn tâm O bán kính R** ($R > 0$), kí hiệu là $(O, R)$, là hình gồm tất cả các điểm cách điểm O một khoảng bằng R.
+
+=============== TRANG 84 ===============
+
+*   Khi không cần để ý đến bán kính ta kí hiệu đường tròn tâm O là (O).
+*   Nếu A là một điểm của đường tròn (O) thì ta viết $A \in (O)$. Khi đó, ta còn nói đường tròn (O) đi qua điểm A, hay điểm A nằm trên đường tròn (O).
+
+**Nhận xét**
+1) Trên Hình 5.1, ta thấy điểm A nằm trên, điểm C nằm trong và điểm B nằm ngoài đường tròn (O). Một cách tổng quát, ta có:
+- Điểm M nằm trên đường tròn (O; R) nếu $OM = R$;
+- Điểm M nằm trong đường tròn (O; R) nếu $OM < R$;
+- Điểm M nằm ngoài đường tròn (O; R) nếu $OM > R$.
+2) **Hình tròn** tâm O bán kính R là hình gồm các điểm nằm trên và nằm trong đường tròn (O; R).
+
+**Ví dụ 1**
+Gọi O là trung điểm của đoạn thẳng AB. Chứng minh rằng đường tròn $(O; OA)$ đi qua B.
+
+**Giải** (H.5.2)
+Vì O là trung điểm của đoạn AB nên $OB = OA$. Do đó $B \in (O; OA)$, nói cách khác, đường tròn $(O; OA)$ đi qua B.
+
+**Chú ý.** Ở lớp dưới, ta đã biết đoạn AB trong Ví dụ 1 là một đường kính của đường tròn (O). Do đó (O) còn gọi là **đường tròn đường kính AB**.
+
+**Luyện tập 1**
+Cho tam giác ABC vuông tại A. Chứng minh rằng điểm A thuộc đường tròn đường kính BC.
+
+**Vận dụng 1**
+Trong mặt phẳng toạ độ Oxy, cho các điểm $A(3; 0), B(-2; 0), C(0; 4)$. Vẽ hình và cho biết trong các điểm đã cho, điểm nào nằm trên, điểm nào nằm trong, điểm nào nằm ngoài đường tròn $(O; 3)$?
+
+=============== TRANG 85 ===============
+
+**2. TÍNH ĐỐI XỨNG CỦA ĐƯỜNG TRÒN**
+
+**Đối xứng tâm và đối xứng trục**
+1) Đối xứng tâm (H.5.3)
+Hai điểm M và M' gọi là đối xứng với nhau qua điểm I (hay qua tâm I) nếu I là trung điểm của đoạn MM'.
+Chẳng hạn, nếu O là giao điểm hai đường chéo của hình bình hành ABCD thì $OA = OC$ nên A và C đối xứng với nhau qua O. Tương tự, B và D đối xứng với nhau qua O.
+2) Đối xứng trục (H.5.4)
+Hai điểm M và M' gọi là đối xứng với nhau qua đường thẳng d (hay qua trục d) nếu d là đường trung trực của đoạn MM'.
+Chẳng hạn, nếu AH là đường cao trong tam giác ABC cân tại A thì AH cũng là đường trung trực của BC, nên B và C đối xứng với nhau qua AH.
+
+**Tâm và trục đối xứng của đường tròn**
+**HĐ** Chứng minh rằng nếu một điểm M thuộc đường tròn (O) thì:
+a) Điểm đối xứng với nó qua tâm O cũng thuộc (O);
+b) Điểm đối xứng với nó qua một đường thẳng d tuỳ ý đi qua O cũng thuộc (O).
+Khi đó ta nói O là tâm đối xứng của đường tròn (O); d là trục đối xứng của (O), ta có:
+*   Đường tròn là hình có tâm đối xứng; tâm của đường tròn là **tâm đối xứng** của nó.
+*   Đường tròn là hình có trục đối xứng; mỗi đường thẳng qua tâm là một **trục đối xứng** của nó.
+
+Đường tròn có một tâm đối xứng, nhưng có vô số trục đối xứng.
+
+=============== TRANG 86 ===============
+
+**Ví dụ 2**
+Cho điểm M nằm trên đường tròn (O) đường kính AB. Sử dụng tính đối xứng của (O), hãy nêu cách tìm:
+a) điểm N đối xứng với điểm M qua tâm O;
+b) điểm P đối xứng với điểm M qua đường thẳng AB.
+
+**Giải** (H.5.5)
+a) Do O là tâm đối xứng của (O) nên điểm N đối xứng với điểm M qua tâm O phải vừa thuộc (O), vừa thuộc OM. Vậy N là giao điểm của (O) và tia đối của tia OM.
+b) Do AB là trục đối xứng của (O) nên điểm P đối xứng với điểm M qua AB phải vừa thuộc (O), vừa thuộc đường thẳng vuông góc từ M xuống AB. Vậy P là giao điểm của (O) với đường thẳng đi qua M và vuông góc với AB.
+
+**Luyện tập 2**
+Cho đường tròn tâm O và hai điểm A, B thuộc (O). Gọi d là đường trung trực của đoạn AB. Chứng minh rằng d là một trục đối xứng của (O).
+
+**Vận dụng 2**
+Trở lại tình huống mở đầu, bằng cách gấp đôi mảnh giấy hình tròn theo hai cách khác nhau, Oanh có thể tìm lại được tâm của hình tròn. Em hãy làm thử xem.
+
+**BÀI TẬP**
+
+**5.1.** Trong mặt phẳng toạ độ Oxy, cho các điểm $M(0; 2), N(0; -3)$ và $P(2; -1)$. Vẽ hình và cho biết trong các điểm đã cho, điểm nào nằm trên, điểm nào nằm trong, điểm nào nằm ngoài đường tròn $(O; \sqrt{5})$? Vì sao?
+
+**5.2.** Cho tam giác ABC vuông tại A có $AB = 3$ cm, $AC = 4$ cm. Chứng minh rằng các điểm A, B, C thuộc cùng một đường tròn. Tính bán kính của đường tròn đó.
+
+**5.3.** Cho đường tròn (O), đường thẳng d đi qua O và điểm A không thuộc d. Gọi B là điểm đối xứng với A qua d và O' là điểm đối xứng với O qua A.
+a) Ba điểm B, C và O có thuộc (O) không? Vì sao?
+b) Chứng minh tứ giác ABCO là hình chữ nhật.
+c) Chứng minh rằng C và D đối xứng với nhau qua d.
+
+**5.4.** Cho hình vuông ABCD có E là giao điểm của hai đường chéo.
+a) Chứng minh rằng có một đường tròn đi qua bốn điểm A, B, C và D. Xác định tâm đối xứng và chỉ ra hai trục đối xứng của đường tròn đó.
+b) Tính bán kính của đường tròn ở câu a, biết rằng hình vuông có cạnh bằng 3 cm.
+
+=============== TRANG 87 ===============
+
+**Bài 14: CUNG VÀ DÂY CỦA MỘT ĐƯỜNG TRÒN**
+
+**Khái niệm, thuật ngữ**
+*   Cung, dây cung
+*   Đường kính, nửa đường tròn
+*   Góc ở tâm, cung bị chắn
+*   Số đo cung
+
+**Kiến thức, kĩ năng**
+*   Nhận biết cung, dây cung, đường kính của đường tròn và quan hệ giữa độ dài dây và đường kính.
+*   Nhận biết góc ở tâm, cung bị chắn.
+*   Nhận biết và xác định số đo của một cung.
+
+**1. DÂY VÀ ĐƯỜNG KÍNH CỦA ĐƯỜNG TRÒN**
+
+**Khái niệm dây và đường kính của đường tròn**
+*   Đoạn thẳng nối hai điểm tuỳ ý của một đường tròn gọi là một **dây** (hay **dây cung**) của đường tròn.
+*   Một dây đi qua tâm là một **đường kính** của đường tròn. Dễ thấy đường kính là dây cung dài nhất.
+Trên Hình 5.6, CD là một dây, AB là một đường kính của (O).
+
+**Quan hệ giữa dây và đường kính**
+**HĐ** Xét dây AB tuỳ ý không đi qua tâm của đường tròn $(O; R)$ (H.5.7).
+Dựa vào quan hệ giữa các cạnh của tam giác AOB, chứng minh $AB < 2R$.
+
+**Định lí**
+Trong một đường tròn, đường kính là dây cung lớn nhất.
+
+=============== TRANG 88 ===============
+
+**Ví dụ 1**
+Tứ giác ABCD có $\widehat{BAC} = \widehat{BDC} = 90^\circ$. Chứng minh bốn điểm A, B, C, D cùng nằm trên một đường tròn và $AD < BC$.
+
+**Giải** (H.5.8)
+Gọi O là trung điểm của đoạn BC. Tam giác ABC vuông tại A ($\widehat{BAC} = 90^\circ$) nên đường trung tuyến AO bằng nửa cạnh huyền, nghĩa là $OA = OB = OC = \frac{BC}{2}$. Do đó điểm A nằm trên đường tròn (O) đường kính BC.
+Tương tự, ta cũng có $\triangle DBC$ vuông tại D, ta cũng suy ra điểm D thuộc đường tròn (O). Vậy AD là một dây (không đi qua tâm) của đường tròn (O). Áp dụng định lí trên ta có $AD < BC$.
+
+**Luyện tập 1**
+Cho đường tròn đường kính BC. Chứng minh rằng với điểm A bất kì (khác B và C) nằm trên đường tròn, ta đều có $BC < AB + AC < 2BC$.
+
+**2. GÓC Ở TÂM, CUNG VÀ SỐ ĐO CỦA MỘT CUNG**
+
+**Khái niệm góc ở tâm và cung tròn**
+Cho hai điểm A và B cùng thuộc một đường tròn. Hai điểm ấy chia đường tròn thành hai phần, mỗi phần gọi là một **cung tròn** (hay **cung**). Hai điểm A và B là hai mút (hay đầu mút) của mỗi cung đó.
+**Góc ở tâm** là góc có đỉnh trùng với tâm của đường tròn.
+Trên Hình 5.9 ta có hai cung, kí hiệu là $\stackrel{\frown}{AmB}$ và $\stackrel{\frown}{AnB}$ nhưng chỉ có một góc ở tâm là $\widehat{AOB}$.
+
+**Chú ý**
+*   Khi góc $\widehat{AOB}$ không bẹt thì cung nằm trong góc $\widehat{AOB}$ gọi là **cung nhỏ** (trên Hình 5.9, $\stackrel{\frown}{AmB}$ là cung nhỏ). Khi đó $\stackrel{\frown}{AmB}$ còn có thể kí hiệu gọn là $\stackrel{\frown}{AB}$. Cung còn lại, $\stackrel{\frown}{AnB}$ gọi là **cung lớn**. Khi $\widehat{AOB}$ bẹt thì mỗi cung $\stackrel{\frown}{AB}$ được gọi là một **nửa đường tròn**.
+*   Ta còn nói góc $\widehat{AOB}$ chắn cung $\stackrel{\frown}{AB}$ hay cung $\stackrel{\frown}{AB}$ bị chắn bởi góc $\widehat{AOB}$.
+
+=============== TRANG 89 ===============
+
+**Ví dụ 2**
+Cho ba điểm A, B và C thuộc đường tròn (O) như Hình 5.10.
+a) Tìm các góc ở tâm có hai cạnh đi qua hai trong ba điểm A, B, C.
+b) Tìm các cung có hai mút là hai trong ba điểm A, B, C.
+
+**Giải**
+a) Các góc ở tâm cần tìm là $\widehat{AOB}, \widehat{BOC}$ và $\widehat{COA}$.
+b) * Các cung có hai mút A, B là $\stackrel{\frown}{AB}$ (nhỏ), $\stackrel{\frown}{ACB}$.
+   * Các cung có hai mút A, C là $\stackrel{\frown}{AC}$ (nhỏ), $\stackrel{\frown}{ABC}$.
+   * Các cung có hai mút B, C là $\stackrel{\frown}{BC}$ (nhỏ), $\stackrel{\frown}{BAC}$.
+
+**Cách xác định số đo của một cung**
+1) **Số đo của một cung** được xác định như sau:
+- Số đo của cung nhỏ bằng số đo của góc ở tâm chắn cung đó.
+- Số đo của nửa đường tròn bằng $180^\circ$.
+- Số đo của cung lớn bằng hiệu giữa $360^\circ$ và số đo của cung nhỏ có chung hai mút.
+2) Số đo của cung $\stackrel{\frown}{AB}$ được kí hiệu là $sđ \stackrel{\frown}{AB}$. Trên Hình 5.9, ta có:
+$sđ \stackrel{\frown}{AmB} = \widehat{AOB} = \alpha$; $sđ \stackrel{\frown}{AnB} = 360^\circ - \alpha$.
+
+**Chú ý**
+*   Cung có số đo $n^\circ$ còn gọi là cung $n^\circ$. Cả đường tròn được coi là cung $360^\circ$. Đôi khi ta cũng coi một điểm là cung $0^\circ$.
+*   Hai cung trên một đường tròn gọi là bằng nhau nếu chúng có cùng số đo.
+
+? Tại sao số đo cung lớn của một đường tròn luôn lớn hơn $180^\circ$?
+**Nhận xét**
+Nếu A là một điểm thuộc cung BAC thì $sđ \stackrel{\frown}{BAC} = sđ \stackrel{\frown}{BA} + sđ \stackrel{\frown}{AC}$ (H.5.10).
+
+**Ví dụ 3**
+Tính số đo của các cung có các đầu mút là hai trong các điểm A, B, C trong Hình 5.11, biết rằng ABC là tam giác vuông cân tại A.
+
+=============== TRANG 90 ===============
+
+**Giải**
+*   Trên Hình 5.11, ta thấy $\stackrel{\frown}{AB}$ và $\stackrel{\frown}{AC}$ là các cung nhỏ bị chắn bởi các góc ở tâm thứ tự là $\widehat{AOB}$ và $\widehat{AOC}$. Do tam giác ABC vuông cân tại A nên đường trung tuyến AO cũng là đường cao, tức là $AO \perp BC$. Do đó $\widehat{AOB} = \widehat{AOC} = 90^\circ$, suy ra $sđ \stackrel{\frown}{AB} = sđ \stackrel{\frown}{AC} = 90^\circ$.
+*   $\stackrel{\frown}{ACB}$ là cung lớn có chung hai mút A, B với cung nhỏ $\stackrel{\frown}{AB}$ nên
+    $sđ \stackrel{\frown}{ACB} = 360^\circ - sđ \stackrel{\frown}{AB} = 360^\circ - 90^\circ = 270^\circ$.
+Tương tự, ta có: $sđ \stackrel{\frown}{ABC} = 360^\circ - sđ \stackrel{\frown}{AC} = 360^\circ - 90^\circ = 270^\circ$.
+Ngoài ra còn có hai nửa đường tròn có chung hai mút B và C, có số đo bằng $180^\circ$.
+
+**Luyện tập 2**
+Cho điểm C nằm trên đường tròn (O). Đường trung trực của đoạn OC cắt (O) tại A và B.
+Tính số đo của các cung $\stackrel{\frown}{ACB}$ và $\stackrel{\frown}{ABC}$.
+
+**BÀI TẬP**
+
+**5.5.** Cho nửa đường tròn đường kính AB và một điểm M tuỳ ý thuộc nửa đường tròn đó.
+Chứng minh rằng khoảng cách từ M đến AB không lớn hơn $\frac{AB}{2}$.
+
+**5.6.** Cho đường tròn (O; 5 cm) và AB là một dây bất kì của đường tròn đó. Biết $AB = 6$ cm.
+a) Tính khoảng cách từ O đến đường thẳng AB.
+b) Tính tan $\alpha$ nếu góc ở tâm chắn cung AB bằng $2\alpha$.
+
+**5.7.** Tâm O của một đường tròn cách dây AB của nó một khoảng 3 cm. Tính bán kính của đường tròn (O), biết rằng cung nhỏ AB có số đo bằng $100^\circ$ (làm tròn kết quả đến hàng phần mười).
+
+**5.8.** Trên mặt một chiếc đồng hồ có các vạch chia như Hình 5.12. Hỏi cứ sau mỗi khoảng thời gian 36 phút:
+a) Đầu kim phút vạch nên một cung có số đo bằng bao nhiêu độ?
+b) Đầu kim giờ vạch nên một cung có số đo bằng bao nhiêu độ?
+
+=============== TRANG 91 ===============
+
+**Bài 15: ĐỘ DÀI CỦA CUNG TRÒN. DIỆN TÍCH HÌNH QUẠT TRÒN VÀ HÌNH VÀNH KHUYÊN**
+
+**Khái niệm, thuật ngữ**
+*   Hình quạt tròn
+*   Hình vành khuyên
+
+**Kiến thức, kĩ năng**
+*   Tính độ dài cung tròn.
+*   Tính diện tích hình quạt tròn và hình vành khuyên.
+
+Số người trên một địa bàn đã được tiêm mũi 4 phòng dịch COVID-19 đạt 40% trong tổng số các đối tượng cần được tiêm. Để hoàn thành một biểu đồ hình quạt tròn, Trang cần vẽ hình quạt tròn biểu thị số liệu 40%. Em có thể giúp bạn Trang được không?
+
+**1. ĐỘ DÀI CỦA CUNG TRÒN**
+
+**Công thức tính độ dài cung tròn**
+Người ta chứng minh được rằng tỉ số giữa chu vi và đường kính của một đường tròn luôn bằng một số vô tỉ không đổi gọi là $\pi$ (đọc là pi). Ta có thể tìm được giá trị gần đúng của $\pi$ nhờ máy tính cầm tay. Trong đời sống, ta thường lấy $\pi \approx 3,14$.
+Do đó, ta có công thức tính độ dài C của đường tròn (O; R), đường kính $d = 2R$ là:
+$C = \pi d = 2\pi R$. (1)
+**HĐ1** Biết rằng trên một đường tròn, hai cung bằng nhau thì có cùng độ dài và độ dài của cung tỉ lệ với số đo của nó. Từ đó hãy lập công thức tính độ dài cung $n^\circ$ của đường tròn bán kính R bằng cách thực hiện các bước sau:
+a) Từ (1), tính độ dài của cung $1^\circ$.
+b) Tính độ dài l của cung $n^\circ$.
+Ta có công thức tính độ dài l của cung $n^\circ$ trên đường tròn (O; R):
+$l = \frac{\pi R n}{180}$ (2)
+**Nhận xét.** Từ hai công thức (1) và (2), ta được $\frac{l}{C} = \frac{\pi R n}{360\pi R} = \frac{n}{360}$ hay $\frac{l}{C} = \frac{n}{360}$ nghĩa là:
+Tỉ số giữa độ dài cung $n^\circ$ và độ dài đường tròn (cùng bán kính) đúng bằng $\frac{n}{360}$.
+
+**Ví dụ 1**
+Cho A và B là hai điểm trên đường tròn (O; 3 cm) sao cho $\widehat{AOB} = 120^\circ$. Tính số đo và độ dài các cung có hai mút A, B.
+
+=============== TRANG 92 ===============
+
+**Giải** (H.5.13)
+Ta có hai cung:
+*   Cung nhỏ $\stackrel{\frown}{AB}$ bị chắn bởi góc ở tâm $\widehat{AOB}$.
+    Do đó $sđ \stackrel{\frown}{AB} = \widehat{AOB} = 120^\circ$.
+    Độ dài $l_1$ của cung $\stackrel{\frown}{AB}$ là:
+    $l_1 = \frac{\pi \cdot 3 \cdot 120}{180} = 2\pi$ (cm).
+*   Cung lớn $\stackrel{\frown}{AmB}$ có số đo là:
+    $sđ \stackrel{\frown}{AmB} = 360^\circ - 120^\circ = 240^\circ$.
+    Độ dài $l_2$ của cung $\stackrel{\frown}{AmB}$ là:
+    $l_2 = \frac{\pi \cdot 3 \cdot 240}{180} = 4\pi$ (cm).
+
+**Luyện tập 1**
+Tính độ dài cung $40^\circ$ của đường tròn bán kính 9 cm.
+
+**Vận dụng 1**
+Bánh xe (khi bơm căng) của một chiếc xe đạp có đường kính 650 mm. Biết rằng khi giò đĩa quay một vòng thì bánh xe quay được khoảng 3,3 vòng (H.5.14). Hỏi chiếc xe đạp di chuyển được quãng đường dài bao nhiêu mét sau khi người đi xe đạp 10 vòng liên tục?
+
+**2. HÌNH QUẠT TRÒN VÀ HÌNH VÀNH KHUYÊN**
+
+**Hình tròn, hình quạt tròn và hình vành khuyên**
+1) **Hình quạt tròn** là phần hình tròn giới hạn bởi một cung tròn và hai bán kính đi qua hai đầu mút của cung đó (H.5.15).
+2) **Hình vành khuyên** (còn gọi là hình vành khăn) là phần nằm giữa hai đường tròn có cùng tâm và bán kính khác nhau (còn gọi là hai đường tròn đồng tâm).
+
+=============== TRANG 93 ===============
+
+Em hãy tìm một số hình ảnh của hình vành khuyên trong thực tế.
+
+**Diện tích hình quạt tròn và hình vành khuyên**
+Ta đã biết, diện tích hình tròn bán kính R được tính theo công thức $S = \pi R^2$. Hãy thực hiện các hoạt động sau để tìm công thức tính diện tích của hình quạt tròn và hình vành khuyên.
+**HĐ2** Biết rằng hai hình quạt tròn ứng với hai cung bằng nhau trên một đường tròn thì có diện tích bằng nhau và diện tích hình quạt tròn tỉ lệ với số đo của cung tương ứng với nó. Hãy lập công thức tính diện tích hình quạt tròn bán kính R ứng với cung $n^\circ$ bằng cách thực hiện tương tự như sau:
+a) Tính diện tích hình quạt tròn ứng với cung $1^\circ$;
+b) Tính diện tích hình quạt tròn ứng với cung $n^\circ$.
+**HĐ3** Thiết lập công thức tính diện tích hình vành khuyên nằm giữa hai đường tròn đồng tâm có bán kính là R và r ($R > r$).
+
+*   Diện tích $S_q$ của hình quạt tròn bán kính R ứng với cung $n^\circ$:
+    $S_q = \frac{\pi R^2 n}{360} = \frac{l \cdot R}{2}$ (3)
+*   Diện tích $S_v$ của hình vành khuyên tạo bởi hai đường tròn đồng tâm có bán kính R và r:
+    $S_v = \pi (R^2 - r^2)$ (với $R > r$). (4)
+
+**Nhận xét**
+Công thức (3) có thể viết là $\frac{S_q}{S} = \frac{\pi R^2 n}{360 \pi R^2} = \frac{n}{360}$ hay $\frac{S_q}{S} = \frac{n}{360}$ nghĩa là:
+Tỉ số giữa diện tích hình quạt tròn (cùng bán kính) đúng bằng $\frac{n}{360}$ và bằng tỉ số giữa độ dài cung $n^\circ$ và độ dài đường tròn.
+
+**Ví dụ 2**
+Tính diện tích của hình vành khuyên nằm giữa hai đường tròn đồng tâm có bán kính là 3 m và 5 m.
+
+**Giải**
+Gọi $S_v$ là diện tích cần tính.
+Ta có $S_v = \pi (5^2 - 3^2) = 16\pi$ (m²).
+
+=============== TRANG 94 ===============
+
+**Ví dụ 3**
+Tính diện tích của hình quạt tròn bán kính 5 cm và có độ dài cung tương ứng với nó bằng $4\pi$ cm.
+
+**Giải**
+Theo đề bài, hình quạt tròn có độ dài cung tương ứng với nó là $l = 4\pi$ cm, bán kính là $R = 5$ cm. Do đó theo (3), diện tích S của nó là:
+$S = \frac{l \cdot R}{2} = \frac{4\pi \cdot 5}{2} = 10\pi$ (cm²).
+
+**Thực hành**
+Trở lại tình huống mở đầu. Hãy vẽ (tô màu) hình quạt tròn theo hướng dẫn sau:
+- Vẽ đường tròn tâm O (với bán kính tuỳ chọn).
+- Hình quạt tròn cần vẽ ứng với cung có số đo bằng $40\%$ của $360^\circ$. Tính số đo của cung cần vẽ.
+- Vẽ góc ở tâm có số đo tìm được và tô màu hình quạt tròn tương ứng.
+
+**Luyện tập 2**
+Tính diện tích của hình tròn đã vẽ trong Thực hành trên nếu bán kính của nó bằng 4 cm.
+
+**Vận dụng 2**
+Một tấm bìa tạo bởi năm đường tròn đồng tâm lần lượt có bán kính là 5 cm, 10 cm, 15 cm, 20 cm và 30 cm (H.5.17). Giả thiết rằng người chơi phi tiêu một cách ngẫu nhiên và luôn trúng bìa. Tính xác suất ném trúng vòng 8 (hình vành khuyên nằm giữa đường tròn thứ hai và thứ ba), biết rằng xác suất cần tìm bằng tỉ số giữa diện tích của hình vành khuyên tương ứng với diện tích của hình tròn lớn nhất.
+
+**BÀI TẬP**
+
+**5.9.** Cho đường tròn (O; 4 cm) và ba điểm A, B, C trên đường tròn đó sao cho tam giác ABC cân tại A và số đo của cung nhỏ BC bằng $70^\circ$.
+a) Giải thích tại sao hai cung nhỏ AB và AC bằng nhau.
+b) Tính độ dài của các cung BC, AB và AC (làm tròn kết quả đến hàng phần mười).
+
+=============== TRANG 95 ===============
+
+**5.10.** Tính diện tích của hình quạt tròn bán kính 4 cm, ứng với cung $36^\circ$.
+
+**5.11.** Tính diện tích hình vành khuyên nằm giữa hai đường tròn đồng tâm có bán kính là 6 cm và 4 cm.
+
+**5.12.** Có hai chiếc bánh pizza hình tròn (H.5.18). Chiếc bánh thứ nhất có đường kính 16 cm được cắt thành 6 miếng đều nhau có dạng hình quạt tròn. Chiếc bánh thứ hai có đường kính 18 cm được cắt thành 8 miếng đều nhau có dạng hình quạt tròn. Hãy so sánh diện tích bề mặt của hai miếng bánh cắt ra từ chiếc bánh thứ nhất và thứ hai.
+
+**5.13.** Một chiếc quạt giấy khi xoè ra có dạng nửa hình tròn bán kính 2,2 dm như Hình 5.19. Tính diện tích phần giấy của chiếc quạt, biết rằng khi gấp lại, phần giấy có chiều dài khoảng 1,6 dm (làm tròn kết quả đến hàng phần trăm của dm²).
+
+=============== TRANG 96 ===============
+
+**LUYỆN TẬP CHUNG**
+
+**Ví dụ 1**
+Cho tam giác nhọn ABC cân tại A. Từ B và C kẻ lần lượt hai đường cao BH và CK của tam giác ABC.
+a) Chứng minh rằng đường tròn tâm O đường kính BC đi qua K và H.
+b) Chứng minh rằng hai cung nhỏ BH và CK bằng nhau.
+c) Tính số đo của cung nhỏ KH nếu $\widehat{BAC} = 40^\circ$.
+
+**Giải** (H.5.20, học sinh tự ghi giả thiết, kết luận)
+a) Đặt $R = \frac{BC}{2} = OB = OC$. Khi đó $(O; R)$ là đường tròn đường kính BC.
+Để thấy HO là trung tuyến ứng với cạnh huyền của tam giác vuông HBC nên $OH = \frac{BC}{2} = R$. Do đó $H \in (O; R)$.
+Tương tự, ta có OK = R nên $K \in (O; R)$.
+Vậy đường tròn (O; R) đi qua các điểm K và H.
+b) Hai tam giác vuông HBC và KCB có chung cạnh huyền BC và $\widehat{HBC} = \widehat{KCB}$ (do tam giác ABC cân tại A) nên $\triangle HBC = \triangle KCB$, suy ra $BH = CK$. Do đó $\triangle BOH = \triangle COK$ (vì $BO = CO, OH = OK, BH = CK)$. Từ đó ta có $\widehat{BOH} = \widehat{COK}$.
+Mặt khác, $sđ \stackrel{\frown}{BH} = \widehat{BOH}$, $sđ \stackrel{\frown}{CK} = \widehat{COK}$, do đó $\stackrel{\frown}{BH} = \stackrel{\frown}{CK}$.
+c) Ba tam giác ABC, OCH và OBK có các góc ở đáy bằng nhau nên ba góc ở đỉnh cũng bằng nhau. Bởi vậy ta có
+$\widehat{BOK} = \widehat{HOC} = \widehat{BAC} = 40^\circ$.
+Mặt khác, $\widehat{BOK} + \widehat{KOH} + \widehat{HOC} = \widehat{BOC} = 180^\circ$. Do đó
+$\widehat{KOH} = 180^\circ - \widehat{BOK} - \widehat{HOC} = 100^\circ$.
+Do $\widehat{KOH}$ là góc ở tâm khác góc bẹt nên $\widehat{KH}$ là cung nhỏ. Do đó $sđ \stackrel{\frown}{KH} = \widehat{KOH} = 100^\circ$.
+
+**Ví dụ 2**
+Ta gọi hình giới hạn bởi một cung nhỏ của một đường tròn và dây căng cung đó là **hình viên phân**. Lập công thức tính diện tích hình viên phân ứng với cung $90^\circ$, biết bán kính của đường tròn là R.
+
+=============== TRANG 97 ===============
+
+**Giải**
+Giả sử $\stackrel{\frown}{AB}$ là cung có số đo $90^\circ$; S là diện tích hình viên phân (phần tô màu trên Hình 5.21) và $S_q$ là diện tích của hình quạt ứng với cung đó; $S_1$ là diện tích tam giác OAB.
+Ta có $S_q = \frac{\pi R^2 \cdot 90}{360} = \frac{1}{4}\pi R^2, S_1 = \frac{1}{2} OA \cdot OB = \frac{1}{2} R^2$. Do đó
+$S = S_q - S_1 = \frac{1}{4}\pi R^2 - \frac{1}{2} R^2 = R^2(\frac{\pi}{4} - \frac{1}{2})$.
+
+**BÀI TẬP**
+
+**5.14.** Cho dây AB không qua tâm của đường tròn (O). Gọi A' và B' là hai điểm lần lượt đối xứng với A và B qua O. Hỏi đường trung trực của A'B' có phải là trục đối xứng của (O) hay không? Tại sao?
+
+**5.15.** Cho tam giác ABC không là tam giác vuông. Gọi H và K là chân các đường vuông góc lần lượt hạ từ B và C xuống AC và AB. Chứng minh rằng:
+a) Đường tròn đường kính BC đi qua các điểm H và K;
+b) $KH < BC$.
+
+**5.16.** Cỗ xe guồng nước (còn gọi là cọn nước) là một công cụ hay cỗ máy có dạng hình tròn, quay được nhờ sức nước chảy (H.5.22a). Guồng nước thường thấy ở các vùng miền núi. Nhiều guồng nước được làm bằng tre, dùng để đưa nước lên ruộng cao, gieo gặt hoặc làm một số việc khác.
+Giả sử guồng nước ngăn cách giữa phần trên và phần dưới nước của một guồng nước được biểu thị bởi các cung với một dây dài 4 m và điểm ngập sâu nhất là 0,5 m (trên Hình 5.22b, điểm ngập sâu nhất là điểm C, ta có $AB = 4$ m và $HC = 0,5$ m). Dựa vào đó, em hãy tính bán kính của guồng nước.
+
+=============== TRANG 98 ===============
+
+**5.17.** Cho đường tròn (O; 5 cm).
+a) Hãy nêu cách vẽ dây AB sao cho khoảng cách từ O đến dây AB bằng 2,5 cm.
+b) Tính độ dài của dây AB trong câu a (làm tròn đến hàng phần trăm).
+c) Tính số đo của cung nhỏ $\stackrel{\frown}{AB}$.
+d) Tính diện tích hình quạt tròn ứng với cung nhỏ $\stackrel{\frown}{AB}$.
+
+**5.18.** Ba bộ phận truyền chuyển động của một chiếc xe đạp gồm một giò đĩa (bánh răng gắn với bàn đạp), một chiếc líp (cũng có dạng bánh răng) gắn với bánh xe và bộ xích (H.5.23). Biết rằng giò đĩa có bán kính 15 cm, líp có bán kính 4 cm và bánh xe có đường kính 65 cm. Hỏi khi người đi xe đạp một vòng thì xe chạy được quãng đường dài bao nhiêu mét (làm tròn đến hàng phần chục)?
+
+**5.19.** Cho tam giác ABC có $AB = 2\sqrt{3}$ cm. Nửa đường tròn đường kính BC cắt hai cạnh AB và AC lần lượt tại D và E (khác B và C) (H.5.24).
+a) Chứng tỏ rằng ba cung nhỏ $\stackrel{\frown}{BD}, \stackrel{\frown}{DE}$ và $\stackrel{\frown}{EC}$ bằng nhau. Tính số đo mỗi cung ấy.
+b) Tính diện tích của hình viên phân (xem Ví dụ 2) giới hạn bởi dây BD và cung nhỏ BD.
+
+=============== TRANG 99 ===============
+
+**Bài 16: VỊ TRÍ TƯƠNG ĐỐI CỦA ĐƯỜNG THẲNG VÀ ĐƯỜNG TRÒN**
+
+**Khái niệm, thuật ngữ**
+*   Tiếp tuyến
+*   Tiếp điểm
+*   Hai tiếp tuyến cắt nhau
+
+**Kiến thức, kĩ năng**
+*   Mô tả và vẽ hình biểu thị ba vị trí tương đối của đường thẳng và đường tròn: cắt nhau, tiếp xúc nhau, không giao nhau.
+*   Nhận biết tiếp tuyến của đường tròn dựa vào định nghĩa hoặc dấu hiệu nhận biết.
+*   Áp dụng tính chất của hai tiếp tuyến cắt nhau trong giải toán.
+
+Người ta gieo một đồng xu hình tròn bán kính 1 cm lên một tờ giấy trải phẳng. Trên tờ giấy đó có vẽ những đường thẳng song song cách đều, tức là những đường thẳng song song mà khoảng cách giữa hai đường thẳng bất kì nằm cạnh nhau luôn bằng nhau. Nếu khoảng cách ấy luôn bằng 2 cm thì có thể xảy ra những trường hợp nào sau đây, vì sao?
+a) Đồng xu đè lên một đường thẳng (đồng xu che khuất một phần của đường thẳng).
+b) Đồng xu không đè lên đường thẳng nào;
+c) Đồng xu đè lên nhiều hơn một đường thẳng.
+
+**1. VỊ TRÍ TƯƠNG ĐỐI CỦA ĐƯỜNG THẲNG VÀ ĐƯỜNG TRÒN**
+
+**Số điểm chung của đường thẳng và đường tròn**
+**HĐ1** Cho đường thẳng a và điểm O. Gọi H là chân đường vuông góc hạ từ O xuống a, và A là một điểm thuộc tia OH. Trong mỗi trường hợp sau đây, hãy vẽ đường tròn $(O; OA)$ và cho biết đường thẳng a và đường tròn $(O; OA)$ có bao nhiêu điểm chung?
+a) $OH < OA$
+b) $OH = OA$
+c) $OH > OA$
+
+=============== TRANG 100 ===============
+
+1) Đường thẳng a và đường tròn (O) gọi là **cắt nhau** nếu chúng có đúng hai điểm chung (H.5.26a).
+2) Đường thẳng a và đường tròn (O) gọi là **tiếp xúc với nhau** nếu chúng có đúng một điểm chung H. Điểm chung ấy gọi là **tiếp điểm**. Khi đó, đường thẳng a còn gọi là **tiếp tuyến** của đường tròn (O) tại H (H.5.26b).
+3) Đường thẳng a và đường tròn (O) gọi là **không giao nhau** nếu chúng không có điểm chung (H.5.26c).
+
+**Nhận xét**
+Cho đường thẳng a và đường tròn (O; R). Gọi d là khoảng cách từ O đến a. Từ HĐ1, ta nhận thấy: Đường thẳng a và đường tròn (O; R) cắt nhau khi $d < R$ (H.5.26a), tiếp xúc với nhau khi $d = R$ (H.5.26b) và không giao nhau khi $d > R$ (H.5.26c).
+
+**Luyện tập 1**
+Cho đường thẳng a và điểm O cách a một khoảng bằng 4 cm. Không vẽ hình, hãy dự đoán xem mỗi đường tròn sau cắt, tiếp xúc hay không cắt đường thẳng a. Tại sao?
+a) (O; 3 cm);
+b) (O; 5 cm);
+c) (O; 4 cm).
+
+**2. DẤU HIỆU NHẬN BIẾT TIẾP TUYẾN CỦA ĐƯỜNG TRÒN**
+
+**HĐ2** Cho đoạn thẳng OH và đường thẳng a vuông góc với OH tại H.
+a) Xác định khoảng cách từ O đến đường thẳng a.
+b) Nếu vẽ đường tròn (O; OH) thì đường tròn này và đường thẳng a có vị trí tương đối như thế nào?
+
+**Định lí 1 (Dấu hiệu nhận biết tiếp tuyến)**
+Nếu một đường thẳng đi qua một điểm trên một đường tròn và vuông góc với bán kính đi qua điểm đó thì đường thẳng ấy là một tiếp tuyến của đường tròn.
+
+=============== TRANG 101 ===============
+
+**Ví dụ 1**
+Cho AB là một dây không đi qua tâm của đường tròn (O). Đường thẳng qua O và vuông góc với AB cắt tiếp tuyến tại A của (O) ở điểm C. Chứng minh rằng CB là một tiếp tuyến của (O).
+
+**Giải** (H.5.27)
+Gọi D là giao điểm của AB và OC.
+Trong tam giác cân AOB ($OA=OB$), đường cao OD (do $OC \perp AB$) cũng là đường phân giác của góc $\widehat{AOB}$, suy ra $\hat{O}_1 = \hat{O}_2$.
+Ta có $\triangle AOC = \triangle BOC$ (c.g.c), vì OC là cạnh chung, $\hat{O}_1 = \hat{O}_2$, và $OA = OB$.
+Từ đó $\widehat{OBC} = \widehat{OAC} = 90^\circ$ (do OA là tiếp tuyến), tức là CB vuông góc với bán kính OB tại B.
+Do đó theo định lí 1, CB cũng là tiếp tuyến của (O).
+
+**Luyện tập 2**
+Cho một hình vuông có độ dài mỗi cạnh bằng 6 cm và hai đường chéo cắt nhau tại I. Chứng minh rằng đường tròn (I; 3 cm) tiếp xúc với cả bốn cạnh của hình vuông.
+
+**3. HAI TIẾP TUYẾN CẮT NHAU CỦA MỘT ĐƯỜNG TRÒN**
+
+**Tính chất của hai tiếp tuyến cắt nhau**
+**HĐ3** Cho điểm P ở bên ngoài một đường tròn tâm O. Hãy dùng thước và compa thực hiện các bước vẽ như sau:
+- Vẽ đường tròn đường kính PO cắt đường tròn (O) tại A và B;
+- Vẽ và chứng tỏ các đường thẳng PA và PB là hai tiếp tuyến của (O).
+PA và PB gọi là hai tiếp tuyến cắt nhau của đường tròn (O).
+
+=============== TRANG 102 ===============
+
+**HĐ4** (Dựa vào hình vẽ có được sau HĐ3). Bằng cách xét hai tam giác OPA và OPB, chứng minh rằng:
+a) $PA = PB$;
+b) PO là tia phân giác của góc $\widehat{APB}$;
+c) OP là tia phân giác của góc $\widehat{AOB}$.
+
+**Định lí 2**
+Nếu hai tiếp tuyến của đường tròn (O) cắt nhau tại điểm P thì:
+*   Điểm P cách đều hai tiếp điểm;
+*   PO là tia phân giác của góc tạo bởi hai tiếp tuyến;
+*   OP là tia phân giác của góc tạo bởi hai bán kính qua hai tiếp điểm.
+
+**Ví dụ 2**
+Cho hai tiếp tuyến PA và PB của đường tròn (O; R) (A và B là hai tiếp điểm).
+a) Chứng minh rằng $OP \perp AB$;
+b) Tính PA và PB, biết $R = 2$ cm và $PO = 4$ cm.
+
+**Giải** (H.5.29)
+a) Do $OA$ và $OB$ là hai tiếp tuyến của (O) nên theo Định lí 2, ta có OP là tia phân giác của góc $\widehat{AOB}$. Trong tam giác cân AOB ($OA = OB$), đường phân giác OP cũng là đường cao nên $OP \perp AB$.
+b) Tam giác OAP có $\widehat{OAP} = 90^\circ$ (do PA tiếp xúc với đường tròn (O) tại A) và $OA = R = 2$ cm và $OP = 4$ cm (giả thiết).
+Áp dụng định lí Pythagoras vào tam giác vuông OAP ta có $AP^2 + OA^2 = OP^2$.
+Từ đó suy ra:
+$AP^2 = OP^2 - OA^2 = 4^2 - 2^2 = 12$.
+Vậy $AP = \sqrt{12} = 2\sqrt{3}$ (cm).
+Theo tính chất của hai tiếp tuyến cắt nhau, ta cũng có $BP = AP = 2\sqrt{3}$ cm.
+
+=============== TRANG 103 ===============
+
+**Thử thách nhỏ**
+Cho góc xPy và điểm A thuộc tia Px. Hãy vẽ đường tròn tâm O tiếp xúc với cả hai cạnh của góc xPy sao cho A là một trong hai tiếp điểm.
+
+**BÀI TẬP**
+
+**5.20.** Bốn thanh cắt 4 hình tròn bằng giấy có bán kính lần lượt là 4 cm, 6 cm, 7 cm và 8 cm để dán trang trí trên một mảnh giấy, trên đó có vẽ trước hai đường thẳng a và b. Biết rằng a và b là hai đường thẳng song song với nhau và cách nhau một khoảng 6 cm (nghĩa là mọi điểm trên đường thẳng b đều cách a một khoảng 6 cm). Hỏi nếu bạn Thanh dán sao cho tâm của cả 4 hình tròn đều nằm trên đường thẳng b thì hình nào đè lên đường thẳng a, hình nào không đè lên đường thẳng a?
+
+**5.21.** Cho đường tròn (O) đi qua ba đỉnh A, B và C của một tam giác cân tại A. Chứng minh rằng đường thẳng đi qua A và song song với BC là một tiếp tuyến của (O).
+
+**5.22.** Cho góc xOy với đường phân giác Ot và điểm A trên cạnh Ox, điểm B trên cạnh Oy sao cho $OA = OB$. Đường thẳng qua A và vuông góc với Ox cắt Ot tại P. Chứng minh rằng OA và OB là hai tiếp tuyến cắt nhau của đường tròn (P; PA).
+
+**5.23.** Cho SA và SB là hai tiếp tuyến cắt nhau của đường tròn (O) (A và B là hai tiếp điểm). Gọi M là một điểm tuỳ ý trên cung nhỏ AB. Tiếp tuyến của (O) tại M cắt SA tại E và cắt SB tại F.
+a) Chứng minh rằng chu vi tam giác SEF bằng $SA + SB$.
+b) Giả sử M là giao điểm của đoạn SO với đường tròn (O). Chứng minh rằng SE = SF.
+
+=============== TRANG 104 ===============
+
+**Bài 17: VỊ TRÍ TƯƠNG ĐỐI CỦA HAI ĐƯỜNG TRÒN**
+
+**Khái niệm, thuật ngữ**
+*   Hai đường tròn cắt nhau
+*   Hai đường tròn tiếp xúc nhau
+*   Hai đường tròn không giao nhau.
+*   Tiếp điểm
+
+**Kiến thức, kĩ năng**
+Nhận biết các vị trí tương đối của hai đường tròn.
+
+*   Nguyệt thực là hiện tượng Mặt Trăng bị bóng của Trái Đất che khuất toàn bộ (nguyệt thực toàn phần) hay một phần (H.5.30). Do Mặt Trăng và bóng Trái Đất được xem là có dạng hình tròn nên nguyệt thực cho ta một hình ảnh thực tế về vị trí tương đối của hai đường tròn. Em có thể chỉ ra hai hình tròn bằng giấy để mô phỏng hiện tượng nguyệt thực. Nhưng trước hết hãy tìm hiểu về vị trí tương đối của hai đường tròn.
+*   Sau đây, khi nói hai đường tròn mà không có giải thích gì thêm, ta hiểu đó là hai đường tròn phân biệt.
+
+**1. HAI ĐƯỜNG TRÒN CẮT NHAU**
+
+**Tìm hiểu hai đường tròn cắt nhau**
+**HĐ1** Cho hình 5.31, trong đó giả sử $O'A < OA$. Ta có $OA - O'A < OO' < OA + O'A$.
+Hãy vẽ hai đường tròn (O; OA) và (O'; O'A) và cho biết hai đường tròn đó có mấy điểm chung?
+Nếu hai đường tròn có đúng hai điểm chung thì ta nói đó là hai **đường tròn cắt nhau**. Hai điểm chung gọi là **giao điểm** của chúng.
+
+**Nhận xét**
+Từ HĐ1 ta thấy hai đường tròn (O; R) và (O'; R') cắt nhau khi $R - R' < OO' < R + R'$ (với $R > R'$).
+
+**Ví dụ 1** Cho hai điểm O và O' sao cho $OO' = 5$ cm. Hãy giải thích tại sao hai đường tròn (O; 4 cm) và (O'; 3 cm) cắt nhau.
+**Giải**
+Đặt $R = 4$ cm; $R' = 3$ cm, ta thấy $1$ cm $< 5$ cm $< 7$ cm, nên $R - R' < OO' < R + R'$. Do đó, hai đường tròn đã cho cắt nhau.
+
+=============== TRANG 105 ===============
+
+**Luyện tập 1**
+Cho đường tròn (O; 5 cm) và điểm I cách O một khoảng 2 cm. Xác định vị trí tương đối của đường tròn đã cho và đường tròn (I; r) trong mỗi trường hợp sau:
+a) $r = 4$ cm;
+b) $r = 6$ cm.
+
+**2. HAI ĐƯỜNG TRÒN TIẾP XÚC NHAU**
+
+**Tìm hiểu hai đường tròn tiếp xúc nhau**
+**HĐ2** Trên Hình 5.33a, ta có $OO' = OA + O'A$; trên Hình 5.33b, ta có $OO' = OA - O'A$.
+Trong mỗi trường hợp, hãy vẽ hai đường tròn (O; OA) và (O'; O'A) và cho biết hai đường tròn đó có mấy điểm chung?
+
+Nếu hai đường tròn có duy nhất một điểm chung thì ta nói đó là hai **đường tròn tiếp xúc nhau**. Điểm chung gọi là **tiếp điểm** của chúng.
+
+**Chú ý**
+Người ta còn phân biệt hai trường hợp: hai đường tròn **tiếp xúc ngoài** (H.5.34a) và hai đường tròn **tiếp xúc trong** (H.5.34b).
+
+**Nhận xét**
+1) Từ HĐ2, ta nhận thấy: hai đường tròn (O; R) và (O'; R') tiếp xúc ngoài khi $OO' = R + R'$; và tiếp xúc trong khi $OO' = R - R'$ (với $R > R'$).
+2) Nếu hai đường tròn tiếp xúc với nhau thì tiếp điểm thẳng hàng với hai tâm.
+
+**Ví dụ 2**
+Cho hai điểm O và O' sao cho $OO' = 5$ cm. Giải thích tại sao hai đường tròn (O; 3 cm) và (O'; 2 cm) tiếp xúc ngoài với nhau.
+**Giải**
+Đặt $R = 3$ cm và $R' = 2$ cm, ta thấy $5$ cm $= 3$ cm $+ 2$ cm, nghĩa là $OO' = R + R'$. Vậy hai đường tròn đã cho tiếp xúc ngoài với nhau.
+
+**Luyện tập 2**
+Cho hai điểm O và O' sao cho $OO' = 3$ cm. Giải thích tại sao hai đường tròn (O; 8 cm) và (O'; 5 cm) tiếp xúc với nhau.
+
+=============== TRANG 106 ===============
+
+**3. HAI ĐƯỜNG TRÒN KHÔNG GIAO NHAU**
+
+**HĐ3** Trên Hình 5.35a, ta có $OO' > OA + OB$; trên Hình 5.35b, ta có $OO' < OA - OB$.
+Trong mỗi trường hợp, hãy vẽ hai đường tròn (O; OA) và (O'; OB) và cho biết hai đường tròn đó có điểm chung nào không.
+
+Nếu hai đường tròn không có điểm chung nào thì ta nói đó là hai **đường tròn không giao nhau**.
+
+**Chú ý**
+Người ta còn phân biệt hai trường hợp: hai đường tròn **ở ngoài nhau** (H.5.36a) và **đựng nhau** (H.5.36b).
+
+**Nhận xét**
+Từ HĐ3 ta nhận thấy:
+*   Đường tròn (O; R) và (O'; R') ở ngoài nhau khi $OO' > R + R'$.
+*   Đường tròn (O; R) đựng đường tròn (O'; R') khi $OO' < R - R'$. Đặc biệt, khi O trùng với O' và $R \neq R'$ thì ta có hai đường tròn đồng tâm.
+
+**Ví dụ 3** Xác định vị trí tương đối của hai đường tròn (O; 3 cm) và (O'; 5 cm), biết rằng $OO' = 8$ cm.
+**Giải**
+Đặt $R = 3$ cm và $R' = 5$ cm, ta có $OO' = 8$ cm $= 3$ cm $+ 5$ cm $= R + R'$.
+Vậy (O; 5 cm) và (O'; 5 cm) là hai đường tròn ở ngoài nhau.
+
+**Luyện tập 3**
+Cho hai điểm O và O' sao cho $OO' = 2$ cm. Xác định vị trí tương đối của hai đường tròn (O; 5 cm) và (O'; r), biết rằng $r < 3$ cm.
+
+**Thực hành**
+Để mô phỏng nguyệt thực, em hãy cắt hai hình tròn từ giấy: hình tròn thứ nhất màu sáng tượng trưng cho Mặt Trăng, hình tròn thứ hai màu tối (to hơn và bằng giấy mờ càng tốt) tượng trưng cho bóng Trái Đất. Sắp xếp hai hình tròn đó để:
+a) Mô phỏng nguyệt thực một phần. Khi đó, hình ảnh của hai đường tròn có vị trí tương đối như thế nào?
+
+=============== TRANG 107 ===============
+
+b) Mô phỏng nguyệt thực toàn phần. Khi đó, hình ảnh của hai đường tròn có vị trí tương đối như thế nào?
+
+**Tranh luận**
+Tròn cho rằng: Nói “hai đường tròn không cắt nhau” cũng có nghĩa là “hai đường tròn không giao nhau”. Theo em, Tròn đúng hay sai?
+
+Ta có bảng tổng kết sau:
+| Vị trí tương đối của hai đường tròn (O; R) và (O'; R') ($R \geq R'$) | Số điểm chung | Hệ thức giữa OO' với R và R' |
+| :--- | :--- | :--- |
+| Hai đường tròn cắt nhau | 2 | $R - R' < OO' < R + R'$ |
+| Hai đường tròn tiếp xúc nhau: | 1 | |
+| - Tiếp xúc ngoài | | $OO' = R + R'$ |
+| - Tiếp xúc trong | | $OO' = R - R' > 0$ |
+| Hai đường tròn không giao nhau: | 0 | |
+| - (O) và (O') ở ngoài nhau | | $OO' > R + R'$ |
+| - (O) đựng (O') | | $OO' < R - R'$ |
+
+**BÀI TẬP**
+
+**5.24.** Hình 5.37 cho thấy hình ảnh của những đường tròn qua cách trình bày một số sản phẩm mây tre đan. Bằng cách đánh số các đường tròn, em hãy chỉ ra một vài cặp đường tròn cắt nhau và vài cặp đường tròn không giao nhau.
+
+**5.25.** Cho hai điểm O và O' cách nhau một khoảng 5 cm. Mỗi đường tròn sau đây có vị trí tương đối như thế nào đối với đường tròn (O; 3 cm):
+a) Đường tròn (O'; 3 cm);
+b) Đường tròn (O'; 1 cm);
+c) Đường tròn (O'; 8 cm).
+
+**5.26.** Cho ba điểm thẳng hàng O, A và O'; với mỗi trường hợp sau, hãy viết hệ thức giữa các độ dài OA, O'A và OO' rồi xét xem hai đường tròn (O; OA) và (O'; O'A) tiếp xúc trong hay tiếp xúc ngoài với nhau; vẽ hình để khẳng định dự đoán của mình.
+a) Điểm A nằm giữa hai điểm O và O';
+b) Điểm O nằm giữa hai điểm A và O';
+c) Điểm O' nằm giữa hai điểm A và O.
+
+**5.27.** Cho hai đường tròn (O) và (O') tiếp xúc ngoài với nhau tại A. Một đường thẳng qua A cắt (O) tại B và cắt (O') tại C. Chứng minh rằng $OB // O'C$.
+
+=============== TRANG 108 ===============
+
+**LUYỆN TẬP CHUNG**
+
+**Ví dụ 1**
+Cho hai đường tròn (O; R) và (O'; r) cắt nhau tại A và B. Gọi M là điểm đối xứng với A qua O, N là điểm đối xứng với A qua O'.
+a) Chứng minh rằng M $\in$ (O), N $\in$ (O') và ba điểm M, B, N thẳng hàng.
+b) Chứng minh rằng đường thẳng MN tiếp xúc với đường tròn đường kính AB.
+
+**Giải** (H.5.38, học sinh tự ghi giả thiết, kết luận)
+a) Do tính đối xứng của (O) nên từ $A \in (O)$ suy ra $M \in (O)$ (vì M đối xứng với A qua O).
+Tam giác ABM có BO là đường trung tuyến và $BO = \frac{1}{2}AM$ (bán kính bằng nửa đường kính) nên là tam giác vuông tại B. Vậy $\widehat{ABM} = 90^\circ$.
+Tương tự, ta cũng có $N \in (O')$ và $\widehat{ABN} = 90^\circ$. Từ hai kết quả trên suy ra $\widehat{MBN} = \widehat{ABM} + \widehat{ABN} = 90^\circ + 90^\circ = 180^\circ$.
+Điều đó chứng tỏ ba điểm M, B, N thẳng hàng.
+b) Kết quả câu a còn cho thấy $MN \perp AB$, tức là MN vuông góc với bán kính của đường tròn đường kính AB tại B. Do đó, MN là tiếp tuyến của đường tròn đường kính AB.
+
+**Ví dụ 2**
+Cho hai đường tròn ngoài nhau (O; R) và (O'; r) với giả thiết $R > r'$. Một đường thẳng d tiếp xúc với (O; R) tại A và tiếp xúc với (O'; r) tại B sao cho O và O' nằm cùng phía đối với d. Giả sử d cắt đường thẳng OO' tại điểm P (Hình 5.39).
+a) Chứng minh rằng $\frac{PO}{PO'} = \frac{R}{r'}$.
+b) Gọi A' là điểm đối xứng với A qua OO'. Chứng minh rằng đường thẳng PA' tiếp xúc với (O) và (O').
+
+=============== TRANG 109 ===============
+
+**Giải** (H.5.39, học sinh tự ghi giả thiết)
+a) Do d tiếp xúc với (O) tại A, tiếp xúc với (O') tại B nên $OA \perp d$ và $OB' \perp d$. Do đó, trong tam giác POA ta có $\widehat{OAB} = 90^\circ$, suy ra $\triangle POA \sim \triangle POB'$. Từ đó, ta có $\frac{PO}{PO'} = \frac{OA}{OB'} = \frac{R}{r'}$.
+b) Do A' đối xứng với A qua OO' và $A \in (O)$ nên $A' \in (O)$ và $OO' \perp AA'$, tức là $OP \perp AA'$.
+Tam giác OAA' là tam giác cân (do $OA = OA'$) có $OP \perp AA'$ nên OP là tia phân giác của góc $\widehat{AOA'}$, suy ra $\widehat{AOP} = \widehat{A'OP}$.
+Hai tam giác AOP và A'OP có: $OA = OA'$ (bán kính đường tròn (O)); OP chung và $\widehat{AOP} = \widehat{A'OP}$. Vậy $\triangle AOP = \triangle A'OP$ (c.g.c), suy ra $\widehat{PA'O} = \widehat{PAO} = 90^\circ$ (do PA tiếp xúc với (O)) nên $PA' \perp O'A'$.
+Vậy PA' vuông góc với bán kính của (O) tại A'. Điều đó chứng tỏ PA' tiếp xúc với (O) tại A'.
+Đối với đường tròn (O'), gọi B' là chân đường vuông góc hạ từ O' xuống PA'. Để khẳng định rằng PA' cũng tiếp xúc với (O') tại B', ta chỉ cần chứng minh $B' \in (O')$.
+Thật vậy, O'B' và OA' cùng vuông góc với PA' nên $O'B' // OA'$, suy ra $\triangle POA' \sim \triangle POB'$. Do đó
+$\frac{O'B'}{OA'} = \frac{PO'}{PO}$.
+Mà theo câu a ta có $\frac{PO}{PO'} = \frac{R}{r'}$ nên $\frac{PO'}{PO} = \frac{r'}{R}$, hay $\frac{O'B'}{OA'} = \frac{r'}{R}$.
+Điều này chứng tỏ $O'B' = r'$, nghĩa là $B' \in (O')$.
+Vậy PA' tiếp xúc với (O') tại B' và tiếp xúc với (O) tại A'.
+
+**BÀI TẬP**
+
+**5.28.** Cho hai đường thẳng a và b song song với nhau, điểm O nằm trong phần mặt phẳng ở giữa hai đường thẳng đó. Biết rằng khoảng cách từ O đến a và b lần lượt bằng 2 cm và 3 cm.
+a) Hỏi bán kính R của đường tròn (O; R) phải thoả mãn điều kiện gì để (O; R) cắt cả hai đường thẳng a và b?
+b) Biết rằng đường tròn (O; R) tiếp xúc với đường thẳng a. Hãy xác định vị trí tương đối của đường tròn (O; R) và đường thẳng b.
+
+=============== TRANG 110 ===============
+
+**5.29.** Khi chuyển động, giả sử đầu mút kim dài của một chiếc đồng hồ vạch nên một đường tròn, kí hiệu là (T₁), trong khi đầu mút kim ngắn vạch nên một đường tròn khác, kí hiệu là (T₂).
+a) Hai đường tròn (T₁) và (T₂) có vị trí tương đối như thế nào?
+b) Giả sử bán kính của (T₁) và (T₂) lần lượt là $R_1$ và $R_2$. Người ta vẽ trên mặt đồng hồ một hoạ tiết hình tròn có tâm nằm cách điểm trục kim đồng hồ một khoảng bằng $\frac{1}{2}R_1$ và có bán kính bằng $\frac{1}{2}R_2$. (T₃)
+Hãy cho biết vị trí tương đối của đường tròn (T₃) đối với mỗi đường tròn (T₁) và (T₂).
+Vẽ ba đường tròn đó nếu $R_1 = 3$ cm và $R_2 = 2$ cm.
+
+**5.30.** Cho đường tròn (O) đường kính AB, tiếp tuyến xx' tại A và tiếp tuyến yy' tại B của (O). Một tiếp tuyến thứ ba của (O) tại điểm P (P khác A và B) cắt xx' tại M và cắt yy' tại N.
+a) Chứng minh rằng $MN = MA + NB$.
+b) Đường thẳng đi qua O và vuông góc với AB cắt MN tại Q. Chứng minh rằng Q là trung điểm của đoạn MN.
+
+**5.31.** Cho hai đường tròn (O) và (O') tiếp xúc ngoài với nhau tại A và cùng tiếp xúc với đường thẳng d tại B và C (khác A), trong đó $B \in (O)$ và $C \in (O')$. Tiếp tuyến của (O) tại A cắt BC tại M. Chứng minh rằng:
+a) Đường thẳng MA tiếp xúc với (O');
+b) Điểm M là trung điểm của đoạn thẳng BC từ đó suy ra ABC là tam giác vuông.
+
+**EM CÓ BIẾT? (Đọc thêm)**
+**Vẽ chắp nối trơn**
+Trong những bản tin dự báo thời tiết trên truyền hình, các em có thể bắt gặp hình biểu tượng của đám mây như Hình 5.40.a. Quan sát đường viền của hình này, các em thấy có gì đáng chú ý?
+- Thứ nhất, đường viền gồm một đoạn thẳng và 4 cung tròn được chắp nối với nhau như Hình 5.40.b.
+- Thứ hai, trên Hình 5.40.b, ta thấy đường viền bị “gãy” tại những điểm C, D và E (đó là những điểm chắp nối giữa hai cung tròn). Trong khi đó tại điểm chắp nối giữa đoạn thẳng AB và cung tròn $\stackrel{\frown}{AQE}$, đường viền không bị “gãy”. Ta nói rằng đoạn thẳng AB được chắp nối trơn với cung $\stackrel{\frown}{AQE}$ (tại điểm A). Tương tự, cung $\stackrel{\frown}{DMC}$ cũng được chắp nối trơn với đoạn AB (tại điểm B).
+
+=============== TRANG 111 ===============
+
+Chắp nối trơn có nhiều ứng dụng trong thực tế đời sống. Chẳng hạn, tàu hoả phải chạy trên đường ray thẳng hoặc đường thẳng chắp nối trơn với đoạn đường cong (H.5.41).
+Vậy muốn có chắp nối trơn ta làm thế nào? Trước hết, ta tìm hiểu về vẽ chắp nối trơn. Cách vẽ chắp nối trơn được suy ra từ hai kết luận sau:
+1) Nếu một đoạn thẳng được chắp nối trơn với một cung tròn thì đoạn thẳng đó nằm trên tiếp tuyến của cung tròn chứa cung tròn đó tại điểm chắp nối.
+2) Nếu hai cung tròn được chắp nối trơn với nhau thì hai đường tròn chứa hai cung ấy tiếp xúc nhau tại điểm chắp nối.
+Để hiểu hai kết luận trên, em hãy chuẩn bị thước kẻ và compa để vẽ hình “trái xoan” (H.5.42) theo hướng dẫn sau:
+- Vẽ hình chữ nhật ABCD (kích thước tuỳ ý).
+- Xác định trung điểm I của đoạn AB và trung điểm K của đoạn CD.
+- Tìm giao điểm E của AK và DI; giao điểm F của BK và CI.
+- Vẽ 4 cung: $\stackrel{\frown}{AmB}$ (tâm K), $\stackrel{\frown}{CpD}$ (tâm I), $\stackrel{\frown}{BnC}$ (tâm F) và $\stackrel{\frown}{DqA}$ (tâm E).
+Bốn cung tròn vừa vẽ tạo nên hình “trái xoan”. Trong hình đó, tâm của hai cung liên tiếp, chẳng hạn, tâm K của cung $\stackrel{\frown}{AmB}$ và tâm F của cung $\stackrel{\frown}{BnC}$ thẳng hàng với điểm chắp nối B, chứng tỏ hai đường tròn (K) và (F) tiếp xúc nhau tại điểm B. Điều đó cho phép hai cung này chắp nối trơn với nhau tại B.
+Em hãy tìm hiểu tính đối xứng của các cặp cung liên tiếp còn lại để hiểu tại sao các cung tròn đã vẽ đều chắp nối trơn với nhau.
+Bây giờ em hãy tự mình tìm hiểu và trao đổi với các bạn khác về cách vẽ hai hình sau đây nhé!
+
+=============== TRANG 112 ===============
+
+**BÀI TẬP CUỐI CHƯƠNG V**
+
+**A. TRẮC NGHIỆM**
+**5.32.** Cho đường tròn (O; 4 cm) và hai điểm A, B. Biết rằng $OA = \sqrt{15}$ cm và $OB = 4$ cm. Khi đó:
+A. Điểm A nằm trong (O), điểm B nằm ngoài (O).
+B. Điểm A nằm ngoài (O), điểm B nằm trên (O).
+C. Điểm A nằm trên (O), điểm B nằm trong (O).
+D. Điểm A nằm trong (O), điểm B nằm trên (O).
+
+**5.33.** Cho Hình 5.43, trong đó BD là đường kính, $\widehat{AOB} = 40^\circ; \widehat{DOC} = 100^\circ$. Khi đó:
+A. $sđ \stackrel{\frown}{DC} = 80^\circ$ và $sđ \stackrel{\frown}{AD} = 220^\circ$.
+B. $sđ \stackrel{\frown}{DC} = 280^\circ$ và $sđ \stackrel{\frown}{AD} = 220^\circ$.
+C. $sđ \stackrel{\frown}{DC} = 280^\circ$ và $sđ \stackrel{\frown}{AD} = 140^\circ$.
+D. $sđ \stackrel{\frown}{DC} = 80^\circ$ và $sđ \stackrel{\frown}{AD} = 140^\circ$.
+
+**5.34.** Cho hai đường tròn (A; $R_1$), (B; $R_2$), trong đó $R_2 < R_1$, biết rằng hai đường tròn (A) và (B) cắt nhau (H.5.44). Khi đó:
+A. $AB < R_1 - R_2$.
+B. $R_1 - R_2 < AB < R_1 + R_2$.
+C. $AB > R_1 + R_2$.
+D. $AB = R_1 + R_2$.
+
+**5.35.** Cho đường tròn (O; R) và hai đường thẳng $a_1$ và $a_2$. Gọi $d_1, d_2$ lần lượt là khoảng cách từ O đến $a_1$ và $a_2$. Biết rằng (O) cắt $a_1$ và tiếp xúc với $a_2$ (H.5.45). Khi đó:
+A. $d_1 < R$ và $d_2 = R$.
+B. $d_1 = R$ và $d_2 = R$.
+C. $d_1 > R$ và $d_2 = R$.
+D. $d_1 < R$ và $d_2 < R$.
+
+**B. TỰ LUẬN**
+**5.36.** Cho đường tròn (O) đường kính BC và điểm A (khác B và C).
+a) Chứng minh rằng nếu A nằm trên (O) thì ABC là một tam giác vuông; ngược lại, nếu ABC là tam giác vuông tại A thì O nằm trên (O).
+
+=============== TRANG 113 ===============
+
+b) Giả sử A là một trong hai giao điểm của đường tròn (B; BO) với đường tròn (O). Tính các góc của tam giác ABC.
+c) Với cùng giả thiết câu b, tính độ dài cung AC và diện tích hình quạt nằm trong (O) giới hạn bởi các bán kính OA và OC, biết rằng $BC = 6$ cm.
+
+**5.37.** Cho AB là một dây bất kì (không phải là đường kính) của đường tròn (O; 4 cm). Gọi C và D lần lượt là các điểm đối xứng với A và B qua tâm O.
+a) Hai điểm C và D có nằm trên đường tròn (O) không? Vì sao?
+b) Biết rằng ABCD là một hình vuông. Tính độ dài cung lớn AB và diện tích hình quạt tròn tạo bởi hai bán kính OA và OB.
+
+**5.38.** Cho B nằm ở giữa hai điểm A và C, sao cho $AB = 2$ cm và $BC = 1$ cm. Vẽ các đường tròn $(A; 1,5$ cm), $(B; 3$ cm) và $(C; 2$ cm). Hãy xác định các cặp đường tròn:
+a) Cắt nhau;
+b) Không giao nhau;
+c) Tiếp xúc với nhau.
+
+**5.39.** Cho tam giác vuông ABC ($\hat{A}$ vuông). Vẽ hai đường tròn (B; BA) và (C; CA) cắt nhau tại A và A'. Chứng minh rằng:
+a) BA và BA' là hai tiếp tuyến cắt nhau của đường tròn (C; CA).
+b) CA và CA' là hai tiếp tuyến cắt nhau của đường tròn (B; BA).
+
+**5.40.** Cho hai đường tròn (O) và (O') cắt nhau tại A và B. Một đường thẳng d đi qua A cắt (O) tại E và cắt (O') tại F (E và F khác A). Biết điểm A nằm trong đoạn EF. Gọi I và K lần lượt là trung điểm của AE và AF (H.5.46).
+a) Chứng minh rằng tứ giác OO'KI là một hình thang vuông.
+b) Chứng minh rằng $IK = \frac{1}{2}EF$.
+c) Khi đó vị trí nào thì OO'KI là một hình chữ nhật?
+
+=============== TRANG 114 ===============
+
+**HOẠT ĐỘNG THỰC HÀNH TRẢI NGHIỆM**
+
+**PHA CHẾ DUNG DỊCH THEO NỒNG ĐỘ YÊU CẦU**
+
+**Mục tiêu**
+Tìm hiểu về nồng độ phần trăm và thiết kế bảng tính Excel để phục vụ việc tính toán lượng chất tan và dung môi theo yêu cầu.
+
+**Chuẩn bị:**
+- Ôn tập về nồng độ phần trăm, cách giải hệ hai phương trình bậc nhất hai ẩn.
+- Nước tinh khiết; đường cát; muối tinh khiết; cốc đo thể tích; cân đồng hồ (loại 2 kg).
+- Nếu có điều kiện, mỗi nhóm chuẩn bị một máy tính cá nhân có phần mềm bảng tính Excel.
+
+**CÁC BƯỚC THỰC HIỆN**
+**HĐ1.** Tính toán lượng chất tan và dung môi để pha chế dung dịch có nồng độ phần trăm cho trước
+Ta cần tính số gam đường cát và số gam nước tinh khiết cần thiết để có thể tạo ra $n = 1000$ (ml) dung dịch có nồng độ a%. Biết rằng khối lượng riêng của đường cát là $d = 1,1$ (g/ml) và 1 lít nước tinh khiết nặng 1 kg.
+
+Nồng độ phần trăm C của một dung dịch tính bằng công thức $C\% = \frac{m_{ct}}{m_{dd}} \times 100\%$
+trong đó:
++ $m_{ct}$: khối lượng chất tan;
++ $m_{dd}$: khối lượng dung dịch.
+
+=============== TRANG 115 ===============
+
+a) Gọi x và y (gam) lần lượt là lượng đường cát và nước cần để pha chế. Lập biểu thức tính thể tích và nồng độ dung dịch để chứng minh rằng x, y thoả mãn hệ phương trình
+$\begin{cases} \frac{x}{1,1} + y = 1000 \\ \frac{x}{x+y} \cdot 100 = a \end{cases}$.
+b) Biến đổi hệ phương trình trên về dạng hệ hai phương trình bậc nhất hai ẩn
+$\begin{cases} x + 1,1y = 1100 \\ (100-a)x - ay = 0 \end{cases}$.
+Từ đó chứng tỏ nghiệm (x; y) của hệ phương trình này là
+$x = \frac{1100a}{110 - 0,1a}$
+$y = \frac{1100(100-a)}{110 - 0,1a}$.
+c) Áp dụng: Tính lượng nước và đường cát tương ứng để pha $n = 1000$ ml nước đường với nồng độ là $a = 63\%$.
+**Chú ý.** Ở những lớp có điều kiện, có thể tiến hành thêm hoạt động sau.
+
+**HĐ2.** Xây dựng bảng tính Excel
+Thực hiện theo các bước sau để xây dựng bảng tính Excel tính toán lượng chất tan và dung môi cần thiết.
+**Bước 1.** Tạo bảng trên phần mềm Excel, điền các ô thông tin vào bảng tính.
+**Bước 2.** Nhập số liệu vào cột nồng độ phần trăm, thể tích dung dịch, khối lượng riêng của đường (1,1 g/ml).
+**Bước 3.** Sử dụng công thức nghiệm ở HĐ1 để nhập công thức vào cột lượng chất tan và lượng nước cần pha.
+**Bước 4.** Hoàn thiện bảng tính: Làm tròn số liệu sau dấu phẩy một chữ số và thêm dấu phân cách hàng nghìn cho thể tích dung dịch và khối lượng. Đóng khung cho bảng.
+
+**Thực hành**
+Tính số gam muối tinh khiết và số gam nước tinh khiết cần thiết để có thể pha chế được 1 000 ml dung dịch nước muối sinh lí 0,9%, biết rằng khối lượng riêng của muối tinh khiết là 2,16 g/ml.
+
+=============== TRANG 116 ===============
+
+**TÍNH CHIỀU CAO VÀ XÁC ĐỊNH KHOẢNG CÁCH**
+
+**Mục tiêu**
+Tính chiều cao, đo khoảng cách giữa hai vị trí mà ở giữa chúng có vật cản hoặc chỉ đến được một trong hai vị trí.
+
+Trong thực tế, nhiều tình huống chúng ta cần đo chiều cao một toà nhà, một cái cây hay đo khoảng cách giữa hai vị trí mà ở giữa chúng có vật cản hoặc chỉ đến được một trong hai vị trí. Có nhiều biện pháp hiện đại để giải quyết những biện pháp rất đơn giản. Chẳng hạn, sử dụng tỉ số lượng giác của góc nhọn. Chúng ta sẽ cùng tìm hiểu điều đó thông qua hoạt động trải nghiệm dưới đây.
+
+**Chuẩn bị:** Giác kế, thước cuộn, máy tính bỏ túi.
+
+**Thực hiện:** Chia lớp thành bốn nhóm, hai nhóm thực hiện Nhiệm vụ 1, hai nhóm thực hiện Nhiệm vụ 2. Các nhóm thực hiện các dự án theo hướng dẫn và trình bày kết quả trước lớp.
+
+**Nhiệm vụ 1. Xác định chiều cao**
+**Mục tiêu:** Xác định chiều cao của một toà nhà trong trường mà không thực hiện đo trực tiếp.
+**Chuẩn bị, xây dựng ý tưởng:** Nhóm thảo luận, xây dựng ý tưởng thực hiện nhiệm vụ và phân công nhiệm vụ.
+
+=============== TRANG 117 ===============
+
+**Bước 1.** Đặt giác kế thẳng đứng cách chân toà nhà một khoảng cách a mét, giả sử chiều cao của giác kế là b mét. Quay ống ngắm của giác kế sao cho ta nhìn thấy đỉnh B của toà nhà. Đọc trên giác kế số đo $\alpha$ của góc BCA.
+**Bước 2.** Sử dụng hệ thức giữa cạnh và góc trong $\triangle ABC$ vuông tại A và máy tính bỏ túi ta tính được $c = AB = AC \tan \alpha$.
+**Bước 3.** Tính chiều cao của toà nhà là $b + c$ (m).
+**Báo cáo kết quả:** Sau khi thực hiện đo đạc và tính toán, nhóm trình bày trước lớp và tổ chức đánh giá nhiệm vụ.
+
+**Nhiệm vụ 2. Xác định khoảng cách**
+**Mục tiêu:** Xác định khoảng cách giữa hai vị trí giả định trên sân trường (như hai điểm bên hai bờ sông). Vị trí hai điểm giả định do giáo viên xác định.
+**Chuẩn bị, xây dựng ý tưởng:** Nhóm thảo luận, xây dựng ý tưởng thực hiện nhiệm vụ và phân công nhiệm vụ.
+**Thực hiện nhiệm vụ:**
+Để đo khoảng cách giữa hai điểm A và B (giữa hai điểm này có vật cản hoặc chỉ đến được một trong hai vị trí A, B), ta thực hiện như sau:
+**Bước 1.** Từ điểm A ta kẻ tia $Ax \perp AB$. Trên tia Ax lấy điểm C sao cho $AC = a$ mét. Tại vị trí C sử dụng giác kế ngắm tới điểm B. Đọc trên giác kế số đo góc $\alpha$ của góc ACB.
+**Bước 2.** Sử dụng hệ thức giữa cạnh và góc trong $\triangle ABC$ vuông tại A và MTCT ta tính được $AB = AC \cdot \tan \alpha$.
+**Báo cáo kết quả:** Sau khi thực hiện đo đạc và tính toán, nhóm trình bày trước lớp và tổ chức đánh giá nhiệm vụ.
+
+=============== TRANG 118 ===============
+
+**BẢNG TRA CỨU TỪ NGỮ**
+
+**B**
+Bất đẳng thức 31
+Bất phương trình bậc nhất một ẩn 38
+
+**C**
+Căn bậc ba 60
+Căn bậc hai 45
+Căn thức bậc ba 61
+Căn thức bậc hai 46
+côsin của góc $\alpha$ 68
+côtang của góc $\alpha$ 68
+
+**D-Đ**
+Dây cung 87
+Diện tích hình quạt tròn 93
+Diện tích hình vành khuyên 93
+Điều kiện xác định (của căn thức bậc hai) 46
+Điều kiện xác định (của phương trình chứa ẩn ở mẫu) 28
+Độ dài cung tròn 82
+Đường tròn 83
+
+**G**
+Góc ở tâm 88
+
+**H**
+Hai bất đẳng thức cùng chiều 32
+Hai bất đẳng thức ngược chiều 32
+Hệ hai phương trình bậc nhất hai ẩn 8
+Hình quạt tròn 92
+Hình vành khuyên 92
+
+**N**
+Nghiệm của bất phương trình 39
+Nghiệm của hệ hai phương trình bậc nhất hai ẩn 8
+
+**P**
+Phương pháp cộng đại số 13
+Phương pháp thế 11
+Phương trình bậc nhất hai ẩn 6
+Phương trình chứa ẩn ở mẫu 28
+Phương trình tích 27
+
+**S**
+sin của góc $\alpha$ 68
+
+**T**
+tang của góc $\alpha$ 68
+Tâm đối xứng của đường tròn 85
+Tiếp điểm 100
+Tiếp tuyến của đường tròn 100
+Tính chất bắc cầu 32
+Trục đối xứng của đường tròn 85
+
+**V**
+Vị trí tương đối của đường thẳng và đường tròn 99
+Vị trí tương đối của hai đường tròn 104
+
+=============== TRANG 119 ===============
+
+**BẢNG GIẢI THÍCH THUẬT NGỮ**
+
+| THUẬT NGỮ | GIẢI THÍCH |
+| :--- | :--- |
+| Bất đẳng thức | Hệ thức có dạng $a > b$ (hay $a < b, a \geq b, a \leq b$). |
+| Bất phương trình bậc nhất một ẩn | Bất phương trình dạng $ax+b < 0$ (hoặc $ax+b > 0, ax+b \leq 0, ax+b \geq 0$) trong đó a, b là hai số đã cho, $a \neq 0$. |
+| Căn bậc ba của số thực a | Căn bậc ba của số thực a là số thực x sao cho $x^3 = a$. |
+| Căn bậc hai của số thực không âm a | Căn bậc hai của số thực không âm a là số thực x sao cho $x^2 = a$. |
+| Căn thức bậc hai | Biểu thức có dạng $\sqrt{A}$, trong đó A là một biểu thức đại số. |
+| Cung tròn | Phần đường tròn giới hạn bởi hai điểm trên đường tròn. |
+| Dây cung | Đoạn thẳng nối hai điểm tuỳ ý của một đường tròn. |
+| Điều kiện xác định của phương trình | Điều kiện của ẩn để các biểu thức trong phương trình có nghĩa. |
+| Giải bất phương trình | Tìm tất cả các nghiệm của một bất phương trình. |
+| Giải tam giác vuông | Tìm tất cả các cạnh và các góc của một tam giác vuông, khi biết hai cạnh hoặc một cạnh và một góc nhọn của tam giác vuông đó. |
+| Góc ở tâm | Góc có đỉnh trùng với tâm đường tròn. |
+| Hai đường tròn cắt nhau | Hai đường tròn có hai điểm chung. |
+| Hai đường tròn không giao nhau | Hai đường tròn không có điểm chung. |
+| Hai đường tròn tiếp xúc nhau | Hai đường tròn có đúng một điểm chung. |
+| Hai góc phụ nhau | Hai góc nhọn có tổng bằng $90^\circ$. |
+| Hệ hai phương trình bậc nhất hai ẩn | Một cặp gồm hai phương trình bậc nhất hai ẩn. |
+| Hình quạt tròn | Một phần hình tròn giới hạn bởi một cung tròn và hai bán kính đi qua hai mút của cung đó. |
+| Hình vành khuyên | Phần mặt phẳng giới hạn giữa hai đường tròn đồng tâm. |
+| Nghiệm của bất phương trình | Số $x_0$ là một nghiệm của bất phương trình $A(x) < B(x)$ nếu $A(x_0) < B(x_0)$ là khẳng định đúng. |
+| Nghiệm của hệ hai phương trình bậc nhất hai ẩn | Cặp số $(x_0; y_0)$ đồng thời là nghiệm của cả hai phương trình. |
+| Phép khai căn bậc hai | Phép toán tìm căn bậc hai số học của số không âm. |
+| Phương trình bậc nhất hai ẩn | Hệ thức có dạng $ax+by=c$, trong đó a, b, c là các số đã biết ($a \neq 0$ hoặc $b \neq 0$). |
+| Tỉ số lượng giác của góc nhọn | Bao gồm sin, côsin, tang và côtang của góc nhọn đó. |
+| Tiếp điểm | Điểm tiếp xúc giữa đường thẳng và đường tròn hoặc giữa hai đường tròn. |
+| Tiếp tuyến của đường tròn | Đường thẳng chỉ có một điểm chung với đường tròn. |
+| Trục căn thức ở mẫu | Phép biến đổi làm mất căn thức ở mẫu của một biểu thức. |
+
+=============== TRANG 120 ===============
+
+Nhà xuất bản Giáo dục Việt Nam trân trọng cảm ơn các tác giả có tác phẩm, tư liệu được sử dụng, trích dẫn trong cuốn sách này.
+
+**Chịu trách nhiệm xuất bản:**
+Tổng Giám đốc HOÀNG LÊ BÁCH
+
+**Chịu trách nhiệm nội dung:**
+Tổng biên tập PHẠM VĨNH THÁI
+
+**Biên tập nội dung:** ĐẶNG THỊ MINH THU – VŨ THỊ VÂN
+**Biên tập mĩ thuật:** PHẠM VIỆT QUANG
+**Thiết kế sách:** VŨ XUÂN NHƯ
+**Trình bày bìa:** NGUYỄN BÍCH LA
+**Minh hoạ:** ĐINH THANH LIÊM
+**Sửa bản in:** PHAN THỊ THANH BÌNH – PHẠM THỊ TÍNH
+**Chế bản:** CÔNG TY CỔ PHẦN DỊCH VỤ XUẤT BẢN GIÁO DỤC HÀ NỘI
+
+**Bản quyền © (2023) thuộc Nhà xuất bản Giáo dục Việt Nam.**
+Xuất bản phẩm đã đăng kí quyền tác giả. Tất cả các phần của nội dung cuốn sách này đều không được sao chép, lưu trữ, chuyển thể dưới bất kì hình thức nào khi chưa có sự cho phép bằng văn bản của Nhà xuất bản Giáo dục Việt Nam.
+
+**TOÁN 9 - TẬP MỘT**
+**Mã số:** ....
+**In ... bản, (QĐ ...) khổ 19 x 26,5 cm.**
+**Đơn vị in:** ....
+**Địa chỉ:** ....
+**Số ĐKXB:** ..../CXBIPH/...../GD.
+**Số QĐXB:** ..../QĐ - HN ngày ... tháng ... năm ....
+**In xong và nộp lưu chiểu tháng ... năm 20...**
+**Mã số ISBN:** Tập một: 978-604-0-3......
+                Tập hai: 978-604-0-3......
